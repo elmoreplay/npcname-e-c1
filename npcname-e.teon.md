@@ -1,124 +1,124 @@
-npc_begin	id=1	nickcolor=default	nick=[]	name=[Gremlin]	npc_end
+npc_begin	id=1	nickcolor=default	nick=[1]	name=[Gremlin]	npc_end
 npc_begin	id=2	nickcolor=default	nick=[]	name=[Rabbit]	npc_end
-npc_begin	id=3	nickcolor=default	nick=[]	name=[Goblin]	npc_end
-npc_begin	id=4	nickcolor=default	nick=[]	name=[Imp]	npc_end
-npc_begin	id=5	nickcolor=default	nick=[]	name=[Imp Elder]	npc_end
-npc_begin	id=6	nickcolor=default	nick=[]	name=[Orc Archer]	npc_end
-npc_begin	id=7	nickcolor=default	nick=[]	name=[Green Fungus]	npc_end
-npc_begin	id=8	nickcolor=default	nick=[]	name=[Felim Lizardman]	npc_end
-npc_begin	id=9	nickcolor=default	nick=[]	name=[Vuku Orc]	npc_end
-npc_begin	id=10	nickcolor=default	nick=[]	name=[Felim Lizardman Scout]	npc_end
-npc_begin	id=11	nickcolor=default	nick=[]	name=[Vuku Orc Archer]	npc_end
-npc_begin	id=12	nickcolor=default	nick=[]	name=[Gora Werewolf]	npc_end
-npc_begin	id=13	nickcolor=default	nick=[]	name=[Dryad]	npc_end
-npc_begin	id=14	nickcolor=default	nick=[]	name=[Felim Lizardman Warrior]	npc_end
-npc_begin	id=15	nickcolor=default	nick=[]	name=[Marsh Zombie]	npc_end
-npc_begin	id=16	nickcolor=default	nick=[]	name=[Stone Golem]	npc_end
-npc_begin	id=17	nickcolor=default	nick=[]	name=[Vuku Orc Fighter]	npc_end
-npc_begin	id=18	nickcolor=default	nick=[]	name=[Carnivorous Fungus]	npc_end
-npc_begin	id=19	nickcolor=default	nick=[]	name=[Dryad Elder]	npc_end
-npc_begin	id=20	nickcolor=default	nick=[]	name=[Marsh Zombie Lord]	npc_end
-npc_begin	id=21	nickcolor=default	nick=[]	name=[Red Bear]	npc_end
-npc_begin	id=22	nickcolor=default	nick=[]	name=[Misery Skeleton]	npc_end
-npc_begin	id=23	nickcolor=default	nick=[]	name=[Shadow Beast]	npc_end
-npc_begin	id=24	nickcolor=default	nick=[]	name=[Langk Lizardman Warrior]	npc_end
-npc_begin	id=25	nickcolor=default	nick=[]	name=[Lesser Dark Horror]	npc_end
-npc_begin	id=26	nickcolor=default	nick=[]	name=[Ruin Zombie]	npc_end
-npc_begin	id=27	nickcolor=default	nick=[]	name=[Langk Lizardman Scout]	npc_end
-npc_begin	id=28	nickcolor=default	nick=[]	name=[Pincher]	npc_end
-npc_begin	id=29	nickcolor=default	nick=[]	name=[Ruin Zombie Leader]	npc_end
-npc_begin	id=30	nickcolor=default	nick=[]	name=[Langk Lizardman]	npc_end
-npc_begin	id=31	nickcolor=default	nick=[]	name=[Omen Beast]	npc_end
-npc_begin	id=32	nickcolor=default	nick=[]	name=[Pinrul]	npc_end
-npc_begin	id=33	nickcolor=default	nick=[]	name=[Shade Horror]	npc_end
-npc_begin	id=34	nickcolor=default	nick=[]	name=[Prowler]	npc_end
-npc_begin	id=35	nickcolor=default	nick=[]	name=[Tracker Skeleton]	npc_end
-npc_begin	id=36	nickcolor=default	nick=[]	name=[Lirein]	npc_end
-npc_begin	id=37	nickcolor=default	nick=[]	name=[Mana Seeker]	npc_end
-npc_begin	id=38	nickcolor=default	nick=[]	name=[Poison Spider]	npc_end
-npc_begin	id=39	nickcolor=default	nick=[]	name=[Scavenger Wererat]	npc_end
-npc_begin	id=40	nickcolor=default	nick=[]	name=[Sukar Wererat]	npc_end
-npc_begin	id=41	nickcolor=default	nick=[]	name=[Tainted Zombie]	npc_end
-npc_begin	id=42	nickcolor=default	nick=[]	name=[Tracker Skeleton Leader]	npc_end
-npc_begin	id=43	nickcolor=default	nick=[]	name=[Arachnid Tracker]	npc_end
-npc_begin	id=44	nickcolor=default	nick=[]	name=[Lirein Elder]	npc_end
-npc_begin	id=45	nickcolor=default	nick=[]	name=[Skeleton Scout]	npc_end
-npc_begin	id=46	nickcolor=default	nick=[]	name=[Stink Zombie]	npc_end
-npc_begin	id=47	nickcolor=default	nick=[]	name=[Sukar Wererat Leader]	npc_end
-npc_begin	id=48	nickcolor=default	nick=[]	name=[Lesser Succubus]	npc_end
-npc_begin	id=49	nickcolor=default	nick=[]	name=[Lycanthrope]	npc_end
-npc_begin	id=50	nickcolor=default	nick=[]	name=[Arachnid Predator]	npc_end
-npc_begin	id=51	nickcolor=default	nick=[]	name=[Skeleton Bowman]	npc_end
-npc_begin	id=52	nickcolor=default	nick=[]	name=[Lesser Succubus Turen]	npc_end
-npc_begin	id=53	nickcolor=default	nick=[]	name=[Ol Mahum Patrol]	npc_end
-npc_begin	id=54	nickcolor=default	nick=[]	name=[Ruin Spartoi]	npc_end
-npc_begin	id=55	nickcolor=default	nick=[]	name=[Wandering Eye]	npc_end
-npc_begin	id=56	nickcolor=default	nick=[]	name=[Dre Vanul Disposer]	npc_end
-npc_begin	id=57	nickcolor=default	nick=[]	name=[Lesser Succubus Tilfo]	npc_end
-npc_begin	id=58	nickcolor=default	nick=[]	name=[Ol Mahum Guard]	npc_end
-npc_begin	id=59	nickcolor=default	nick=[]	name=[Hungry Eye]	npc_end
-npc_begin	id=60	nickcolor=default	nick=[]	name=[Raging Spartoi]	npc_end
-npc_begin	id=61	nickcolor=default	nick=[]	name=[Ol Mahum Straggler]	npc_end
-npc_begin	id=62	nickcolor=default	nick=[]	name=[Tumran Bugbear]	npc_end
-npc_begin	id=63	nickcolor=default	nick=[]	name=[Ol Mahum Shooter]	npc_end
-npc_begin	id=64	nickcolor=default	nick=[]	name=[Tumran Bugbear Warrior]	npc_end
-npc_begin	id=65	nickcolor=default	nick=[]	name=[Ol Mahum Patrolman]	npc_end
-npc_begin	id=66	nickcolor=default	nick=[]	name=[Ol Mahum Captain]	npc_end
-npc_begin	id=67	nickcolor=default	nick=[]	name=[Monster Eye Watcher]	npc_end
-npc_begin	id=68	nickcolor=default	nick=[]	name=[Monster Eye Destroyer]	npc_end
-npc_begin	id=69	nickcolor=default	nick=[]	name=[Selu Lizardman Scout]	npc_end
-npc_begin	id=70	nickcolor=default	nick=[]	name=[Lesser Basilisk]	npc_end
-npc_begin	id=71	nickcolor=default	nick=[]	name=[Selu Lizardman Warrior]	npc_end
-npc_begin	id=72	nickcolor=default	nick=[]	name=[Basilisk]	npc_end
-npc_begin	id=73	nickcolor=default	nick=[]	name=[Ol Mahum Legionnaire]	npc_end
-npc_begin	id=74	nickcolor=default	nick=[]	name=[Androscorpio]	npc_end
-npc_begin	id=75	nickcolor=default	nick=[]	name=[Ant Larva]	npc_end
-npc_begin	id=76	nickcolor=default	nick=[]	name=[Ol Mahum Commander]	npc_end
-npc_begin	id=77	nickcolor=default	nick=[]	name=[Androscorpio Hunter]	npc_end
-npc_begin	id=78	nickcolor=default	nick=[]	name=[Whispering Wind]	npc_end
-npc_begin	id=79	nickcolor=default	nick=[]	name=[Ant]	npc_end
-npc_begin	id=80	nickcolor=default	nick=[]	name=[Ant Captain]	npc_end
-npc_begin	id=81	nickcolor=default	nick=[]	name=[Ant Overseer]	npc_end
-npc_begin	id=82	nickcolor=default	nick=[]	name=[Ant Recruit]	npc_end
-npc_begin	id=83	nickcolor=default	nick=[]	name=[Granite Golem]	npc_end
-npc_begin	id=84	nickcolor=default	nick=[]	name=[Ant Patrol]	npc_end
-npc_begin	id=85	nickcolor=default	nick=[]	name=[Puncher]	npc_end
-npc_begin	id=86	nickcolor=default	nick=[]	name=[Ant Guard]	npc_end
-npc_begin	id=87	nickcolor=default	nick=[]	name=[Ant Soldier]	npc_end
-npc_begin	id=88	nickcolor=default	nick=[]	name=[Ant Warrior Captain]	npc_end
-npc_begin	id=89	nickcolor=default	nick=[]	name=[Noble Ant]	npc_end
-npc_begin	id=90	nickcolor=default	nick=[]	name=[Noble Ant Leader]	npc_end
-npc_begin	id=91	nickcolor=default	nick=[]	name=[Young Fox]	npc_end
-npc_begin	id=92	nickcolor=default	nick=[]	name=[Monster Eye]	npc_end
-npc_begin	id=93	nickcolor=default	nick=[]	name=[Orc Fighter]	npc_end
-npc_begin	id=94	nickcolor=default	nick=[]	name=[Orc Marksman]	npc_end
-npc_begin	id=95	nickcolor=default	nick=[]	name=[Vampire Bat]	npc_end
-npc_begin	id=96	nickcolor=default	nick=[]	name=[Orc Lieutenant]	npc_end
-npc_begin	id=97	nickcolor=default	nick=[]	name=[Drill Bat]	npc_end
-npc_begin	id=98	nickcolor=default	nick=[]	name=[Orc Fighter Leader]	npc_end
-npc_begin	id=99	nickcolor=default	nick=[]	name=[Skeleton]	npc_end
-npc_begin	id=100	nickcolor=default	nick=[]	name=[Skeleton Archer]	npc_end
-npc_begin	id=101	nickcolor=default	nick=[]	name=[Crasher]	npc_end
-npc_begin	id=102	nickcolor=default	nick=[]	name=[Skeleton Marksman]	npc_end
-npc_begin	id=103	nickcolor=default	nick=[]	name=[Giant Spider]	npc_end
-npc_begin	id=104	nickcolor=default	nick=[]	name=[Skeleton Lord]	npc_end
-npc_begin	id=105	nickcolor=default	nick=[]	name=[Dark Horror]	npc_end
-npc_begin	id=106	nickcolor=default	nick=[]	name=[Talon Spider]	npc_end
-npc_begin	id=107	nickcolor=default	nick=[]	name=[Wererat]	npc_end
-npc_begin	id=108	nickcolor=default	nick=[]	name=[Blade Spider]	npc_end
-npc_begin	id=109	nickcolor=default	nick=[]	name=[Salamander]	npc_end
-npc_begin	id=110	nickcolor=default	nick=[]	name=[Undine]	npc_end
-npc_begin	id=111	nickcolor=default	nick=[]	name=[Wererat Leader]	npc_end
-npc_begin	id=112	nickcolor=default	nick=[]	name=[Salamander Elder]	npc_end
-npc_begin	id=113	nickcolor=default	nick=[]	name=[Undine Elder]	npc_end
-npc_begin	id=114	nickcolor=default	nick=[]	name=[Salamander Noble]	npc_end
-npc_begin	id=115	nickcolor=default	nick=[]	name=[Undine Noble]	npc_end
-npc_begin	id=116	nickcolor=default	nick=[]	name=[Fox]	npc_end
-npc_begin	id=117	nickcolor=default	nick=[]	name=[Dre Vanul]	npc_end
-npc_begin	id=118	nickcolor=default	nick=[]	name=[Dre Vanul Scout]	npc_end
-npc_begin	id=119	nickcolor=default	nick=[]	name=[Elder Fox]	npc_end
-npc_begin	id=120	nickcolor=default	nick=[]	name=[Wolf]	npc_end
-npc_begin	id=121	nickcolor=default	nick=[]	name=[Giant Toad]	npc_end
+npc_begin	id=3	nickcolor=default	nick=[5]	name=[Goblin]	npc_end
+npc_begin	id=4	nickcolor=default	nick=[6]	name=[Imp]	npc_end
+npc_begin	id=5	nickcolor=default	nick=[7]	name=[Imp Elder]	npc_end
+npc_begin	id=6	nickcolor=default	nick=[8 archer]	name=[Orc Archer]	npc_end
+npc_begin	id=7	nickcolor=default	nick=[9]	name=[Green Fungus]	npc_end
+npc_begin	id=8	nickcolor=default	nick=[14]	name=[Felim Lizardman]	npc_end
+npc_begin	id=9	nickcolor=default	nick=[14]	name=[Vuku Orc]	npc_end
+npc_begin	id=10	nickcolor=default	nick=[15]	name=[Felim Lizardman Scout]	npc_end
+npc_begin	id=11	nickcolor=default	nick=[15 archer]	name=[Vuku Orc Archer]	npc_end
+npc_begin	id=12	nickcolor=default	nick=[16 aggr]	name=[Gora Werewolf]	npc_end
+npc_begin	id=13	nickcolor=default	nick=[13]	name=[Dryad]	npc_end
+npc_begin	id=14	nickcolor=default	nick=[17]	name=[Felim Lizardman Warrior]	npc_end
+npc_begin	id=15	nickcolor=default	nick=[13 c.dmg]	name=[Marsh Zombie]	npc_end
+npc_begin	id=16	nickcolor=default	nick=[13 c.dmg]	name=[Stone Golem]	npc_end
+npc_begin	id=17	nickcolor=default	nick=[17 aggr]	name=[Vuku Orc Fighter]	npc_end
+npc_begin	id=18	nickcolor=default	nick=[14]	name=[Carnivorous Fungus]	npc_end
+npc_begin	id=19	nickcolor=default	nick=[14]	name=[Dryad Elder]	npc_end
+npc_begin	id=20	nickcolor=default	nick=[14 c.dmg]	name=[Marsh Zombie Lord]	npc_end
+npc_begin	id=21	nickcolor=default	nick=[14]	name=[Red Bear]	npc_end
+npc_begin	id=22	nickcolor=default	nick=[14 aggr]	name=[Misery Skeleton]	npc_end
+npc_begin	id=23	nickcolor=default	nick=[15]	name=[Shadow Beast]	npc_end
+npc_begin	id=24	nickcolor=default	nick=[17 aggr]	name=[Langk Lizardman Warrior]	npc_end
+npc_begin	id=25	nickcolor=default	nick=[15 aggr]	name=[Lesser Dark Horror]	npc_end
+npc_begin	id=26	nickcolor=default	nick=[15 c.dmg]	name=[Ruin Zombie]	npc_end
+npc_begin	id=27	nickcolor=default	nick=[16]	name=[Langk Lizardman Scout]	npc_end
+npc_begin	id=28	nickcolor=default	nick=[16]	name=[Pincher]	npc_end
+npc_begin	id=29	nickcolor=default	nick=[16 c.dmg]	name=[Ruin Zombie Leader]	npc_end
+npc_begin	id=30	nickcolor=default	nick=[15]	name=[Langk Lizardman]	npc_end
+npc_begin	id=31	nickcolor=default	nick=[17]	name=[Omen Beast]	npc_end
+npc_begin	id=32	nickcolor=default	nick=[17]	name=[Pinrul]	npc_end
+npc_begin	id=33	nickcolor=default	nick=[17]	name=[Shade Horror]	npc_end
+npc_begin	id=34	nickcolor=default	nick=[17 aggr]	name=[Prowler]	npc_end
+npc_begin	id=35	nickcolor=default	nick=[17]	name=[Tracker Skeleton]	npc_end
+npc_begin	id=36	nickcolor=default	nick=[18 aggr]	name=[Lirein]	npc_end
+npc_begin	id=37	nickcolor=default	nick=[18]	name=[Mana Seeker]	npc_end
+npc_begin	id=38	nickcolor=default	nick=[18 c.curse]	name=[Poison Spider]	npc_end
+npc_begin	id=39	nickcolor=default	nick=[18]	name=[Scavenger Wererat]	npc_end
+npc_begin	id=40	nickcolor=default	nick=[18]	name=[Sukar Wererat]	npc_end
+npc_begin	id=41	nickcolor=default	nick=[18 c.dmg]	name=[Tainted Zombie]	npc_end
+npc_begin	id=42	nickcolor=default	nick=[18 aggr]	name=[Tracker Skeleton Leader]	npc_end
+npc_begin	id=43	nickcolor=default	nick=[19 aggr]	name=[Arachnid Tracker]	npc_end
+npc_begin	id=44	nickcolor=default	nick=[19 aggr]	name=[Lirein Elder]	npc_end
+npc_begin	id=45	nickcolor=default	nick=[19 archer]	name=[Skeleton Scout]	npc_end
+npc_begin	id=46	nickcolor=default	nick=[19 c.dmg]	name=[Stink Zombie]	npc_end
+npc_begin	id=47	nickcolor=default	nick=[19 aggr]	name=[Sukar Wererat Leader]	npc_end
+npc_begin	id=48	nickcolor=default	nick=[20 aggr (c.sleep)]	name=[Lesser Succubus]	npc_end
+npc_begin	id=49	nickcolor=default	nick=[20 aggr]	name=[Lycanthrope]	npc_end
+npc_begin	id=50	nickcolor=default	nick=[20 aggr]	name=[Arachnid Predator]	npc_end
+npc_begin	id=51	nickcolor=default	nick=[20 archer]	name=[Skeleton Bowman]	npc_end
+npc_begin	id=52	nickcolor=default	nick=[21 aggr (c.sleep)]	name=[Lesser Succubus Turen]	npc_end
+npc_begin	id=53	nickcolor=default	nick=[21 archer]	name=[Ol Mahum Patrol]	npc_end
+npc_begin	id=54	nickcolor=default	nick=[21]	name=[Ruin Spartoi]	npc_end
+npc_begin	id=55	nickcolor=default	nick=[21 c.hold]	name=[Wandering Eye]	npc_end
+npc_begin	id=56	nickcolor=default	nick=[22]	name=[Dre Vanul Disposer]	npc_end
+npc_begin	id=57	nickcolor=default	nick=[22 aggr (c.hold)]	name=[Lesser Succubus Tilfo]	npc_end
+npc_begin	id=58	nickcolor=default	nick=[22 coward]	name=[Ol Mahum Guard]	npc_end
+npc_begin	id=59	nickcolor=default	nick=[22 c.hold]	name=[Hungry Eye]	npc_end
+npc_begin	id=60	nickcolor=default	nick=[22 aggr]	name=[Raging Spartoi]	npc_end
+npc_begin	id=61	nickcolor=default	nick=[23 aggr (coward)]	name=[Ol Mahum Straggler]	npc_end
+npc_begin	id=62	nickcolor=default	nick=[23]	name=[Tumran Bugbear]	npc_end
+npc_begin	id=63	nickcolor=default	nick=[24 archer]	name=[Ol Mahum Shooter]	npc_end
+npc_begin	id=64	nickcolor=default	nick=[24 aggr]	name=[Tumran Bugbear Warrior]	npc_end
+npc_begin	id=65	nickcolor=default	nick=[25]	name=[Ol Mahum Patrolman]	npc_end
+npc_begin	id=66	nickcolor=default	nick=[25 aggr (buffs)]	name=[Ol Mahum Captain]	npc_end
+npc_begin	id=67	nickcolor=default	nick=[25 c.hold]	name=[Monster Eye Watcher]	npc_end
+npc_begin	id=68	nickcolor=default	nick=[26 aggr (hold)]	name=[Monster Eye Destroyer]	npc_end
+npc_begin	id=69	nickcolor=default	nick=[26]	name=[Selu Lizardman Scout]	npc_end
+npc_begin	id=70	nickcolor=default	nick=[27 aggr]	name=[Lesser Basilisk]	npc_end
+npc_begin	id=71	nickcolor=default	nick=[27 aggr]	name=[Selu Lizardman Warrior]	npc_end
+npc_begin	id=72	nickcolor=default	nick=[28 aggr]	name=[Basilisk]	npc_end
+npc_begin	id=73	nickcolor=default	nick=[28]	name=[Ol Mahum Legionnaire]	npc_end
+npc_begin	id=74	nickcolor=default	nick=[29]	name=[Androscorpio]	npc_end
+npc_begin	id=75	nickcolor=default	nick=[29]	name=[Ant Larva]	npc_end
+npc_begin	id=76	nickcolor=default	nick=[29 aggr (buffs)]	name=[Ol Mahum Commander]	npc_end
+npc_begin	id=77	nickcolor=default	nick=[30]	name=[Androscorpio Hunter]	npc_end
+npc_begin	id=78	nickcolor=default	nick=[30 c.sleep]	name=[Whispering Wind]	npc_end
+npc_begin	id=79	nickcolor=default	nick=[31]	name=[Ant]	npc_end
+npc_begin	id=80	nickcolor=default	nick=[31 aggr]	name=[Ant Captain]	npc_end
+npc_begin	id=81	nickcolor=default	nick=[32]	name=[Ant Overseer]	npc_end
+npc_begin	id=82	nickcolor=default	nick=[33 c.curse]	name=[Ant Recruit]	npc_end
+npc_begin	id=83	nickcolor=default	nick=[33]	name=[Granite Golem]	npc_end
+npc_begin	id=84	nickcolor=default	nick=[34]	name=[Ant Patrol]	npc_end
+npc_begin	id=85	nickcolor=default	nick=[34 aggr]	name=[Puncher]	npc_end
+npc_begin	id=86	nickcolor=default	nick=[35]	name=[Ant Guard]	npc_end
+npc_begin	id=87	nickcolor=default	nick=[35 aggr]	name=[Ant Soldier]	npc_end
+npc_begin	id=88	nickcolor=default	nick=[36 aggr]	name=[Ant Warrior Captain]	npc_end
+npc_begin	id=89	nickcolor=default	nick=[37]	name=[Noble Ant]	npc_end
+npc_begin	id=90	nickcolor=default	nick=[38 aggr]	name=[Noble Ant Leader]	npc_end
+npc_begin	id=91	nickcolor=default	nick=[1]	name=[Young Fox]	npc_end
+npc_begin	id=92	nickcolor=default	nick=[10]	name=[Monster Eye]	npc_end
+npc_begin	id=93	nickcolor=default	nick=[10 aggr]	name=[Orc Fighter]	npc_end
+npc_begin	id=94	nickcolor=default	nick=[10]	name=[Orc Marksman]	npc_end
+npc_begin	id=95	nickcolor=default	nick=[10]	name=[Vampire Bat]	npc_end
+npc_begin	id=96	nickcolor=default	nick=[11]	name=[Orc Lieutenant]	npc_end
+npc_begin	id=97	nickcolor=default	nick=[11]	name=[Drill Bat]	npc_end
+npc_begin	id=98	nickcolor=default	nick=[12 aggr (selfbuffs)]	name=[Orc Fighter Leader]	npc_end
+npc_begin	id=99	nickcolor=default	nick=[12 aggr]	name=[Skeleton]	npc_end
+npc_begin	id=100	nickcolor=default	nick=[13 aggr (archer)]	name=[Skeleton Archer]	npc_end
+npc_begin	id=101	nickcolor=default	nick=[14 c.dmg]	name=[Crasher]	npc_end
+npc_begin	id=102	nickcolor=default	nick=[14 archer]	name=[Skeleton Marksman]	npc_end
+npc_begin	id=103	nickcolor=default	nick=[15 aggr]	name=[Giant Spider]	npc_end
+npc_begin	id=104	nickcolor=default	nick=[15]	name=[Skeleton Lord]	npc_end
+npc_begin	id=105	nickcolor=default	nick=[16 aggr]	name=[Dark Horror]	npc_end
+npc_begin	id=106	nickcolor=default	nick=[16]	name=[Talon Spider]	npc_end
+npc_begin	id=107	nickcolor=default	nick=[16]	name=[Wererat]	npc_end
+npc_begin	id=108	nickcolor=default	nick=[17 aggr]	name=[Blade Spider]	npc_end
+npc_begin	id=109	nickcolor=default	nick=[17]	name=[Salamander]	npc_end
+npc_begin	id=110	nickcolor=default	nick=[17 aggr (c.dmg)]	name=[Undine]	npc_end
+npc_begin	id=111	nickcolor=default	nick=[17]	name=[Wererat Leader]	npc_end
+npc_begin	id=112	nickcolor=default	nick=[18]	name=[Salamander Elder]	npc_end
+npc_begin	id=113	nickcolor=default	nick=[18]	name=[Undine Elder]	npc_end
+npc_begin	id=114	nickcolor=default	nick=[19]	name=[Salamander Noble]	npc_end
+npc_begin	id=115	nickcolor=default	nick=[19]	name=[Undine Noble]	npc_end
+npc_begin	id=116	nickcolor=default	nick=[2]	name=[Fox]	npc_end
+npc_begin	id=117	nickcolor=default	nick=[20 aggr]	name=[Dre Vanul]	npc_end
+npc_begin	id=118	nickcolor=default	nick=[21 aggr]	name=[Dre Vanul Scout]	npc_end
+npc_begin	id=119	nickcolor=default	nick=[3]	name=[Elder Fox]	npc_end
+npc_begin	id=120	nickcolor=default	nick=[4]	name=[Wolf]	npc_end
+npc_begin	id=121	nickcolor=default	nick=[5]	name=[Giant Toad]	npc_end
 npc_begin	id=122	nickcolor=default	nick=[]	name=[Arachne]	npc_end
 npc_begin	id=123	nickcolor=default	nick=[]	name=[Bloody Pixy]	npc_end
 npc_begin	id=124	nickcolor=default	nick=[]	name=[Dark Pan]	npc_end
@@ -127,55 +127,55 @@ npc_begin	id=126	nickcolor=default	nick=[]	name=[Pixy]	npc_end
 npc_begin	id=127	nickcolor=default	nick=[]	name=[Red Arachne]	npc_end
 npc_begin	id=128	nickcolor=default	nick=[]	name=[Blight Treant]	npc_end
 npc_begin	id=129	nickcolor=default	nick=[]	name=[Treant]	npc_end
-npc_begin	id=130	nickcolor=default	nick=[]	name=[Orc]	npc_end
-npc_begin	id=131	nickcolor=default	nick=[]	name=[Orc Grunt]	npc_end
-npc_begin	id=132	nickcolor=default	nick=[]	name=[Werewolf]	npc_end
-npc_begin	id=133	nickcolor=default	nick=[]	name=[Bugbear]	npc_end
-npc_begin	id=134	nickcolor=default	nick=[]	name=[Cave Maiden]	npc_end
-npc_begin	id=135	nickcolor=default	nick=[]	name=[Crocodile]	npc_end
-npc_begin	id=136	nickcolor=default	nick=[]	name=[Death Knight]	npc_end
-npc_begin	id=137	nickcolor=default	nick=[]	name=[Drake]	npc_end
-npc_begin	id=138	nickcolor=default	nick=[]	name=[Gargoyle]	npc_end
-npc_begin	id=139	nickcolor=default	nick=[]	name=[Giant Bee]	npc_end
-npc_begin	id=140	nickcolor=default	nick=[]	name=[Giant Leech]	npc_end
-npc_begin	id=141	nickcolor=default	nick=[]	name=[Giant Wild Hog]	npc_end
-npc_begin	id=142	nickcolor=default	nick=[]	name=[Griffon]	npc_end
-npc_begin	id=143	nickcolor=default	nick=[]	name=[Grizzly]	npc_end
-npc_begin	id=144	nickcolor=default	nick=[]	name=[Hangman Tree]	npc_end
-npc_begin	id=145	nickcolor=default	nick=[]	name=[Harpy]	npc_end
-npc_begin	id=146	nickcolor=default	nick=[]	name=[Headless Knight]	npc_end
-npc_begin	id=147	nickcolor=default	nick=[]	name=[Hobgoblin]	npc_end
-npc_begin	id=148	nickcolor=default	nick=[]	name=[Hungry Spirit]	npc_end
-npc_begin	id=149	nickcolor=default	nick=[]	name=[Iron Golem]	npc_end
-npc_begin	id=150	nickcolor=default	nick=[]	name=[King Bugbear]	npc_end
-npc_begin	id=151	nickcolor=default	nick=[]	name=[Kobold]	npc_end
-npc_begin	id=152	nickcolor=default	nick=[]	name=[Lizardman]	npc_end
-npc_begin	id=153	nickcolor=default	nick=[]	name=[Magical Weaver]	npc_end
-npc_begin	id=154	nickcolor=default	nick=[]	name=[Mandragora Sprout]	npc_end
-npc_begin	id=155	nickcolor=default	nick=[]	name=[Mandragora Sapling]	npc_end
-npc_begin	id=156	nickcolor=default	nick=[]	name=[Mandragora Blossom]	npc_end
-npc_begin	id=157	nickcolor=default	nick=[]	name=[Marsh Stakato]	npc_end
-npc_begin	id=158	nickcolor=default	nick=[]	name=[Medusa]	npc_end
-npc_begin	id=159	nickcolor=default	nick=[]	name=[Minotaur]	npc_end
-npc_begin	id=160	nickcolor=default	nick=[]	name=[Neer Crawler]	npc_end
-npc_begin	id=161	nickcolor=default	nick=[]	name=[Oel Mahum]	npc_end
-npc_begin	id=162	nickcolor=default	nick=[]	name=[Ogre]	npc_end
-npc_begin	id=163	nickcolor=default	nick=[]	name=[Ol Mahum]	npc_end
-npc_begin	id=164	nickcolor=default	nick=[]	name=[Ol Mahum Archer]	npc_end
-npc_begin	id=165	nickcolor=default	nick=[]	name=[Ol Mahum Champion]	npc_end
-npc_begin	id=166	nickcolor=default	nick=[]	name=[Succubus]	npc_end
-npc_begin	id=167	nickcolor=default	nick=[]	name=[Serpent Slave]	npc_end
-npc_begin	id=168	nickcolor=default	nick=[]	name=[Silenos]	npc_end
-npc_begin	id=169	nickcolor=default	nick=[]	name=[Skeleton Royal Guard]	npc_end
-npc_begin	id=170	nickcolor=default	nick=[]	name=[Spartoi]	npc_end
-npc_begin	id=171	nickcolor=default	nick=[]	name=[Specter]	npc_end
-npc_begin	id=172	nickcolor=default	nick=[]	name=[Sylph]	npc_end
-npc_begin	id=173	nickcolor=default	nick=[]	name=[Troll]	npc_end
-npc_begin	id=174	nickcolor=default	nick=[]	name=[Two-Headed Giant]	npc_end
-npc_begin	id=175	nickcolor=default	nick=[]	name=[Walking Fungus]	npc_end
-npc_begin	id=176	nickcolor=default	nick=[]	name=[Wyrm]	npc_end
-npc_begin	id=177	nickcolor=default	nick=[]	name=[Zombie]	npc_end
-npc_begin	id=178	nickcolor=default	nick=[]	name=[Skeleton Knight]	npc_end
+npc_begin	id=130	nickcolor=default	nick=[6]	name=[Orc]	npc_end
+npc_begin	id=131	nickcolor=default	nick=[7]	name=[Orc Grunt]	npc_end
+npc_begin	id=132	nickcolor=default	nick=[9]	name=[Werewolf]	npc_end
+npc_begin	id=133	nickcolor=default	nick=[21]	name=[Bugbear]	npc_end
+npc_begin	id=134	nickcolor=default	nick=[59 aggr (c.hold)]	name=[Cave Maiden]	npc_end
+npc_begin	id=135	nickcolor=default	nick=[25]	name=[Crocodile]	npc_end
+npc_begin	id=136	nickcolor=default	nick=[50 aggr]	name=[Death Knight]	npc_end
+npc_begin	id=137	nickcolor=default	nick=[57 aggr (c.dmg)]	name=[Drake]	npc_end
+npc_begin	id=138	nickcolor=default	nick=[27]	name=[Gargoyle]	npc_end
+npc_begin	id=139	nickcolor=default	nick=[16]	name=[Giant Bee]	npc_end
+npc_begin	id=140	nickcolor=default	nick=[24]	name=[Giant Leech]	npc_end
+npc_begin	id=141	nickcolor=default	nick=[47]	name=[Giant Wild Hog]	npc_end
+npc_begin	id=142	nickcolor=default	nick=[20]	name=[Griffon]	npc_end
+npc_begin	id=143	nickcolor=default	nick=[12 aggr]	name=[Grizzly]	npc_end
+npc_begin	id=144	nickcolor=default	nick=[35 aggr (c.hold)]	name=[Hangman Tree]	npc_end
+npc_begin	id=145	nickcolor=default	nick=[32 aggr]	name=[Harpy]	npc_end
+npc_begin	id=146	nickcolor=default	nick=[50 aggr (c.dmg)]	name=[Headless Knight]	npc_end
+npc_begin	id=147	nickcolor=default	nick=[21]	name=[Hobgoblin]	npc_end
+npc_begin	id=148	nickcolor=default	nick=[40]	name=[Hungry Spirit]	npc_end
+npc_begin	id=149	nickcolor=default	nick=[38]	name=[Iron Golem]	npc_end
+npc_begin	id=150	nickcolor=default	nick=[32]	name=[King Bugbear]	npc_end
+npc_begin	id=151	nickcolor=default	nick=[4]	name=[Kobold]	npc_end
+npc_begin	id=152	nickcolor=default	nick=[19]	name=[Lizardman]	npc_end
+npc_begin	id=153	nickcolor=default	nick=[11 c.dmg]	name=[Magical Weaver]	npc_end
+npc_begin	id=154	nickcolor=default	nick=[21]	name=[Mandragora Sprout]	npc_end
+npc_begin	id=155	nickcolor=default	nick=[23 aggr]	name=[Mandragora Sapling]	npc_end
+npc_begin	id=156	nickcolor=default	nick=[25 aggr]	name=[Mandragora Blossom]	npc_end
+npc_begin	id=157	nickcolor=default	nick=[29 aggr (patk)]	name=[Marsh Stakato]	npc_end
+npc_begin	id=158	nickcolor=default	nick=[34 aggr]	name=[Medusa]	npc_end
+npc_begin	id=159	nickcolor=default	nick=[43]	name=[Minotaur]	npc_end
+npc_begin	id=160	nickcolor=default	nick=[28 aggr]	name=[Neer Crawler]	npc_end
+npc_begin	id=161	nickcolor=default	nick=[53 aggr]	name=[Oel Mahum]	npc_end
+npc_begin	id=162	nickcolor=default	nick=[41]	name=[Ogre]	npc_end
+npc_begin	id=163	nickcolor=default	nick=[23]	name=[Ol Mahum]	npc_end
+npc_begin	id=164	nickcolor=default	nick=[25]	name=[Ol Mahum Archer]	npc_end
+npc_begin	id=165	nickcolor=default	nick=[29]	name=[Ol Mahum Champion]	npc_end
+npc_begin	id=166	nickcolor=default	nick=[32]	name=[Succubus]	npc_end
+npc_begin	id=167	nickcolor=default	nick=[40]	name=[Serpent Slave]	npc_end
+npc_begin	id=168	nickcolor=default	nick=[30]	name=[Silenos]	npc_end
+npc_begin	id=169	nickcolor=default	nick=[26]	name=[Skeleton Royal Guard]	npc_end
+npc_begin	id=170	nickcolor=default	nick=[15]	name=[Spartoi]	npc_end
+npc_begin	id=171	nickcolor=default	nick=[26 aggr]	name=[Specter]	npc_end
+npc_begin	id=172	nickcolor=default	nick=[10]	name=[Sylph]	npc_end
+npc_begin	id=173	nickcolor=default	nick=[33]	name=[Troll]	npc_end
+npc_begin	id=174	nickcolor=default	nick=[35]	name=[Two-Headed Giant]	npc_end
+npc_begin	id=175	nickcolor=default	nick=[8]	name=[Walking Fungus]	npc_end
+npc_begin	id=176	nickcolor=default	nick=[35 aggr]	name=[Wyrm]	npc_end
+npc_begin	id=177	nickcolor=default	nick=[6]	name=[Zombie]	npc_end
+npc_begin	id=178	nickcolor=default	nick=[32]	name=[Skeleton Knight]	npc_end
 npc_begin	id=179	nickcolor=default	nick=[]	name=[Lichking Nassen]	npc_end
 npc_begin	id=180	nickcolor=default	nick=[]	name=[Greater Stone Golem]	npc_end
 npc_begin	id=181	nickcolor=default	nick=[]	name=[Grace Unicorn]	npc_end
@@ -186,540 +186,540 @@ npc_begin	id=185	nickcolor=default	nick=[]	name=[Maelstrom Undine]	npc_end
 npc_begin	id=186	nickcolor=default	nick=[]	name=[Greater Dre Vanul]	npc_end
 npc_begin	id=187	nickcolor=default	nick=[]	name=[Voiceless Knight]	npc_end
 npc_begin	id=188	nickcolor=default	nick=[]	name=[Sting Spider]	npc_end
-npc_begin	id=189	nickcolor=default	nick=[]	name=[Puma]	npc_end
-npc_begin	id=190	nickcolor=default	nick=[]	name=[Skeleton Marauder]	npc_end
-npc_begin	id=191	nickcolor=default	nick=[]	name=[Skeleton Raider]	npc_end
-npc_begin	id=192	nickcolor=default	nick=[]	name=[Tyrant]	npc_end
-npc_begin	id=193	nickcolor=default	nick=[]	name=[Tyrant Kingpin]	npc_end
-npc_begin	id=194	nickcolor=default	nick=[]	name=[Queen Undine]	npc_end
+npc_begin	id=189	nickcolor=default	nick=[12]	name=[Puma]	npc_end
+npc_begin	id=190	nickcolor=default	nick=[29 aggr (archer)]	name=[Skeleton Marauder]	npc_end
+npc_begin	id=191	nickcolor=default	nick=[30 aggr]	name=[Skeleton Raider]	npc_end
+npc_begin	id=192	nickcolor=default	nick=[35]	name=[Tyrant]	npc_end
+npc_begin	id=193	nickcolor=default	nick=[36 aggr]	name=[Tyrant Kingpin]	npc_end
+npc_begin	id=194	nickcolor=default	nick=[50]	name=[Queen Undine]	npc_end
 npc_begin	id=195	nickcolor=default	nick=[]	name=[Pixy Murika]	npc_end
 npc_begin	id=196	nickcolor=default	nick=[]	name=[Treant Bremec]	npc_end
-npc_begin	id=197	nickcolor=default	nick=[]	name=[Sorrow Maiden]	npc_end
-npc_begin	id=198	nickcolor=default	nick=[]	name=[Neer Ghoul Berserker]	npc_end
-npc_begin	id=199	nickcolor=default	nick=[]	name=[Amber Basilisk]	npc_end
-npc_begin	id=200	nickcolor=default	nick=[]	name=[Strain]	npc_end
-npc_begin	id=201	nickcolor=default	nick=[]	name=[Ghoul]	npc_end
-npc_begin	id=202	nickcolor=default	nick=[]	name=[Dead Seeker]	npc_end
-npc_begin	id=203	nickcolor=default	nick=[]	name=[Dion Grizzly]	npc_end
-npc_begin	id=204	nickcolor=default	nick=[]	name=[Bloody Bee]	npc_end
-npc_begin	id=205	nickcolor=default	nick=[]	name=[Dire Wolf]	npc_end
-npc_begin	id=206	nickcolor=default	nick=[]	name=[Kadif Werewolf]	npc_end
-npc_begin	id=207	nickcolor=default	nick=[]	name=[Ol Mahum Guerilla]	npc_end
-npc_begin	id=208	nickcolor=default	nick=[]	name=[Ol Mahum Raider]	npc_end
-npc_begin	id=209	nickcolor=default	nick=[]	name=[Ol Mahum Marksman]	npc_end
-npc_begin	id=210	nickcolor=default	nick=[]	name=[Ol Mahum Sergeant]	npc_end
-npc_begin	id=211	nickcolor=default	nick=[]	name=[Ol Mahum Captain]	npc_end
-npc_begin	id=212	nickcolor=default	nick=[]	name=[Turmak]	npc_end
-npc_begin	id=213	nickcolor=default	nick=[]	name=[Porta]	npc_end
-npc_begin	id=214	nickcolor=default	nick=[]	name=[Excuro]	npc_end
-npc_begin	id=215	nickcolor=default	nick=[]	name=[Mordeo]	npc_end
-npc_begin	id=216	nickcolor=default	nick=[]	name=[Ricenseo]	npc_end
-npc_begin	id=217	nickcolor=default	nick=[]	name=[Krator]	npc_end
-npc_begin	id=218	nickcolor=default	nick=[]	name=[Premo]	npc_end
-npc_begin	id=219	nickcolor=default	nick=[]	name=[Validus]	npc_end
-npc_begin	id=220	nickcolor=default	nick=[]	name=[Dicor]	npc_end
-npc_begin	id=221	nickcolor=default	nick=[]	name=[Perum]	npc_end
-npc_begin	id=222	nickcolor=default	nick=[]	name=[Torfe]	npc_end
-npc_begin	id=223	nickcolor=default	nick=[]	name=[Mandragora Sprout]	npc_end
-npc_begin	id=224	nickcolor=default	nick=[]	name=[Ol Mahum Ranger]	npc_end
-npc_begin	id=225	nickcolor=default	nick=[]	name=[Giant Mist Leech]	npc_end
-npc_begin	id=226	nickcolor=default	nick=[]	name=[Gray Ant]	npc_end
-npc_begin	id=227	nickcolor=default	nick=[]	name=[Horror Mist Ripper]	npc_end
-npc_begin	id=228	nickcolor=default	nick=[]	name=[Giant Crimson Ant]	npc_end
-npc_begin	id=229	nickcolor=default	nick=[]	name=[Stinger Wasp]	npc_end
-npc_begin	id=230	nickcolor=default	nick=[]	name=[Marsh Stakato Worker]	npc_end
-npc_begin	id=231	nickcolor=default	nick=[]	name=[Toad Lord]	npc_end
-npc_begin	id=232	nickcolor=default	nick=[]	name=[Marsh Stakato Soldier]	npc_end
-npc_begin	id=233	nickcolor=default	nick=[]	name=[Marsh Spider]	npc_end
-npc_begin	id=234	nickcolor=default	nick=[]	name=[Marsh Stakato Drone]	npc_end
-npc_begin	id=235	nickcolor=default	nick=[]	name=[Shackle]	npc_end
-npc_begin	id=236	nickcolor=default	nick=[]	name=[Cave Servant]	npc_end
-npc_begin	id=237	nickcolor=default	nick=[]	name=[Cave Servant Archer]	npc_end
-npc_begin	id=238	nickcolor=default	nick=[]	name=[Cave Servant Warrior]	npc_end
-npc_begin	id=239	nickcolor=default	nick=[]	name=[Cave Servant Captain]	npc_end
-npc_begin	id=240	nickcolor=default	nick=[]	name=[Royal Cave Servant]	npc_end
-npc_begin	id=241	nickcolor=default	nick=[]	name=[Hunter Gargoyle]	npc_end
-npc_begin	id=242	nickcolor=default	nick=[]	name=[Dustwind Gargoyle]	npc_end
-npc_begin	id=243	nickcolor=default	nick=[]	name=[Thunder Wyrm]	npc_end
-npc_begin	id=244	nickcolor=default	nick=[]	name=[Malruk Succubus]	npc_end
-npc_begin	id=245	nickcolor=default	nick=[]	name=[Malruk Succubus Turen]	npc_end
-npc_begin	id=246	nickcolor=default	nick=[]	name=[Cave Keeper]	npc_end
-npc_begin	id=247	nickcolor=default	nick=[]	name=[Bloody Queen]	npc_end
-npc_begin	id=248	nickcolor=default	nick=[]	name=[Turak Bugbear]	npc_end
-npc_begin	id=249	nickcolor=default	nick=[]	name=[Turak Bugbear Warrior]	npc_end
-npc_begin	id=250	nickcolor=default	nick=[]	name=[Glass Jaguar]	npc_end
-npc_begin	id=251	nickcolor=default	nick=[]	name=[Delu Lizardman]	npc_end
-npc_begin	id=252	nickcolor=default	nick=[]	name=[Delu Lizardman Scout]	npc_end
-npc_begin	id=253	nickcolor=default	nick=[]	name=[Delu Lizardman Warrior]	npc_end
-npc_begin	id=254	nickcolor=default	nick=[]	name=[Skeleton Axeman]	npc_end
-npc_begin	id=255	nickcolor=default	nick=[]	name=[Batur Orc]	npc_end
-npc_begin	id=256	nickcolor=default	nick=[]	name=[Batur Orc Archer]	npc_end
-npc_begin	id=257	nickcolor=default	nick=[]	name=[Batur Orc Warrior]	npc_end
+npc_begin	id=197	nickcolor=default	nick=[27 c.dmg]	name=[Sorrow Maiden]	npc_end
+npc_begin	id=198	nickcolor=default	nick=[29 aggr]	name=[Neer Ghoul Berserker]	npc_end
+npc_begin	id=199	nickcolor=default	nick=[30]	name=[Amber Basilisk]	npc_end
+npc_begin	id=200	nickcolor=default	nick=[31]	name=[Strain]	npc_end
+npc_begin	id=201	nickcolor=default	nick=[32 c.dmg]	name=[Ghoul]	npc_end
+npc_begin	id=202	nickcolor=default	nick=[34]	name=[Dead Seeker]	npc_end
+npc_begin	id=203	nickcolor=default	nick=[20]	name=[Dion Grizzly]	npc_end
+npc_begin	id=204	nickcolor=default	nick=[23 c.curse]	name=[Bloody Bee]	npc_end
+npc_begin	id=205	nickcolor=default	nick=[24 aggr]	name=[Dire Wolf]	npc_end
+npc_begin	id=206	nickcolor=default	nick=[25]	name=[Kadif Werewolf]	npc_end
+npc_begin	id=207	nickcolor=default	nick=[26 coward]	name=[Ol Mahum Guerilla]	npc_end
+npc_begin	id=208	nickcolor=default	nick=[27 coward]	name=[Ol Mahum Raider]	npc_end
+npc_begin	id=209	nickcolor=default	nick=[28 archer]	name=[Ol Mahum Marksman]	npc_end
+npc_begin	id=210	nickcolor=default	nick=[29 coward]	name=[Ol Mahum Sergeant]	npc_end
+npc_begin	id=211	nickcolor=default	nick=[30 aggr (coward)]	name=[Ol Mahum Captain B]	npc_end
+npc_begin	id=212	nickcolor=default	nick=[34]	name=[Turmak]	npc_end
+npc_begin	id=213	nickcolor=default	nick=[40]	name=[Porta]	npc_end
+npc_begin	id=214	nickcolor=default	nick=[41 c.dmg]	name=[Excuro]	npc_end
+npc_begin	id=215	nickcolor=default	nick=[42]	name=[Mordeo]	npc_end
+npc_begin	id=216	nickcolor=default	nick=[43 c.hold]	name=[Ricenseo]	npc_end
+npc_begin	id=217	nickcolor=default	nick=[44 aggr (c.dmg)]	name=[Krator]	npc_end
+npc_begin	id=218	nickcolor=default	nick=[45 ratk]	name=[Premo]	npc_end
+npc_begin	id=219	nickcolor=default	nick=[46]	name=[Validus]	npc_end
+npc_begin	id=220	nickcolor=default	nick=[47 c.curse]	name=[Dicor]	npc_end
+npc_begin	id=221	nickcolor=default	nick=[48 c.dmg]	name=[Perum]	npc_end
+npc_begin	id=222	nickcolor=default	nick=[49 aggr (c.dmg)]	name=[Torfe]	npc_end
+npc_begin	id=223	nickcolor=default	nick=[20]	name=[Mandragora Sprout B]	npc_end
+npc_begin	id=224	nickcolor=default	nick=[22 archer]	name=[Ol Mahum Ranger]	npc_end
+npc_begin	id=225	nickcolor=default	nick=[25]	name=[Giant Mist Leech]	npc_end
+npc_begin	id=226	nickcolor=default	nick=[26]	name=[Gray Ant]	npc_end
+npc_begin	id=227	nickcolor=default	nick=[27 aggr (c.dmg)]	name=[Horror Mist Ripper]	npc_end
+npc_begin	id=228	nickcolor=default	nick=[28 c.curse]	name=[Giant Crimson Ant]	npc_end
+npc_begin	id=229	nickcolor=default	nick=[30 aggr]	name=[Stinger Wasp]	npc_end
+npc_begin	id=230	nickcolor=default	nick=[31 patk]	name=[Marsh Stakato Worker]	npc_end
+npc_begin	id=231	nickcolor=default	nick=[32]	name=[Toad Lord]	npc_end
+npc_begin	id=232	nickcolor=default	nick=[33]	name=[Marsh Stakato Soldier]	npc_end
+npc_begin	id=233	nickcolor=default	nick=[34 aggr]	name=[Marsh Spider]	npc_end
+npc_begin	id=234	nickcolor=default	nick=[35 aggr (selfbuffs)]	name=[Marsh Stakato Drone]	npc_end
+npc_begin	id=235	nickcolor=default	nick=[45 aggr (c.dmg)]	name=[Shackle]	npc_end
+npc_begin	id=236	nickcolor=default	nick=[46]	name=[Cave Servant]	npc_end
+npc_begin	id=237	nickcolor=default	nick=[47 power shot]	name=[Cave Servant Archer]	npc_end
+npc_begin	id=238	nickcolor=default	nick=[48 ratk]	name=[Cave Servant Warrior]	npc_end
+npc_begin	id=239	nickcolor=default	nick=[49]	name=[Cave Servant Captain]	npc_end
+npc_begin	id=240	nickcolor=default	nick=[51 patk]	name=[Royal Cave Servant]	npc_end
+npc_begin	id=241	nickcolor=default	nick=[52 patk]	name=[Hunter Gargoyle]	npc_end
+npc_begin	id=242	nickcolor=default	nick=[53 patk]	name=[Dustwind Gargoyle]	npc_end
+npc_begin	id=243	nickcolor=default	nick=[54 aggr]	name=[Thunder Wyrm]	npc_end
+npc_begin	id=244	nickcolor=default	nick=[55 c.dmg]	name=[Malruk Succubus]	npc_end
+npc_begin	id=245	nickcolor=default	nick=[56 c.dmg]	name=[Malruk Succubus Turen]	npc_end
+npc_begin	id=246	nickcolor=default	nick=[58 ratk]	name=[Cave Keeper]	npc_end
+npc_begin	id=247	nickcolor=default	nick=[60 leader]	name=[Bloody Queen]	npc_end
+npc_begin	id=248	nickcolor=default	nick=[31]	name=[Turak Bugbear]	npc_end
+npc_begin	id=249	nickcolor=default	nick=[33 aggr]	name=[Turak Bugbear Warrior]	npc_end
+npc_begin	id=250	nickcolor=default	nick=[27]	name=[Glass Jaguar]	npc_end
+npc_begin	id=251	nickcolor=default	nick=[28]	name=[Delu Lizardman]	npc_end
+npc_begin	id=252	nickcolor=default	nick=[29]	name=[Delu Lizardman Scout]	npc_end
+npc_begin	id=253	nickcolor=default	nick=[30 aggr]	name=[Delu Lizardman Warrior]	npc_end
+npc_begin	id=254	nickcolor=default	nick=[28]	name=[Skeleton Axeman]	npc_end
+npc_begin	id=255	nickcolor=default	nick=[31]	name=[Batur Orc]	npc_end
+npc_begin	id=256	nickcolor=default	nick=[32]	name=[Batur Orc Archer]	npc_end
+npc_begin	id=257	nickcolor=default	nick=[33]	name=[Batur Orc Warrior]	npc_end
 npc_begin	id=258	nickcolor=default	nick=[]	name=[Batur Orc Shaman]	npc_end
-npc_begin	id=259	nickcolor=default	nick=[]	name=[Batur Orc Overlord]	npc_end
-npc_begin	id=260	nickcolor=default	nick=[]	name=[Orc Champion]	npc_end
-npc_begin	id=261	nickcolor=default	nick=[]	name=[Orc Shaman]	npc_end
+npc_begin	id=259	nickcolor=default	nick=[35]	name=[Batur Orc Overlord]	npc_end
+npc_begin	id=260	nickcolor=default	nick=[14]	name=[Orc Champion]	npc_end
+npc_begin	id=261	nickcolor=default	nick=[17]	name=[Orc Shaman]	npc_end
 npc_begin	id=262	nickcolor=default	nick=[]	name=[Cat's Eye Bandit]	npc_end
-npc_begin	id=263	nickcolor=default	nick=[]	name=[Ol Mahum Novice]	npc_end
-npc_begin	id=264	nickcolor=default	nick=[]	name=[Dark Succubus]	npc_end
-npc_begin	id=265	nickcolor=default	nick=[]	name=[Monster Eye Searcher]	npc_end
-npc_begin	id=266	nickcolor=default	nick=[]	name=[Monster Eye Gazer]	npc_end
-npc_begin	id=267	nickcolor=default	nick=[]	name=[Breka Orc]	npc_end
-npc_begin	id=268	nickcolor=default	nick=[]	name=[Breka Orc Archer]	npc_end
-npc_begin	id=269	nickcolor=default	nick=[]	name=[Breka Orc Shaman]	npc_end
-npc_begin	id=270	nickcolor=default	nick=[]	name=[Breka Orc Overlord]	npc_end
-npc_begin	id=271	nickcolor=default	nick=[]	name=[Breka Orc Warrior]	npc_end
-npc_begin	id=272	nickcolor=default	nick=[]	name=[Cave Servant]	npc_end
-npc_begin	id=273	nickcolor=default	nick=[]	name=[Cave Servant Archer]	npc_end
-npc_begin	id=274	nickcolor=default	nick=[]	name=[Cave Servant Warrior]	npc_end
-npc_begin	id=275	nickcolor=default	nick=[]	name=[Cave Servant Captain]	npc_end
-npc_begin	id=276	nickcolor=default	nick=[]	name=[Royal Cave Servant]	npc_end
-npc_begin	id=277	nickcolor=default	nick=[]	name=[Cave Keeper]	npc_end
-npc_begin	id=278	nickcolor=default	nick=[]	name=[Bloody Queen]	npc_end
-npc_begin	id=279	nickcolor=default	nick=[]	name=[Shackle]	npc_end
-npc_begin	id=280	nickcolor=default	nick=[]	name=[Headless Knight]	npc_end
-npc_begin	id=281	nickcolor=default	nick=[]	name=[Dustwind Gargoyle]	npc_end
-npc_begin	id=282	nickcolor=default	nick=[]	name=[Thunder Wyrm]	npc_end
-npc_begin	id=283	nickcolor=default	nick=[]	name=[Malruk Succubus]	npc_end
-npc_begin	id=284	nickcolor=default	nick=[]	name=[Malruk Succubus Turen]	npc_end
-npc_begin	id=285	nickcolor=default	nick=[]	name=[Drake]	npc_end
-npc_begin	id=286	nickcolor=default	nick=[]	name=[Hunter Gargoyle]	npc_end
-npc_begin	id=287	nickcolor=default	nick=[]	name=[Cave Maiden]	npc_end
-npc_begin	id=288	nickcolor=default	nick=[]	name=[Cat's Eye Bandit]	npc_end
-npc_begin	id=289	nickcolor=default	nick=[]	name=[Ol Mahum Novice]	npc_end
-npc_begin	id=290	nickcolor=default	nick=[]	name=[Dark Succubus]	npc_end
-npc_begin	id=291	nickcolor=default	nick=[]	name=[Enku Orc Champion]	npc_end
-npc_begin	id=292	nickcolor=default	nick=[]	name=[Enku Orc Shaman]	npc_end
-npc_begin	id=293	nickcolor=default	nick=[]	name=[Virud Lizardman]	npc_end
-npc_begin	id=294	nickcolor=default	nick=[]	name=[Virud Lizardman Matriarch]	npc_end
-npc_begin	id=295	nickcolor=default	nick=[]	name=[Virud Lizardman Warrior]	npc_end
-npc_begin	id=296	nickcolor=default	nick=[]	name=[Virud Lizardman Scout]	npc_end
-npc_begin	id=297	nickcolor=default	nick=[]	name=[Virud Lizardman Shaman ]	npc_end
-npc_begin	id=298	nickcolor=default	nick=[]	name=[Virud Lizardman Shaman ]	npc_end
-npc_begin	id=299	nickcolor=default	nick=[]	name=[Zenta Lizardman]	npc_end
-npc_begin	id=300	nickcolor=default	nick=[]	name=[Zenta Lizardman Matriarch]	npc_end
-npc_begin	id=301	nickcolor=default	nick=[]	name=[Zenta Lizardman Scout]	npc_end
-npc_begin	id=302	nickcolor=default	nick=[]	name=[Zenta Lizardman Warrior]	npc_end
-npc_begin	id=303	nickcolor=default	nick=[]	name=[Zenta Lizardman Shaman]	npc_end
-npc_begin	id=304	nickcolor=default	nick=[]	name=[Marsh Stakato Queen]	npc_end
-npc_begin	id=305	nickcolor=default	nick=[]	name=[Grave]	npc_end
-npc_begin	id=306	nickcolor=default	nick=[]	name=[Gargoyle Lord Sirocco]	npc_end
-npc_begin	id=307	nickcolor=default	nick=[]	name=[Garum Werewolf]	npc_end
-npc_begin	id=308	nickcolor=default	nick=[]	name=[Hook Spider]	npc_end
-npc_begin	id=309	nickcolor=default	nick=[]	name=[Brown Fox]	npc_end
-npc_begin	id=310	nickcolor=default	nick=[]	name=[Brown Bear]	npc_end
-npc_begin	id=311	nickcolor=default	nick=[]	name=[Rakeclaw Imp]	npc_end
-npc_begin	id=312	nickcolor=default	nick=[]	name=[Rakeclaw Imp Hunter]	npc_end
-npc_begin	id=313	nickcolor=default	nick=[]	name=[Rakeclaw Imp Chieftain]	npc_end
-npc_begin	id=314	nickcolor=default	nick=[]	name=[Great White Shark]	npc_end
-npc_begin	id=315	nickcolor=default	nick=[]	name=[Giant Wasteland Basilisk]	npc_end
-npc_begin	id=316	nickcolor=default	nick=[]	name=[Darkwing Bat]	npc_end
-npc_begin	id=317	nickcolor=default	nick=[]	name=[Black Wolf]	npc_end
-npc_begin	id=318	nickcolor=default	nick=[]	name=[Black Timber Wolf]	npc_end
-npc_begin	id=319	nickcolor=default	nick=[]	name=[Goblin Grave Robber]	npc_end
-npc_begin	id=320	nickcolor=default	nick=[]	name=[Goblin Tomb Raider Leader]	npc_end
-npc_begin	id=321	nickcolor=default	nick=[]	name=[Goblin Thief]	npc_end
-npc_begin	id=322	nickcolor=default	nick=[]	name=[Goblin Brigand]	npc_end
-npc_begin	id=323	nickcolor=default	nick=[]	name=[Goblin Brigand Leader]	npc_end
-npc_begin	id=324	nickcolor=default	nick=[]	name=[Goblin Brigand Lieutenant]	npc_end
-npc_begin	id=325	nickcolor=default	nick=[]	name=[Goblin Raider]	npc_end
-npc_begin	id=326	nickcolor=default	nick=[]	name=[Goblin Scout]	npc_end
-npc_begin	id=327	nickcolor=default	nick=[]	name=[Goblin Snooper]	npc_end
-npc_begin	id=328	nickcolor=default	nick=[]	name=[Goblin Lookout]	npc_end
-npc_begin	id=329	nickcolor=default	nick=[]	name=[Ghost Guardian]	npc_end
-npc_begin	id=330	nickcolor=default	nick=[]	name=[Mineshaft Bat]	npc_end
-npc_begin	id=331	nickcolor=default	nick=[]	name=[Monster Eye Tracker]	npc_end
-npc_begin	id=332	nickcolor=default	nick=[]	name=[Patriarch Kuroboros]	npc_end
-npc_begin	id=333	nickcolor=default	nick=[]	name=[Greystone Golem]	npc_end
-npc_begin	id=334	nickcolor=default	nick=[]	name=[Gremlin Scavenger]	npc_end
-npc_begin	id=335	nickcolor=default	nick=[]	name=[Grizzly Bear]	npc_end
-npc_begin	id=336	nickcolor=default	nick=[]	name=[Green Dryad]	npc_end
-npc_begin	id=337	nickcolor=default	nick=[]	name=[Longtail Fox]	npc_end
-npc_begin	id=338	nickcolor=default	nick=[]	name=[Nightmare Weaver]	npc_end
-npc_begin	id=339	nickcolor=default	nick=[]	name=[Nightmare Flyer]	npc_end
-npc_begin	id=340	nickcolor=default	nick=[]	name=[Slave Skeleton]	npc_end
-npc_begin	id=341	nickcolor=default	nick=[]	name=[Undead Slave]	npc_end
-npc_begin	id=342	nickcolor=default	nick=[]	name=[Werewolf Chieftain]	npc_end
-npc_begin	id=343	nickcolor=default	nick=[]	name=[Werewolf Hunter]	npc_end
-npc_begin	id=344	nickcolor=default	nick=[]	name=[Malex Herald Of Dagoniel]	npc_end
-npc_begin	id=345	nickcolor=default	nick=[]	name=[Dark Terror]	npc_end
-npc_begin	id=346	nickcolor=default	nick=[]	name=[Darkstone Golem]	npc_end
-npc_begin	id=347	nickcolor=default	nick=[]	name=[Death Wraith]	npc_end
-npc_begin	id=348	nickcolor=default	nick=[]	name=[Cave Spider]	npc_end
-npc_begin	id=349	nickcolor=default	nick=[]	name=[Cave Bat]	npc_end
-npc_begin	id=350	nickcolor=default	nick=[]	name=[Cave Fang Spider]	npc_end
-npc_begin	id=351	nickcolor=default	nick=[]	name=[Dre Vanul Tracker]	npc_end
-npc_begin	id=352	nickcolor=default	nick=[]	name=[Dre Vanul Slayer]	npc_end
-npc_begin	id=353	nickcolor=default	nick=[]	name=[Dre Vanul Beholder]	npc_end
-npc_begin	id=354	nickcolor=default	nick=[]	name=[Dwarf Ghost]	npc_end
-npc_begin	id=355	nickcolor=default	nick=[]	name=[Dementia Beast]	npc_end
-npc_begin	id=356	nickcolor=default	nick=[]	name=[Langk Lizardman Leader]	npc_end
-npc_begin	id=357	nickcolor=default	nick=[]	name=[Langk Lizardman Lieutenant]	npc_end
-npc_begin	id=358	nickcolor=default	nick=[]	name=[Ratman Hunter]	npc_end
-npc_begin	id=359	nickcolor=default	nick=[]	name=[Ratman Warrior]	npc_end
-npc_begin	id=360	nickcolor=default	nick=[]	name=[Ratman Spy]	npc_end
-npc_begin	id=361	nickcolor=default	nick=[]	name=[Tunath Orc Marksman]	npc_end
-npc_begin	id=362	nickcolor=default	nick=[]	name=[Tunath Orc Warrior]	npc_end
-npc_begin	id=363	nickcolor=default	nick=[]	name=[Maraku Werewolf]	npc_end
-npc_begin	id=364	nickcolor=default	nick=[]	name=[Maraku Werewolf Chieftain]	npc_end
-npc_begin	id=365	nickcolor=default	nick=[]	name=[Mountain Fungus]	npc_end
-npc_begin	id=366	nickcolor=default	nick=[]	name=[Madness Beast]	npc_end
-npc_begin	id=367	nickcolor=default	nick=[]	name=[Merkenis Escort]	npc_end
-npc_begin	id=368	nickcolor=default	nick=[]	name=[Grave Keeper]	npc_end
-npc_begin	id=369	nickcolor=default	nick=[]	name=[Moonstone Beast]	npc_end
-npc_begin	id=370	nickcolor=default	nick=[]	name=[Barbed Bat]	npc_end
-npc_begin	id=371	nickcolor=default	nick=[]	name=[Mist Terror]	npc_end
-npc_begin	id=372	nickcolor=default	nick=[]	name=[Baraq Orc Fighter]	npc_end
-npc_begin	id=373	nickcolor=default	nick=[]	name=[Baraq Orc Fighter Lieutenant]	npc_end
-npc_begin	id=374	nickcolor=default	nick=[]	name=[Baranka Guard]	npc_end
-npc_begin	id=375	nickcolor=default	nick=[]	name=[Baranka Escort]	npc_end
-npc_begin	id=376	nickcolor=default	nick=[]	name=[Varikan Brignad Leader]	npc_end
-npc_begin	id=377	nickcolor=default	nick=[]	name=[Varikan Brigand]	npc_end
-npc_begin	id=378	nickcolor=default	nick=[]	name=[Stone Giant]	npc_end
-npc_begin	id=379	nickcolor=default	nick=[]	name=[Stone Soldier]	npc_end
-npc_begin	id=380	nickcolor=default	nick=[]	name=[Stone Guardian]	npc_end
-npc_begin	id=381	nickcolor=default	nick=[]	name=[Vaiss Orc]	npc_end
-npc_begin	id=382	nickcolor=default	nick=[]	name=[Vaiss Orc Lieutenant]	npc_end
-npc_begin	id=383	nickcolor=default	nick=[]	name=[Arachnid Hunter]	npc_end
-npc_begin	id=384	nickcolor=default	nick=[]	name=[Discarded Guardian]	npc_end
-npc_begin	id=385	nickcolor=default	nick=[]	name=[Balor Orc Archer]	npc_end
-npc_begin	id=386	nickcolor=default	nick=[]	name=[Balor Orc Fighter]	npc_end
-npc_begin	id=387	nickcolor=default	nick=[]	name=[Balor Orc Fighter Leader]	npc_end
-npc_begin	id=388	nickcolor=default	nick=[]	name=[Balor Orc Lieutenant]	npc_end
-npc_begin	id=389	nickcolor=default	nick=[]	name=[Boogle Ratman]	npc_end
-npc_begin	id=390	nickcolor=default	nick=[]	name=[Boogle Ratman Leader]	npc_end
-npc_begin	id=391	nickcolor=default	nick=[]	name=[Red Fox]	npc_end
-npc_begin	id=392	nickcolor=default	nick=[]	name=[Redeye Bat]	npc_end
-npc_begin	id=393	nickcolor=default	nick=[]	name=[Red Scavenger Spider]	npc_end
-npc_begin	id=394	nickcolor=default	nick=[]	name=[Crimson Tarantula]	npc_end
-npc_begin	id=395	nickcolor=default	nick=[]	name=[Brae Orc Archer]	npc_end
-npc_begin	id=396	nickcolor=default	nick=[]	name=[Brae Orc Fighter]	npc_end
-npc_begin	id=397	nickcolor=default	nick=[]	name=[Brae Orc Chief]	npc_end
-npc_begin	id=398	nickcolor=default	nick=[]	name=[Vrykolakas]	npc_end
-npc_begin	id=399	nickcolor=default	nick=[]	name=[Vrykolakas Wolfkin]	npc_end
-npc_begin	id=400	nickcolor=default	nick=[]	name=[Blood Fungus]	npc_end
-npc_begin	id=401	nickcolor=default	nick=[]	name=[Veelan Bugbear]	npc_end
-npc_begin	id=402	nickcolor=default	nick=[]	name=[Veelan Bugbear Warrior]	npc_end
-npc_begin	id=403	nickcolor=default	nick=[]	name=[Hunter Tarantula]	npc_end
-npc_begin	id=404	nickcolor=default	nick=[]	name=[Silent Horror]	npc_end
-npc_begin	id=405	nickcolor=default	nick=[]	name=[Young Brown Fox]	npc_end
-npc_begin	id=406	nickcolor=default	nick=[]	name=[Young Red Fox]	npc_end
-npc_begin	id=407	nickcolor=default	nick=[]	name=[Young Crimson Fox]	npc_end
-npc_begin	id=408	nickcolor=default	nick=[]	name=[Sharuk'S Henchmen]	npc_end
-npc_begin	id=409	nickcolor=default	nick=[]	name=[Soul Scavenger]	npc_end
-npc_begin	id=410	nickcolor=default	nick=[]	name=[Scavenger Spider]	npc_end
-npc_begin	id=411	nickcolor=default	nick=[]	name=[Scavenger Bat]	npc_end
-npc_begin	id=412	nickcolor=default	nick=[]	name=[Susceptor]	npc_end
-npc_begin	id=413	nickcolor=default	nick=[]	name=[Sukar Wererat Warrior]	npc_end
-npc_begin	id=414	nickcolor=default	nick=[]	name=[Sukar Wererat Chief]	npc_end
-npc_begin	id=415	nickcolor=default	nick=[]	name=[Scarlet Salamander]	npc_end
-npc_begin	id=416	nickcolor=default	nick=[]	name=[Scarlet Salamander Elder]	npc_end
-npc_begin	id=417	nickcolor=default	nick=[]	name=[Sirocco Gargoyle]	npc_end
-npc_begin	id=418	nickcolor=default	nick=[]	name=[Crystalline Beast]	npc_end
-npc_begin	id=419	nickcolor=default	nick=[]	name=[Akaste Succubus]	npc_end
-npc_begin	id=420	nickcolor=default	nick=[]	name=[Akaste Succubus Turen]	npc_end
-npc_begin	id=421	nickcolor=default	nick=[]	name=[Akaste Succubus Tilfo]	npc_end
-npc_begin	id=422	nickcolor=default	nick=[]	name=[Akaste Bone Warlord]	npc_end
-npc_begin	id=423	nickcolor=default	nick=[]	name=[Akaste Bone Archer]	npc_end
-npc_begin	id=424	nickcolor=default	nick=[]	name=[Akaste Bone Lord]	npc_end
-npc_begin	id=425	nickcolor=default	nick=[]	name=[Akaste Bone Soldier]	npc_end
-npc_begin	id=426	nickcolor=default	nick=[]	name=[Evil Eye]	npc_end
-npc_begin	id=427	nickcolor=default	nick=[]	name=[Evil Eye Watcher]	npc_end
-npc_begin	id=428	nickcolor=default	nick=[]	name=[Evil Eye Patroller]	npc_end
-npc_begin	id=429	nickcolor=default	nick=[]	name=[Evil Eye Lookout]	npc_end
-npc_begin	id=430	nickcolor=default	nick=[]	name=[Abyss Flyer]	npc_end
-npc_begin	id=431	nickcolor=default	nick=[]	name=[Elf Ghost]	npc_end
-npc_begin	id=432	nickcolor=default	nick=[]	name=[Elpy]	npc_end
-npc_begin	id=433	nickcolor=default	nick=[]	name=[Festering Bat]	npc_end
-npc_begin	id=434	nickcolor=default	nick=[]	name=[Yellow Hornet]	npc_end
-npc_begin	id=435	nickcolor=default	nick=[]	name=[Opal Beast]	npc_end
-npc_begin	id=436	nickcolor=default	nick=[]	name=[Ol Mahum Supplier]	npc_end
-npc_begin	id=437	nickcolor=default	nick=[]	name=[Ol Mahum Recruit]	npc_end
-npc_begin	id=438	nickcolor=default	nick=[]	name=[Ol Mahum General]	npc_end
-npc_begin	id=439	nickcolor=default	nick=[]	name=[Ol Mahum Officer]	npc_end
-npc_begin	id=440	nickcolor=default	nick=[]	name=[Elder Brown Fox]	npc_end
-npc_begin	id=441	nickcolor=default	nick=[]	name=[Elder Longtail Fox]	npc_end
-npc_begin	id=442	nickcolor=default	nick=[]	name=[Elder Wolf]	npc_end
-npc_begin	id=443	nickcolor=default	nick=[]	name=[Elder Red Fox]	npc_end
-npc_begin	id=444	nickcolor=default	nick=[]	name=[Elder Prarie Fox]	npc_end
-npc_begin	id=445	nickcolor=default	nick=[]	name=[Uthanka Pirate]	npc_end
-npc_begin	id=446	nickcolor=default	nick=[]	name=[Utuku Orc]	npc_end
-npc_begin	id=447	nickcolor=default	nick=[]	name=[Utuku Orc Archer]	npc_end
-npc_begin	id=448	nickcolor=default	nick=[]	name=[Utuku Orc Grunt]	npc_end
-npc_begin	id=449	nickcolor=default	nick=[]	name=[Will-O-Wisp]	npc_end
-npc_begin	id=450	nickcolor=default	nick=[]	name=[Relic Werewolf]	npc_end
-npc_begin	id=451	nickcolor=default	nick=[]	name=[Relic Spartoi]	npc_end
-npc_begin	id=452	nickcolor=default	nick=[]	name=[Kaysha Herald Of Ikaros]	npc_end
-npc_begin	id=453	nickcolor=default	nick=[]	name=[Human Ghost]	npc_end
-npc_begin	id=454	nickcolor=default	nick=[]	name=[Oblivion Watcher]	npc_end
-npc_begin	id=455	nickcolor=default	nick=[]	name=[Doom Soldier]	npc_end
-npc_begin	id=456	nickcolor=default	nick=[]	name=[Ashen Wolf]	npc_end
-npc_begin	id=457	nickcolor=default	nick=[]	name=[Zombie Soldier]	npc_end
-npc_begin	id=458	nickcolor=default	nick=[]	name=[Zombie Warrior]	npc_end
-npc_begin	id=459	nickcolor=default	nick=[]	name=[Zombie Lord Farakelsus]	npc_end
-npc_begin	id=460	nickcolor=default	nick=[]	name=[Crimson Spider]	npc_end
-npc_begin	id=461	nickcolor=default	nick=[]	name=[Dungeon Spider]	npc_end
-npc_begin	id=462	nickcolor=default	nick=[]	name=[Cave Blade Spider]	npc_end
-npc_begin	id=463	nickcolor=default	nick=[]	name=[Dungeon Skeleton Archer]	npc_end
-npc_begin	id=464	nickcolor=default	nick=[]	name=[Dungeon Skeleton]	npc_end
-npc_begin	id=465	nickcolor=default	nick=[]	name=[Prarie Fox]	npc_end
-npc_begin	id=466	nickcolor=default	nick=[]	name=[Pincer Spider]	npc_end
-npc_begin	id=467	nickcolor=default	nick=[]	name=[Tracker Sharuk]	npc_end
-npc_begin	id=468	nickcolor=default	nick=[]	name=[Kaboo Orc]	npc_end
-npc_begin	id=469	nickcolor=default	nick=[]	name=[Kaboo Orc Archer]	npc_end
-npc_begin	id=470	nickcolor=default	nick=[]	name=[Kaboo Orc Grunt]	npc_end
-npc_begin	id=471	nickcolor=default	nick=[]	name=[Kaboo Orc Fighter]	npc_end
-npc_begin	id=472	nickcolor=default	nick=[]	name=[Kaboo Orc Fighter Leader]	npc_end
-npc_begin	id=473	nickcolor=default	nick=[]	name=[Kaboo Orc Fighter Lieutenant]	npc_end
-npc_begin	id=474	nickcolor=default	nick=[]	name=[Kasha Spider]	npc_end
-npc_begin	id=475	nickcolor=default	nick=[]	name=[Kasha Wolf]	npc_end
-npc_begin	id=476	nickcolor=default	nick=[]	name=[Kasha Fang Spider]	npc_end
-npc_begin	id=477	nickcolor=default	nick=[]	name=[Kasha Timber Wolf]	npc_end
-npc_begin	id=478	nickcolor=default	nick=[]	name=[Kasha Blade Spider]	npc_end
-npc_begin	id=479	nickcolor=default	nick=[]	name=[Kasha Bear]	npc_end
-npc_begin	id=480	nickcolor=default	nick=[]	name=[Blade Bat]	npc_end
-npc_begin	id=481	nickcolor=default	nick=[]	name=[Bearded Keltir]	npc_end
-npc_begin	id=482	nickcolor=default	nick=[]	name=[Corpse Scavenger]	npc_end
-npc_begin	id=483	nickcolor=default	nick=[]	name=[Corpse Candle]	npc_end
-npc_begin	id=484	nickcolor=default	nick=[]	name=[Follower Of Kuroboros]	npc_end
-npc_begin	id=485	nickcolor=default	nick=[]	name=[Priest Of Kuroboros]	npc_end
-npc_begin	id=486	nickcolor=default	nick=[]	name=[Soldier Of Kuroboros]	npc_end
-npc_begin	id=487	nickcolor=default	nick=[]	name=[Kuruka Ratman]	npc_end
-npc_begin	id=488	nickcolor=default	nick=[]	name=[Kuruka Ratman Hunter]	npc_end
-npc_begin	id=489	nickcolor=default	nick=[]	name=[Quicksilver Beast]	npc_end
-npc_begin	id=490	nickcolor=default	nick=[]	name=[Death Doll]	npc_end
-npc_begin	id=491	nickcolor=default	nick=[]	name=[Crypt Horror]	npc_end
-npc_begin	id=492	nickcolor=default	nick=[]	name=[Kirunak'S Guards]	npc_end
-npc_begin	id=493	nickcolor=default	nick=[]	name=[Tiger Hornet]	npc_end
-npc_begin	id=494	nickcolor=default	nick=[]	name=[Turek War Hound]	npc_end
-npc_begin	id=495	nickcolor=default	nick=[]	name=[Turek Orc Warlord]	npc_end
-npc_begin	id=496	nickcolor=default	nick=[]	name=[Turek Orc Archer]	npc_end
-npc_begin	id=497	nickcolor=default	nick=[]	name=[Turek Orc Skirmisher]	npc_end
-npc_begin	id=498	nickcolor=default	nick=[]	name=[Turek Orc Supplier]	npc_end
-npc_begin	id=499	nickcolor=default	nick=[]	name=[Turek Orc Footman]	npc_end
-npc_begin	id=500	nickcolor=default	nick=[]	name=[Turek Orc Sentinel]	npc_end
-npc_begin	id=501	nickcolor=default	nick=[]	name=[Turek Orc Shaman]	npc_end
-npc_begin	id=502	nickcolor=default	nick=[]	name=[Twink Puma]	npc_end
-npc_begin	id=503	nickcolor=default	nick=[]	name=[Farakelsus Zombie]	npc_end
-npc_begin	id=504	nickcolor=default	nick=[]	name=[Dread Soldier]	npc_end
-npc_begin	id=505	nickcolor=default	nick=[]	name=[Ruin Bat]	npc_end
-npc_begin	id=506	nickcolor=default	nick=[]	name=[Ruin Imp]	npc_end
-npc_begin	id=507	nickcolor=default	nick=[]	name=[Ruin Imp Elder]	npc_end
-npc_begin	id=508	nickcolor=default	nick=[]	name=[Plunder Tarantula]	npc_end
-npc_begin	id=509	nickcolor=default	nick=[]	name=[Spore Fungus]	npc_end
-npc_begin	id=510	nickcolor=default	nick=[]	name=[Puma]	npc_end
-npc_begin	id=511	nickcolor=default	nick=[]	name=[Pitchstone Golem]	npc_end
-npc_begin	id=512	nickcolor=default	nick=[]	name=[Field Stalker]	npc_end
-npc_begin	id=513	nickcolor=default	nick=[]	name=[Skeleton Knight]	npc_end
-npc_begin	id=514	nickcolor=default	nick=[]	name=[Shield Skeleton]	npc_end
-npc_begin	id=515	nickcolor=default	nick=[]	name=[Skeleton Infantryman]	npc_end
-npc_begin	id=516	nickcolor=default	nick=[]	name=[Skeleton Sentinel]	npc_end
-npc_begin	id=517	nickcolor=default	nick=[]	name=[Skeleton Hunter]	npc_end
-npc_begin	id=518	nickcolor=default	nick=[]	name=[Skeleton Hunter Archer]	npc_end
-npc_begin	id=519	nickcolor=default	nick=[]	name=[Skeleton Pikeman]	npc_end
-npc_begin	id=520	nickcolor=default	nick=[]	name=[Pirate Captain Uthanka]	npc_end
-npc_begin	id=521	nickcolor=default	nick=[]	name=[Whinstone Golem]	npc_end
-npc_begin	id=522	nickcolor=default	nick=[]	name=[White Fang]	npc_end
-npc_begin	id=523	nickcolor=default	nick=[]	name=[Wasteland Basilisk]	npc_end
-npc_begin	id=524	nickcolor=default	nick=[]	name=[Grey Wolf Elder]	npc_end
-npc_begin	id=525	nickcolor=default	nick=[]	name=[Gray Wolf]	npc_end
-npc_begin	id=526	nickcolor=default	nick=[]	name=[Obsidian Golem]	npc_end
-npc_begin	id=527	nickcolor=default	nick=[]	name=[White Wolf]	npc_end
-npc_begin	id=528	nickcolor=default	nick=[]	name=[Goblin Lord]	npc_end
-npc_begin	id=529	nickcolor=default	nick=[]	name=[Young Brown Keltir]	npc_end
-npc_begin	id=530	nickcolor=default	nick=[]	name=[Young Red Keltir]	npc_end
-npc_begin	id=531	nickcolor=default	nick=[]	name=[Young Prarie Keltir]	npc_end
-npc_begin	id=532	nickcolor=default	nick=[]	name=[Brown Keltir]	npc_end
-npc_begin	id=533	nickcolor=default	nick=[]	name=[Longtail Keltir]	npc_end
-npc_begin	id=534	nickcolor=default	nick=[]	name=[Red Keltir]	npc_end
-npc_begin	id=535	nickcolor=default	nick=[]	name=[Prarie Keltir]	npc_end
-npc_begin	id=536	nickcolor=default	nick=[]	name=[Elder Brown Keltir]	npc_end
-npc_begin	id=537	nickcolor=default	nick=[]	name=[Elder Red Keltir]	npc_end
-npc_begin	id=538	nickcolor=default	nick=[]	name=[Elder Prarie Keltir]	npc_end
-npc_begin	id=539	nickcolor=default	nick=[]	name=[Elder Longtail Keltir]	npc_end
-npc_begin	id=540	nickcolor=default	nick=[]	name=[Gemstone Beast]	npc_end
-npc_begin	id=541	nickcolor=default	nick=[]	name=[Ore Bat]	npc_end
-npc_begin	id=542	nickcolor=default	nick=[]	name=[Skeleton Longbowman]	npc_end
-npc_begin	id=543	nickcolor=default	nick=[]	name=[Ghost]	npc_end
-npc_begin	id=544	nickcolor=default	nick=[]	name=[Elder Keltir]	npc_end
-npc_begin	id=545	nickcolor=default	nick=[]	name=[Young Keltir]	npc_end
-npc_begin	id=546	nickcolor=default	nick=[]	name=[Turek Orc Elder]	npc_end
-npc_begin	id=547	nickcolor=default	nick=[]	name=[Ol Mahum Reserve]	npc_end
-npc_begin	id=548	nickcolor=default	nick=[]	name=[Ol Mahum Deserter]	npc_end
-npc_begin	id=549	nickcolor=default	nick=[]	name=[Ol Mahum Lord]	npc_end
-npc_begin	id=550	nickcolor=default	nick=[]	name=[Guardian Basilisk]	npc_end
-npc_begin	id=551	nickcolor=default	nick=[]	name=[Road Scavenger]	npc_end
-npc_begin	id=552	nickcolor=default	nick=[]	name=[Fettered Soul]	npc_end
-npc_begin	id=553	nickcolor=default	nick=[]	name=[Windsus]	npc_end
-npc_begin	id=554	nickcolor=default	nick=[]	name=[Grandis]	npc_end
-npc_begin	id=555	nickcolor=default	nick=[]	name=[Giant Fungus]	npc_end
-npc_begin	id=556	nickcolor=default	nick=[]	name=[Giant Monstereye]	npc_end
-npc_begin	id=557	nickcolor=default	nick=[]	name=[Dire Wyrm]	npc_end
-npc_begin	id=558	nickcolor=default	nick=[]	name=[Rotting tree]	npc_end
-npc_begin	id=559	nickcolor=default	nick=[]	name=[Rotting Golem]	npc_end
-npc_begin	id=560	nickcolor=default	nick=[]	name=[Trisalim Spider]	npc_end
-npc_begin	id=561	nickcolor=default	nick=[]	name=[Trisalim Tarantula]	npc_end
-npc_begin	id=562	nickcolor=default	nick=[]	name=[Spore Zombie]	npc_end
-npc_begin	id=563	nickcolor=default	nick=[]	name=[Manashen Gargoyle]	npc_end
-npc_begin	id=564	nickcolor=default	nick=[]	name=[Enchanted Monstereye]	npc_end
-npc_begin	id=565	nickcolor=default	nick=[]	name=[Enchanted Stone Golem]	npc_end
-npc_begin	id=566	nickcolor=default	nick=[]	name=[Enchanted Iron Golem]	npc_end
-npc_begin	id=567	nickcolor=default	nick=[]	name=[Enchanted Gargoyle]	npc_end
-npc_begin	id=568	nickcolor=default	nick=[]	name=[Formor]	npc_end
-npc_begin	id=569	nickcolor=default	nick=[]	name=[Formor Elder]	npc_end
-npc_begin	id=570	nickcolor=default	nick=[]	name=[Tarlk Bugbear]	npc_end
-npc_begin	id=571	nickcolor=default	nick=[]	name=[Tarlk Bugbear Warrior]	npc_end
-npc_begin	id=572	nickcolor=default	nick=[]	name=[Tarlk Bugbear High Warrior]	npc_end
-npc_begin	id=573	nickcolor=default	nick=[]	name=[Tarlk Basilisk]	npc_end
-npc_begin	id=574	nickcolor=default	nick=[]	name=[Elder Tarlk Basilisk]	npc_end
-npc_begin	id=575	nickcolor=default	nick=[]	name=[Oel Mahum Warrior]	npc_end
-npc_begin	id=576	nickcolor=default	nick=[]	name=[Oel Mahum Witch Doctor]	npc_end
-npc_begin	id=577	nickcolor=default	nick=[]	name=[Leto Lizardman]	npc_end
-npc_begin	id=578	nickcolor=default	nick=[]	name=[Leto Lizardman Archer]	npc_end
-npc_begin	id=579	nickcolor=default	nick=[]	name=[Leto Lizardman Soldier]	npc_end
-npc_begin	id=580	nickcolor=default	nick=[]	name=[Leto Lizardman Warrior]	npc_end
-npc_begin	id=581	nickcolor=default	nick=[]	name=[Leto Lizardman Shaman]	npc_end
-npc_begin	id=582	nickcolor=default	nick=[]	name=[Leto Lizardman Overlord]	npc_end
-npc_begin	id=583	nickcolor=default	nick=[]	name=[Timak Orc]	npc_end
-npc_begin	id=584	nickcolor=default	nick=[]	name=[Timak Orc Archer]	npc_end
-npc_begin	id=585	nickcolor=default	nick=[]	name=[Timak Orc Soldier]	npc_end
-npc_begin	id=586	nickcolor=default	nick=[]	name=[Timak Orc Warrior]	npc_end
-npc_begin	id=587	nickcolor=default	nick=[]	name=[Timak Orc Shaman]	npc_end
-npc_begin	id=588	nickcolor=default	nick=[]	name=[Timak Orc Overlord]	npc_end
-npc_begin	id=589	nickcolor=default	nick=[]	name=[Fline]	npc_end
-npc_begin	id=590	nickcolor=default	nick=[]	name=[Liele]	npc_end
-npc_begin	id=591	nickcolor=default	nick=[]	name=[Valley Treant]	npc_end
-npc_begin	id=592	nickcolor=default	nick=[]	name=[Satyr]	npc_end
-npc_begin	id=593	nickcolor=default	nick=[]	name=[Unicorn]	npc_end
-npc_begin	id=594	nickcolor=default	nick=[]	name=[Forest Runner]	npc_end
-npc_begin	id=595	nickcolor=default	nick=[]	name=[Fline Elder]	npc_end
-npc_begin	id=596	nickcolor=default	nick=[]	name=[Liele Elder]	npc_end
-npc_begin	id=597	nickcolor=default	nick=[]	name=[Valley treant Elder]	npc_end
-npc_begin	id=598	nickcolor=default	nick=[]	name=[Satyr Elder]	npc_end
-npc_begin	id=599	nickcolor=default	nick=[]	name=[Unicorn Elder]	npc_end
-npc_begin	id=600	nickcolor=default	nick=[]	name=[Karul Bugbear]	npc_end
-npc_begin	id=601	nickcolor=default	nick=[]	name=[Tamlin Orc]	npc_end
-npc_begin	id=602	nickcolor=default	nick=[]	name=[Tamlin Orc Archer]	npc_end
-npc_begin	id=603	nickcolor=default	nick=[]	name=[Kronbe Spider]	npc_end
-npc_begin	id=604	nickcolor=default	nick=[]	name=[Lakin]	npc_end
-npc_begin	id=605	nickcolor=default	nick=[]	name=[Weird Drake]	npc_end
-npc_begin	id=606	nickcolor=default	nick=[]	name=[Kuran Kobold]	npc_end
-npc_begin	id=607	nickcolor=default	nick=[]	name=[Kuran Kobold Warrior]	npc_end
-npc_begin	id=608	nickcolor=default	nick=[]	name=[Patin Archer]	npc_end
-npc_begin	id=609	nickcolor=default	nick=[]	name=[Lakin Salamander]	npc_end
-npc_begin	id=610	nickcolor=default	nick=[]	name=[Sentinel Of Water]	npc_end
-npc_begin	id=611	nickcolor=default	nick=[]	name=[Dre Vanul Warrior]	npc_end
-npc_begin	id=612	nickcolor=default	nick=[]	name=[Salamander Rowin]	npc_end
-npc_begin	id=613	nickcolor=default	nick=[]	name=[Lafi Lizardman]	npc_end
-npc_begin	id=614	nickcolor=default	nick=[]	name=[Lafi Lizardman Scout]	npc_end
-npc_begin	id=615	nickcolor=default	nick=[]	name=[Ritmal Swordsman]	npc_end
-npc_begin	id=616	nickcolor=default	nick=[]	name=[Lakin Undine]	npc_end
-npc_begin	id=617	nickcolor=default	nick=[]	name=[Sentinel Of Water]	npc_end
-npc_begin	id=618	nickcolor=default	nick=[]	name=[Kanil Succubus]	npc_end
-npc_begin	id=619	nickcolor=default	nick=[]	name=[Rowin Undine]	npc_end
-npc_begin	id=620	nickcolor=default	nick=[]	name=[Cave Beast]	npc_end
-npc_begin	id=621	nickcolor=default	nick=[]	name=[Death Wave]	npc_end
-npc_begin	id=622	nickcolor=default	nick=[]	name=[Malruk Soldier]	npc_end
-npc_begin	id=623	nickcolor=default	nick=[]	name=[Plando]	npc_end
-npc_begin	id=624	nickcolor=default	nick=[]	name=[Cave Howler]	npc_end
-npc_begin	id=625	nickcolor=default	nick=[]	name=[Malruk Knight]	npc_end
-npc_begin	id=626	nickcolor=default	nick=[]	name=[Malruk Berserker]	npc_end
-npc_begin	id=627	nickcolor=default	nick=[]	name=[Malruk Lord]	npc_end
-npc_begin	id=628	nickcolor=default	nick=[]	name=[Limal Karinness]	npc_end
-npc_begin	id=629	nickcolor=default	nick=[]	name=[Karik]	npc_end
-npc_begin	id=630	nickcolor=default	nick=[]	name=[Taik Orc]	npc_end
-npc_begin	id=631	nickcolor=default	nick=[]	name=[Taik Orc Archer]	npc_end
-npc_begin	id=632	nickcolor=default	nick=[]	name=[Taik Orc Warrior]	npc_end
-npc_begin	id=633	nickcolor=default	nick=[]	name=[Taik Orc Shaman]	npc_end
-npc_begin	id=634	nickcolor=default	nick=[]	name=[Taik Orc Captain]	npc_end
-npc_begin	id=635	nickcolor=default	nick=[]	name=[Carinkain]	npc_end
-npc_begin	id=636	nickcolor=default	nick=[]	name=[Forrest of Mirror Ghost]	npc_end
-npc_begin	id=637	nickcolor=default	nick=[]	name=[Forrest of Mirror Ghost]	npc_end
-npc_begin	id=638	nickcolor=default	nick=[]	name=[Forrest of Mirror Ghost]	npc_end
-npc_begin	id=639	nickcolor=default	nick=[]	name=[Mirror]	npc_end
-npc_begin	id=640	nickcolor=default	nick=[]	name=[Harit Lizardman]	npc_end
-npc_begin	id=641	nickcolor=default	nick=[]	name=[Harit Lizardman Grunt]	npc_end
-npc_begin	id=642	nickcolor=default	nick=[]	name=[Harit Lizardman Archer]	npc_end
-npc_begin	id=643	nickcolor=default	nick=[]	name=[Harit Lizardman Warrior]	npc_end
-npc_begin	id=644	nickcolor=default	nick=[]	name=[Harit Lizardman Shaman]	npc_end
-npc_begin	id=645	nickcolor=default	nick=[]	name=[Harit Lizardman Matriarch]	npc_end
-npc_begin	id=646	nickcolor=default	nick=[]	name=[Halingka]	npc_end
-npc_begin	id=647	nickcolor=default	nick=[]	name=[Yintzu]	npc_end
-npc_begin	id=648	nickcolor=default	nick=[]	name=[Paliote]	npc_end
-npc_begin	id=649	nickcolor=default	nick=[]	name=[Hamrut]	npc_end
-npc_begin	id=650	nickcolor=default	nick=[]	name=[Kranrot]	npc_end
-npc_begin	id=651	nickcolor=default	nick=[]	name=[Gamlin]	npc_end
-npc_begin	id=652	nickcolor=default	nick=[]	name=[Leogul]	npc_end
-npc_begin	id=653	nickcolor=default	nick=[]	name=[Lesser Giant]	npc_end
-npc_begin	id=654	nickcolor=default	nick=[]	name=[Lesser Giant Soldier]	npc_end
-npc_begin	id=655	nickcolor=default	nick=[]	name=[Lesser Giant Shooter]	npc_end
-npc_begin	id=656	nickcolor=default	nick=[]	name=[Lesser Giant Scout]	npc_end
-npc_begin	id=657	nickcolor=default	nick=[]	name=[Lesser Giant Mage]	npc_end
-npc_begin	id=658	nickcolor=default	nick=[]	name=[Lesser Giant Elder]	npc_end
-npc_begin	id=659	nickcolor=default	nick=[]	name=[Grave Wanderer]	npc_end
-npc_begin	id=660	nickcolor=default	nick=[]	name=[Archer of Greed]	npc_end
-npc_begin	id=661	nickcolor=default	nick=[]	name=[Hatar Ratman Theif]	npc_end
-npc_begin	id=662	nickcolor=default	nick=[]	name=[Hatar Ratman Boss]	npc_end
-npc_begin	id=663	nickcolor=default	nick=[]	name=[Hatar Hanishee]	npc_end
-npc_begin	id=664	nickcolor=default	nick=[]	name=[Deprive]	npc_end
-npc_begin	id=665	nickcolor=default	nick=[]	name=[Taik Orc Supply]	npc_end
-npc_begin	id=666	nickcolor=default	nick=[]	name=[Taik Orc Seeker]	npc_end
-npc_begin	id=667	nickcolor=default	nick=[]	name=[Farcran]	npc_end
-npc_begin	id=668	nickcolor=default	nick=[]	name=[Grave Guard]	npc_end
-npc_begin	id=669	nickcolor=default	nick=[]	name=[Taik Orc Supply Leader]	npc_end
-npc_begin	id=670	nickcolor=default	nick=[]	name=[Crimson Drake]	npc_end
-npc_begin	id=671	nickcolor=default	nick=[]	name=[Kadios]	npc_end
-npc_begin	id=672	nickcolor=default	nick=[]	name=[Trives]	npc_end
-npc_begin	id=673	nickcolor=default	nick=[]	name=[Falibati]	npc_end
-npc_begin	id=674	nickcolor=default	nick=[]	name=[Doom Knight]	npc_end
-npc_begin	id=675	nickcolor=default	nick=[]	name=[Tairim]	npc_end
-npc_begin	id=676	nickcolor=default	nick=[]	name=[Judge of Marsh]	npc_end
-npc_begin	id=677	nickcolor=default	nick=[]	name=[Tulben]	npc_end
-npc_begin	id=678	nickcolor=default	nick=[]	name=[Punishment of Undead]	npc_end
-npc_begin	id=679	nickcolor=default	nick=[]	name=[Marsh Stalker]	npc_end
-npc_begin	id=680	nickcolor=default	nick=[]	name=[Marsh Drake]	npc_end
-npc_begin	id=681	nickcolor=default	nick=[]	name=[Vanor Silenos]	npc_end
-npc_begin	id=682	nickcolor=default	nick=[]	name=[Vanor Silenos Grunt]	npc_end
-npc_begin	id=683	nickcolor=default	nick=[]	name=[Vanor Silenos Scout]	npc_end
-npc_begin	id=684	nickcolor=default	nick=[]	name=[Vanor Silenos Warrior]	npc_end
-npc_begin	id=685	nickcolor=default	nick=[]	name=[Vanor Silenos Shaman]	npc_end
-npc_begin	id=686	nickcolor=default	nick=[]	name=[Vanor Silenos Cheiftain]	npc_end
-npc_begin	id=687	nickcolor=default	nick=[]	name=[Revenant of Sir Calibus]	npc_end
-npc_begin	id=688	nickcolor=default	nick=[]	name=[Squire of Calibus]	npc_end
-npc_begin	id=689	nickcolor=default	nick=[]	name=[Demon Tempest]	npc_end
-npc_begin	id=690	nickcolor=default	nick=[]	name=[Revenant of The Executed]	npc_end
-npc_begin	id=691	nickcolor=default	nick=[]	name=[Red Eye Leader Trakia]	npc_end
-npc_begin	id=692	nickcolor=default	nick=[]	name=[Red Eye Guards]	npc_end
-npc_begin	id=693	nickcolor=default	nick=[]	name=[Nurka's Messenger]	npc_end
-npc_begin	id=694	nickcolor=default	nick=[]	name=[Messenger Escort]	npc_end
-npc_begin	id=695	nickcolor=default	nick=[]	name=[Stakato Queen Zyrnna]	npc_end
-npc_begin	id=696	nickcolor=default	nick=[]	name=[Marsh Stakato Noble]	npc_end
-npc_begin	id=697	nickcolor=default	nick=[]	name=[Titan's Creation, Premo Prime]	npc_end
-npc_begin	id=698	nickcolor=default	nick=[]	name=[Titan's Creation, Bemos]	npc_end
-npc_begin	id=699	nickcolor=default	nick=[]	name=[Archon Susceptor]	npc_end
-npc_begin	id=700	nickcolor=default	nick=[]	name=[Gustos Susceptor]	npc_end
-npc_begin	id=701	nickcolor=default	nick=[]	name=[Eye of Beleth]	npc_end
-npc_begin	id=702	nickcolor=default	nick=[]	name=[Follower of The Eye]	npc_end
-npc_begin	id=703	nickcolor=default	nick=[]	name=[Adherent of Antharas, Skyla]	npc_end
-npc_begin	id=704	nickcolor=default	nick=[]	name=[Skyla's Retainer]	npc_end
-npc_begin	id=705	nickcolor=default	nick=[]	name=[Corsair Captain Kylon]	npc_end
-npc_begin	id=706	nickcolor=default	nick=[]	name=[Kylon's Pirate]	npc_end
-npc_begin	id=707	nickcolor=default	nick=[]	name=[Cave Servant Lord Ishka]	npc_end
-npc_begin	id=708	nickcolor=default	nick=[]	name=[Cave Servant General]	npc_end
-npc_begin	id=709	nickcolor=default	nick=[]	name=[Scavenger Leader, Rinoket]	npc_end
-npc_begin	id=710	nickcolor=default	nick=[]	name=[Rinoket's Henchman]	npc_end
-npc_begin	id=711	nickcolor=default	nick=[]	name=[Necrosentinel Guard]	npc_end
-npc_begin	id=712	nickcolor=default	nick=[]	name=[Necrosentinel Archer]	npc_end
-npc_begin	id=713	nickcolor=default	nick=[]	name=[Envoy of Antharas, Nakondas]	npc_end
-npc_begin	id=714	nickcolor=default	nick=[]	name=[Nakonda's Slave]	npc_end
-npc_begin	id=715	nickcolor=default	nick=[]	name=[Dread Avenger Kraven]	npc_end
-npc_begin	id=716	nickcolor=default	nick=[]	name=[Dread Panther]	npc_end
-npc_begin	id=717	nickcolor=default	nick=[]	name=[Handmaiden of Orfen]	npc_end
-npc_begin	id=718	nickcolor=default	nick=[]	name=[Trisalim Escort]	npc_end
-npc_begin	id=719	nickcolor=default	nick=[]	name=[Fairy Queen Timiniel]	npc_end
-npc_begin	id=720	nickcolor=default	nick=[]	name=[Timiniel's Escort]	npc_end
-npc_begin	id=721	nickcolor=default	nick=[]	name=[Betrayer of Urutu Freki]	npc_end
-npc_begin	id=722	nickcolor=default	nick=[]	name=[Freki's Bloodseeker Bat]	npc_end
+npc_begin	id=263	nickcolor=default	nick=[17 aggr]	name=[Ol Mahum Novice]	npc_end
+npc_begin	id=264	nickcolor=default	nick=[20]	name=[Dark Succubus]	npc_end
+npc_begin	id=265	nickcolor=default	nick=[22 c.hold]	name=[Monster Eye Searcher]	npc_end
+npc_begin	id=266	nickcolor=default	nick=[25 c.hold]	name=[Monster Eye Gazer]	npc_end
+npc_begin	id=267	nickcolor=default	nick=[31]	name=[Breka Orc]	npc_end
+npc_begin	id=268	nickcolor=default	nick=[32 power shot]	name=[Breka Orc Archer]	npc_end
+npc_begin	id=269	nickcolor=default	nick=[34 c.dmg]	name=[Breka Orc Shaman]	npc_end
+npc_begin	id=270	nickcolor=default	nick=[35 aggr (patk)]	name=[Breka Orc Overlord]	npc_end
+npc_begin	id=271	nickcolor=default	nick=[33 aggr (patk)]	name=[Breka Orc Warrior]	npc_end
+npc_begin	id=272	nickcolor=default	nick=[46]	name=[Cave Servant B]	npc_end
+npc_begin	id=273	nickcolor=default	nick=[47]	name=[Cave Servant Archer B]	npc_end
+npc_begin	id=274	nickcolor=default	nick=[48]	name=[Cave Servant Warrior B]	npc_end
+npc_begin	id=275	nickcolor=default	nick=[49]	name=[Cave Servant Captain B]	npc_end
+npc_begin	id=276	nickcolor=default	nick=[51]	name=[Royal Cave Servant B]	npc_end
+npc_begin	id=277	nickcolor=default	nick=[58]	name=[Cave Keeper B]	npc_end
+npc_begin	id=278	nickcolor=default	nick=[60]	name=[Bloody Queen B]	npc_end
+npc_begin	id=279	nickcolor=default	nick=[45]	name=[Shackle B]	npc_end
+npc_begin	id=280	nickcolor=default	nick=[50]	name=[Headless Knight B]	npc_end
+npc_begin	id=281	nickcolor=default	nick=[53]	name=[Dustwind Gargoyle B]	npc_end
+npc_begin	id=282	nickcolor=default	nick=[54]	name=[Thunder Wyrm B]	npc_end
+npc_begin	id=283	nickcolor=default	nick=[55]	name=[Malruk Succubus B]	npc_end
+npc_begin	id=284	nickcolor=default	nick=[56]	name=[Malruk Succubus Turen B]	npc_end
+npc_begin	id=285	nickcolor=default	nick=[57]	name=[Drake B]	npc_end
+npc_begin	id=286	nickcolor=default	nick=[52]	name=[Hunter Gargoyle B]	npc_end
+npc_begin	id=287	nickcolor=default	nick=[59]	name=[Cave Maiden B]	npc_end
+npc_begin	id=288	nickcolor=default	nick=[]	name=[Cat's Eye Bandit B]	npc_end
+npc_begin	id=289	nickcolor=default	nick=[17]	name=[Ol Mahum Novice B]	npc_end
+npc_begin	id=290	nickcolor=default	nick=[20]	name=[Dark Succubus B]	npc_end
+npc_begin	id=291	nickcolor=default	nick=[21 aggr (patk)]	name=[Enku Orc Champion]	npc_end
+npc_begin	id=292	nickcolor=default	nick=[20 c.curse]	name=[Enku Orc Shaman]	npc_end
+npc_begin	id=293	nickcolor=default	nick=[20]	name=[Virud Lizardman]	npc_end
+npc_begin	id=294	nickcolor=default	nick=[24]	name=[Virud Lizardman Matriarch]	npc_end
+npc_begin	id=295	nickcolor=default	nick=[22]	name=[Virud Lizardman Warrior]	npc_end
+npc_begin	id=296	nickcolor=default	nick=[21]	name=[Virud Lizardman Scout]	npc_end
+npc_begin	id=297	nickcolor=default	nick=[23]	name=[Virud Lizardman Shaman ]	npc_end
+npc_begin	id=298	nickcolor=default	nick=[]	name=[Virud Lizardman Shaman  B]	npc_end
+npc_begin	id=299	nickcolor=default	nick=[40]	name=[Zenta Lizardman]	npc_end
+npc_begin	id=300	nickcolor=default	nick=[44]	name=[Zenta Lizardman Matriarch]	npc_end
+npc_begin	id=301	nickcolor=default	nick=[41]	name=[Zenta Lizardman Scout]	npc_end
+npc_begin	id=302	nickcolor=default	nick=[42]	name=[Zenta Lizardman Warrior]	npc_end
+npc_begin	id=303	nickcolor=default	nick=[43]	name=[Zenta Lizardman Shaman]	npc_end
+npc_begin	id=304	nickcolor=default	nick=[36]	name=[Marsh Stakato Queen]	npc_end
+npc_begin	id=305	nickcolor=default	nick=[40]	name=[Grave]	npc_end
+npc_begin	id=306	nickcolor=default	nick=[45 aggr leader]	name=[Gargoyle Lord Sirocco]	npc_end
+npc_begin	id=307	nickcolor=default	nick=[9]	name=[Garum Werewolf]	npc_end
+npc_begin	id=308	nickcolor=default	nick=[16]	name=[Hook Spider]	npc_end
+npc_begin	id=309	nickcolor=default	nick=[2]	name=[Brown Fox]	npc_end
+npc_begin	id=310	nickcolor=default	nick=[16 aggr]	name=[Brown Bear]	npc_end
+npc_begin	id=311	nickcolor=default	nick=[6]	name=[Rakeclaw Imp]	npc_end
+npc_begin	id=312	nickcolor=default	nick=[7]	name=[Rakeclaw Imp Hunter]	npc_end
+npc_begin	id=313	nickcolor=default	nick=[10 aggr]	name=[Rakeclaw Imp Chieftain]	npc_end
+npc_begin	id=314	nickcolor=default	nick=[30]	name=[Great White Shark]	npc_end
+npc_begin	id=315	nickcolor=default	nick=[35 aggr leader]	name=[Giant Wasteland Basilisk]	npc_end
+npc_begin	id=316	nickcolor=default	nick=[11]	name=[Darkwing Bat]	npc_end
+npc_begin	id=317	nickcolor=default	nick=[4]	name=[Black Wolf]	npc_end
+npc_begin	id=318	nickcolor=default	nick=[6]	name=[Black Timber Wolf]	npc_end
+npc_begin	id=319	nickcolor=default	nick=[5]	name=[Goblin Grave Robber]	npc_end
+npc_begin	id=320	nickcolor=default	nick=[12]	name=[Goblin Tomb Raider Leader]	npc_end
+npc_begin	id=321	nickcolor=default	nick=[10]	name=[Goblin Thief]	npc_end
+npc_begin	id=322	nickcolor=default	nick=[8]	name=[Goblin Brigand]	npc_end
+npc_begin	id=323	nickcolor=default	nick=[14 aggr]	name=[Goblin Brigand Leader]	npc_end
+npc_begin	id=324	nickcolor=default	nick=[10 aggr]	name=[Goblin Brigand Lieutenant]	npc_end
+npc_begin	id=325	nickcolor=default	nick=[5]	name=[Goblin Raider]	npc_end
+npc_begin	id=326	nickcolor=default	nick=[8]	name=[Goblin Scout]	npc_end
+npc_begin	id=327	nickcolor=default	nick=[5]	name=[Goblin Snooper]	npc_end
+npc_begin	id=328	nickcolor=default	nick=[8]	name=[Goblin Lookout]	npc_end
+npc_begin	id=329	nickcolor=default	nick=[21 aggr]	name=[Ghost Guardian]	npc_end
+npc_begin	id=330	nickcolor=default	nick=[11]	name=[Mineshaft Bat]	npc_end
+npc_begin	id=331	nickcolor=default	nick=[10 c.hold]	name=[Monster Eye Tracker]	npc_end
+npc_begin	id=332	nickcolor=default	nick=[35 aggr leader]	name=[Patriarch Kuroboros]	npc_end
+npc_begin	id=333	nickcolor=default	nick=[13 c.dmg]	name=[Greystone Golem]	npc_end
+npc_begin	id=334	nickcolor=default	nick=[1]	name=[Gremlin Scavenger]	npc_end
+npc_begin	id=335	nickcolor=default	nick=[17]	name=[Grizzly Bear]	npc_end
+npc_begin	id=336	nickcolor=default	nick=[8]	name=[Green Dryad]	npc_end
+npc_begin	id=337	nickcolor=default	nick=[2]	name=[Longtail Fox]	npc_end
+npc_begin	id=338	nickcolor=default	nick=[21 aggr]	name=[Nightmare Weaver]	npc_end
+npc_begin	id=339	nickcolor=default	nick=[28 minion]	name=[Nightmare Flyer]	npc_end
+npc_begin	id=340	nickcolor=default	nick=[12 aggr]	name=[Slave Skeleton]	npc_end
+npc_begin	id=341	nickcolor=default	nick=[19 c.dmg]	name=[Undead Slave]	npc_end
+npc_begin	id=342	nickcolor=default	nick=[12 aggr]	name=[Werewolf Chieftain]	npc_end
+npc_begin	id=343	nickcolor=default	nick=[10 aggr]	name=[Werewolf Hunter]	npc_end
+npc_begin	id=344	nickcolor=default	nick=[30 aggr leader]	name=[Malex Herald Of Dagoniel]	npc_end
+npc_begin	id=345	nickcolor=default	nick=[16 aggr]	name=[Dark Terror]	npc_end
+npc_begin	id=346	nickcolor=default	nick=[13 c.dmg]	name=[Darkstone Golem]	npc_end
+npc_begin	id=347	nickcolor=default	nick=[55]	name=[Death Wraith]	npc_end
+npc_begin	id=348	nickcolor=default	nick=[15]	name=[Cave Spider]	npc_end
+npc_begin	id=349	nickcolor=default	nick=[13]	name=[Cave Bat]	npc_end
+npc_begin	id=350	nickcolor=default	nick=[16 aggr]	name=[Cave Fang Spider]	npc_end
+npc_begin	id=351	nickcolor=default	nick=[20 aggr]	name=[Dre Vanul Tracker]	npc_end
+npc_begin	id=352	nickcolor=default	nick=[22 aggr]	name=[Dre Vanul Slayer]	npc_end
+npc_begin	id=353	nickcolor=default	nick=[21 aggr]	name=[Dre Vanul Beholder]	npc_end
+npc_begin	id=354	nickcolor=default	nick=[20]	name=[Dwarf Ghost]	npc_end
+npc_begin	id=355	nickcolor=default	nick=[17 minion]	name=[Dementia Beast]	npc_end
+npc_begin	id=356	nickcolor=default	nick=[24 aggr]	name=[Langk Lizardman Leader]	npc_end
+npc_begin	id=357	nickcolor=default	nick=[21]	name=[Langk Lizardman Lieutenant]	npc_end
+npc_begin	id=358	nickcolor=default	nick=[18]	name=[Ratman Hunter]	npc_end
+npc_begin	id=359	nickcolor=default	nick=[19]	name=[Ratman Warrior]	npc_end
+npc_begin	id=360	nickcolor=default	nick=[16]	name=[Ratman Spy]	npc_end
+npc_begin	id=361	nickcolor=default	nick=[10 archer]	name=[Tunath Orc Marksman]	npc_end
+npc_begin	id=362	nickcolor=default	nick=[12 aggr]	name=[Tunath Orc Warrior]	npc_end
+npc_begin	id=363	nickcolor=default	nick=[9]	name=[Maraku Werewolf]	npc_end
+npc_begin	id=364	nickcolor=default	nick=[14 aggr]	name=[Maraku Werewolf Chieftain]	npc_end
+npc_begin	id=365	nickcolor=default	nick=[8]	name=[Mountain Fungus]	npc_end
+npc_begin	id=366	nickcolor=default	nick=[20 aggr leader]	name=[Madness Beast]	npc_end
+npc_begin	id=367	nickcolor=default	nick=[21 aggr]	name=[Merkenis Escort]	npc_end
+npc_begin	id=368	nickcolor=default	nick=[13 c.dmg]	name=[Grave Keeper]	npc_end
+npc_begin	id=369	nickcolor=default	nick=[17]	name=[Moonstone Beast]	npc_end
+npc_begin	id=370	nickcolor=default	nick=[12]	name=[Barbed Bat]	npc_end
+npc_begin	id=371	nickcolor=default	nick=[15 aggr]	name=[Mist Terror]	npc_end
+npc_begin	id=372	nickcolor=default	nick=[10 aggr]	name=[Baraq Orc Fighter]	npc_end
+npc_begin	id=373	nickcolor=default	nick=[11]	name=[Baraq Orc Fighter Lieutenant]	npc_end
+npc_begin	id=374	nickcolor=default	nick=[22 aggr]	name=[Baranka Guard]	npc_end
+npc_begin	id=375	nickcolor=default	nick=[21 aggr]	name=[Baranka Escort]	npc_end
+npc_begin	id=376	nickcolor=default	nick=[10 aggr leader]	name=[Varikan Brignad Leader]	npc_end
+npc_begin	id=377	nickcolor=default	nick=[7 minion]	name=[Varikan Brigand]	npc_end
+npc_begin	id=378	nickcolor=default	nick=[13 c.dmg]	name=[Stone Giant]	npc_end
+npc_begin	id=379	nickcolor=default	nick=[14 c.dmg]	name=[Stone Soldier]	npc_end
+npc_begin	id=380	nickcolor=default	nick=[16 c.dmg]	name=[Stone Guardian]	npc_end
+npc_begin	id=381	nickcolor=default	nick=[10]	name=[Vaiss Orc]	npc_end
+npc_begin	id=382	nickcolor=default	nick=[11]	name=[Vaiss Orc Lieutenant]	npc_end
+npc_begin	id=383	nickcolor=default	nick=[30]	name=[Arachnid Hunter]	npc_end
+npc_begin	id=384	nickcolor=default	nick=[20 aggr leader (casts dmg)]	name=[Discarded Guardian]	npc_end
+npc_begin	id=385	nickcolor=default	nick=[8 archer]	name=[Balor Orc Archer]	npc_end
+npc_begin	id=386	nickcolor=default	nick=[10 aggr]	name=[Balor Orc Fighter]	npc_end
+npc_begin	id=387	nickcolor=default	nick=[12 aggr]	name=[Balor Orc Fighter Leader]	npc_end
+npc_begin	id=388	nickcolor=default	nick=[11]	name=[Balor Orc Lieutenant]	npc_end
+npc_begin	id=389	nickcolor=default	nick=[16]	name=[Boogle Ratman]	npc_end
+npc_begin	id=390	nickcolor=default	nick=[18]	name=[Boogle Ratman Leader]	npc_end
+npc_begin	id=391	nickcolor=default	nick=[2]	name=[Red Fox]	npc_end
+npc_begin	id=392	nickcolor=default	nick=[15 aggr]	name=[Redeye Bat]	npc_end
+npc_begin	id=393	nickcolor=default	nick=[16]	name=[Red Scavenger Spider]	npc_end
+npc_begin	id=394	nickcolor=default	nick=[15]	name=[Crimson Tarantula]	npc_end
+npc_begin	id=395	nickcolor=default	nick=[13 minion]	name=[Brae Orc Archer]	npc_end
+npc_begin	id=396	nickcolor=default	nick=[15 minion]	name=[Brae Orc Fighter]	npc_end
+npc_begin	id=397	nickcolor=default	nick=[17 aggr leader (patk)]	name=[Brae Orc Chief]	npc_end
+npc_begin	id=398	nickcolor=default	nick=[15 aggr leader]	name=[Vrykolakas]	npc_end
+npc_begin	id=399	nickcolor=default	nick=[9 minion]	name=[Vrykolakas Wolfkin]	npc_end
+npc_begin	id=400	nickcolor=default	nick=[12]	name=[Blood Fungus]	npc_end
+npc_begin	id=401	nickcolor=default	nick=[23]	name=[Veelan Bugbear]	npc_end
+npc_begin	id=402	nickcolor=default	nick=[24 aggr]	name=[Veelan Bugbear Warrior]	npc_end
+npc_begin	id=403	nickcolor=default	nick=[16]	name=[Hunter Tarantula]	npc_end
+npc_begin	id=404	nickcolor=default	nick=[16 aggr]	name=[Silent Horror]	npc_end
+npc_begin	id=405	nickcolor=default	nick=[1]	name=[Young Brown Fox]	npc_end
+npc_begin	id=406	nickcolor=default	nick=[1]	name=[Young Red Fox]	npc_end
+npc_begin	id=407	nickcolor=default	nick=[1]	name=[Young Crimson Fox]	npc_end
+npc_begin	id=408	nickcolor=default	nick=[26 minion]	name=[Sharuk'S Henchmen]	npc_end
+npc_begin	id=409	nickcolor=default	nick=[35 aggr leader (casts dmg)]	name=[Souls Scavenger]	npc_end
+npc_begin	id=410	nickcolor=default	nick=[15 aggr]	name=[Scavenger Spider]	npc_end
+npc_begin	id=411	nickcolor=default	nick=[18 aggr]	name=[Scavenger Bat]	npc_end
+npc_begin	id=412	nickcolor=default	nick=[49]	name=[Susceptor]	npc_end
+npc_begin	id=413	nickcolor=default	nick=[25 minion]	name=[Sukar Wererat Warrior]	npc_end
+npc_begin	id=414	nickcolor=default	nick=[28 aggr leader]	name=[Sukar Wererat Chief]	npc_end
+npc_begin	id=415	nickcolor=default	nick=[17]	name=[Scarlet Salamander]	npc_end
+npc_begin	id=416	nickcolor=default	nick=[18]	name=[Scarlet Salamander Elder]	npc_end
+npc_begin	id=417	nickcolor=default	nick=[43 minion]	name=[Sirocco Gargoyle]	npc_end
+npc_begin	id=418	nickcolor=default	nick=[18]	name=[Crystalline Beast]	npc_end
+npc_begin	id=419	nickcolor=default	nick=[20]	name=[Akaste Succubus]	npc_end
+npc_begin	id=420	nickcolor=default	nick=[21 aggr (c.sleep)]	name=[Akaste Succubus Turen]	npc_end
+npc_begin	id=421	nickcolor=default	nick=[22 aggr (c.sleep)]	name=[Akaste Succubus Tilfo]	npc_end
+npc_begin	id=422	nickcolor=default	nick=[17 aggr]	name=[Akaste Bone Warlord]	npc_end
+npc_begin	id=423	nickcolor=default	nick=[14 archer]	name=[Akaste Bone Archer]	npc_end
+npc_begin	id=424	nickcolor=default	nick=[19 aggr]	name=[Akaste Bone Lord]	npc_end
+npc_begin	id=425	nickcolor=default	nick=[12 aggr]	name=[Akaste Bone Soldier]	npc_end
+npc_begin	id=426	nickcolor=default	nick=[10]	name=[Evil Eye]	npc_end
+npc_begin	id=427	nickcolor=default	nick=[10]	name=[Evil Eye Watcher]	npc_end
+npc_begin	id=428	nickcolor=default	nick=[14]	name=[Evil Eye Patroller]	npc_end
+npc_begin	id=429	nickcolor=default	nick=[14]	name=[Evil Eye Lookout]	npc_end
+npc_begin	id=430	nickcolor=default	nick=[27 minion]	name=[Abyss Flyer]	npc_end
+npc_begin	id=431	nickcolor=default	nick=[20]	name=[Elf Ghost]	npc_end
+npc_begin	id=432	nickcolor=default	nick=[1 (flees)]	name=[Elpy]	npc_end
+npc_begin	id=433	nickcolor=default	nick=[13]	name=[Festering Bat]	npc_end
+npc_begin	id=434	nickcolor=default	nick=[24 minion]	name=[Yellow Hornet]	npc_end
+npc_begin	id=435	nickcolor=default	nick=[15 aggr]	name=[Opal Beast]	npc_end
+npc_begin	id=436	nickcolor=default	nick=[23 coward]	name=[Ol Mahum Supplier]	npc_end
+npc_begin	id=437	nickcolor=default	nick=[21 coward]	name=[Ol Mahum Recruit]	npc_end
+npc_begin	id=438	nickcolor=default	nick=[26 aggr (coward)]	name=[Ol Mahum General]	npc_end
+npc_begin	id=439	nickcolor=default	nick=[24 coward]	name=[Ol Mahum Officer]	npc_end
+npc_begin	id=440	nickcolor=default	nick=[3]	name=[Elder Brown Fox]	npc_end
+npc_begin	id=441	nickcolor=default	nick=[3]	name=[Elder Longtail Fox]	npc_end
+npc_begin	id=442	nickcolor=default	nick=[5]	name=[Elder Wolf]	npc_end
+npc_begin	id=443	nickcolor=default	nick=[3]	name=[Elder Red Fox]	npc_end
+npc_begin	id=444	nickcolor=default	nick=[3]	name=[Elder Prarie Fox]	npc_end
+npc_begin	id=445	nickcolor=default	nick=[7 minion]	name=[Uthanka Pirate]	npc_end
+npc_begin	id=446	nickcolor=default	nick=[6]	name=[Utuku Orc]	npc_end
+npc_begin	id=447	nickcolor=default	nick=[8 archer]	name=[Utuku Orc Archer]	npc_end
+npc_begin	id=448	nickcolor=default	nick=[7]	name=[Utuku Orc Grunt]	npc_end
+npc_begin	id=449	nickcolor=default	nick=[15 c.splash]	name=[Will-O-Wisp]	npc_end
+npc_begin	id=450	nickcolor=default	nick=[9]	name=[Relic Werewolf]	npc_end
+npc_begin	id=451	nickcolor=default	nick=[21]	name=[Relic Spartoi]	npc_end
+npc_begin	id=452	nickcolor=default	nick=[30 aggr leader]	name=[Kaysha Herald Of Ikaros]	npc_end
+npc_begin	id=453	nickcolor=default	nick=[20]	name=[Human Ghost]	npc_end
+npc_begin	id=454	nickcolor=default	nick=[17 minion]	name=[Oblivion Watcher]	npc_end
+npc_begin	id=455	nickcolor=default	nick=[14 aggr]	name=[Doom Soldier]	npc_end
+npc_begin	id=456	nickcolor=default	nick=[4]	name=[Ashen Wolf]	npc_end
+npc_begin	id=457	nickcolor=default	nick=[19 c.dmg]	name=[Zombie Soldier]	npc_end
+npc_begin	id=458	nickcolor=default	nick=[22 aggr (c.dmg)]	name=[Zombie Warrior]	npc_end
+npc_begin	id=459	nickcolor=default	nick=[29]	name=[Zombie Lord Farakelsus]	npc_end
+npc_begin	id=460	nickcolor=default	nick=[15 aggr]	name=[Crimson Spider]	npc_end
+npc_begin	id=461	nickcolor=default	nick=[15 aggr]	name=[Dungeon Spider]	npc_end
+npc_begin	id=462	nickcolor=default	nick=[17 aggr]	name=[Cave Blade Spider]	npc_end
+npc_begin	id=463	nickcolor=default	nick=[13 archer]	name=[Dungeon Skeleton Archer]	npc_end
+npc_begin	id=464	nickcolor=default	nick=[12 aggr]	name=[Dungeon Skeleton]	npc_end
+npc_begin	id=465	nickcolor=default	nick=[2]	name=[Prarie Fox]	npc_end
+npc_begin	id=466	nickcolor=default	nick=[17 aggr]	name=[Pincer Spider]	npc_end
+npc_begin	id=467	nickcolor=default	nick=[28 aggr leader (ratk)]	name=[Tracker Sharuk]	npc_end
+npc_begin	id=468	nickcolor=default	nick=[6]	name=[Kaboo Orc]	npc_end
+npc_begin	id=469	nickcolor=default	nick=[8 archer]	name=[Kaboo Orc Archer]	npc_end
+npc_begin	id=470	nickcolor=default	nick=[7]	name=[Kaboo Orc Grunt]	npc_end
+npc_begin	id=471	nickcolor=default	nick=[10 aggr]	name=[Kaboo Orc Fighter]	npc_end
+npc_begin	id=472	nickcolor=default	nick=[12 aggr]	name=[Kaboo Orc Fighter Leader]	npc_end
+npc_begin	id=473	nickcolor=default	nick=[11]	name=[Kaboo Orc Fighter Lieutenant]	npc_end
+npc_begin	id=474	nickcolor=default	nick=[15]	name=[Kasha Spider]	npc_end
+npc_begin	id=475	nickcolor=default	nick=[4]	name=[Kasha Wolf]	npc_end
+npc_begin	id=476	nickcolor=default	nick=[16]	name=[Kasha Fang Spider]	npc_end
+npc_begin	id=477	nickcolor=default	nick=[6]	name=[Kasha Timber Wolf]	npc_end
+npc_begin	id=478	nickcolor=default	nick=[17]	name=[Kasha Blade Spider]	npc_end
+npc_begin	id=479	nickcolor=default	nick=[15 aggr]	name=[Kasha Bear]	npc_end
+npc_begin	id=480	nickcolor=default	nick=[10]	name=[Blade Bat]	npc_end
+npc_begin	id=481	nickcolor=default	nick=[1]	name=[Bearded Keltir]	npc_end
+npc_begin	id=482	nickcolor=default	nick=[32 minion]	name=[Corpse Scavenger]	npc_end
+npc_begin	id=483	nickcolor=default	nick=[17 c.splash]	name=[Corpse Candle]	npc_end
+npc_begin	id=484	nickcolor=default	nick=[29 minion]	name=[Follower Of Kuroboros]	npc_end
+npc_begin	id=485	nickcolor=default	nick=[31 aggr leader]	name=[Priest Of Kuroboros]	npc_end
+npc_begin	id=486	nickcolor=default	nick=[33 minion]	name=[Soldier Of Kuroboros]	npc_end
+npc_begin	id=487	nickcolor=default	nick=[16]	name=[Kuruka Ratman]	npc_end
+npc_begin	id=488	nickcolor=default	nick=[17]	name=[Kuruka Ratman Hunter]	npc_end
+npc_begin	id=489	nickcolor=default	nick=[15 aggr]	name=[Quicksilver Beast]	npc_end
+npc_begin	id=490	nickcolor=default	nick=[40]	name=[Death Doll]	npc_end
+npc_begin	id=491	nickcolor=default	nick=[15 aggr]	name=[Crypt Horror]	npc_end
+npc_begin	id=492	nickcolor=default	nick=[21]	name=[Kirunak'S Guards]	npc_end
+npc_begin	id=493	nickcolor=default	nick=[26 aggr leader]	name=[Tiger Hornet]	npc_end
+npc_begin	id=494	nickcolor=default	nick=[24 coward]	name=[Turek War Hound]	npc_end
+npc_begin	id=495	nickcolor=default	nick=[30 aggr (coward)]	name=[Turek Orc Warlord]	npc_end
+npc_begin	id=496	nickcolor=default	nick=[27 archer]	name=[Turek Orc Archer]	npc_end
+npc_begin	id=497	nickcolor=default	nick=[28 aggr (coward)]	name=[Turek Orc Skirmisher]	npc_end
+npc_begin	id=498	nickcolor=default	nick=[27 coward]	name=[Turek Orc Supplier]	npc_end
+npc_begin	id=499	nickcolor=default	nick=[26 coward]	name=[Turek Orc Footman]	npc_end
+npc_begin	id=500	nickcolor=default	nick=[25 coward]	name=[Turek Orc Sentinel]	npc_end
+npc_begin	id=501	nickcolor=default	nick=[29 c.dmg]	name=[Turek Orc Shaman]	npc_end
+npc_begin	id=502	nickcolor=default	nick=[15 aggr]	name=[Twink Puma]	npc_end
+npc_begin	id=503	nickcolor=default	nick=[26]	name=[Farakelsus Zombie]	npc_end
+npc_begin	id=504	nickcolor=default	nick=[14 aggr]	name=[Dread Soldier]	npc_end
+npc_begin	id=505	nickcolor=default	nick=[20]	name=[Ruin Bat]	npc_end
+npc_begin	id=506	nickcolor=default	nick=[17]	name=[Ruin Imp]	npc_end
+npc_begin	id=507	nickcolor=default	nick=[21 aggr]	name=[Ruin Imp Elder]	npc_end
+npc_begin	id=508	nickcolor=default	nick=[17 aggr]	name=[Plunder Tarantula]	npc_end
+npc_begin	id=509	nickcolor=default	nick=[9]	name=[Spore Fungus]	npc_end
+npc_begin	id=510	nickcolor=default	nick=[15]	name=[Puma B]	npc_end
+npc_begin	id=511	nickcolor=default	nick=[19 c.dmg]	name=[Pitchstone Golem]	npc_end
+npc_begin	id=512	nickcolor=default	nick=[35]	name=[Field Stalker]	npc_end
+npc_begin	id=513	nickcolor=default	nick=[]	name=[Skeleton Knight B]	npc_end
+npc_begin	id=514	nickcolor=default	nick=[15]	name=[Shield Skeleton]	npc_end
+npc_begin	id=515	nickcolor=default	nick=[16]	name=[Skeleton Infantryman]	npc_end
+npc_begin	id=516	nickcolor=default	nick=[14]	name=[Skeleton Sentinel]	npc_end
+npc_begin	id=517	nickcolor=default	nick=[12 aggr]	name=[Skeleton Hunter]	npc_end
+npc_begin	id=518	nickcolor=default	nick=[13 archer]	name=[Skeleton Hunter Archer]	npc_end
+npc_begin	id=519	nickcolor=default	nick=[27]	name=[Skeleton Pikeman]	npc_end
+npc_begin	id=520	nickcolor=default	nick=[10 aggr leader]	name=[Pirate Captain Uthanka]	npc_end
+npc_begin	id=521	nickcolor=default	nick=[14 c.dmg]	name=[Whinstone Golem]	npc_end
+npc_begin	id=522	nickcolor=default	nick=[10 aggr leader]	name=[White Fang]	npc_end
+npc_begin	id=523	nickcolor=default	nick=[33 minion]	name=[Wasteland Basilisk]	npc_end
+npc_begin	id=524	nickcolor=default	nick=[7 minion]	name=[Grey Wolf Elder]	npc_end
+npc_begin	id=525	nickcolor=default	nick=[4]	name=[Gray Wolf]	npc_end
+npc_begin	id=526	nickcolor=default	nick=[15 c.dmg]	name=[Obsidian Golem]	npc_end
+npc_begin	id=527	nickcolor=default	nick=[4]	name=[White Wolf]	npc_end
+npc_begin	id=528	nickcolor=default	nick=[13]	name=[Goblin Lord]	npc_end
+npc_begin	id=529	nickcolor=default	nick=[1]	name=[Young Brown Keltir]	npc_end
+npc_begin	id=530	nickcolor=default	nick=[1]	name=[Young Red Keltir]	npc_end
+npc_begin	id=531	nickcolor=default	nick=[1]	name=[Young Prarie Keltir]	npc_end
+npc_begin	id=532	nickcolor=default	nick=[2]	name=[Brown Keltir]	npc_end
+npc_begin	id=533	nickcolor=default	nick=[2]	name=[Longtail Keltir]	npc_end
+npc_begin	id=534	nickcolor=default	nick=[2]	name=[Red Keltir]	npc_end
+npc_begin	id=535	nickcolor=default	nick=[2]	name=[Prarie Keltir]	npc_end
+npc_begin	id=536	nickcolor=default	nick=[3]	name=[Elder Brown Keltir]	npc_end
+npc_begin	id=537	nickcolor=default	nick=[3]	name=[Elder Red Keltir]	npc_end
+npc_begin	id=538	nickcolor=default	nick=[3]	name=[Elder Prarie Keltir]	npc_end
+npc_begin	id=539	nickcolor=default	nick=[3]	name=[Elder Longtail Keltir]	npc_end
+npc_begin	id=540	nickcolor=default	nick=[12]	name=[Gemstone Beast]	npc_end
+npc_begin	id=541	nickcolor=default	nick=[17 aggr]	name=[Ore Bat]	npc_end
+npc_begin	id=542	nickcolor=default	nick=[19]	name=[Skeleton Longbowman]	npc_end
+npc_begin	id=543	nickcolor=default	nick=[20]	name=[Ghost]	npc_end
+npc_begin	id=544	nickcolor=default	nick=[3]	name=[Elder Keltir]	npc_end
+npc_begin	id=545	nickcolor=default	nick=[1]	name=[Young Keltir]	npc_end
+npc_begin	id=546	nickcolor=default	nick=[34 aggr (c.dmg)]	name=[Turek Orc Elder]	npc_end
+npc_begin	id=547	nickcolor=default	nick=[23]	name=[Ol Mahum Reserve]	npc_end
+npc_begin	id=548	nickcolor=default	nick=[23 aggr]	name=[Ol Mahum Deserter]	npc_end
+npc_begin	id=549	nickcolor=default	nick=[25]	name=[Ol Mahum Lord]	npc_end
+npc_begin	id=550	nickcolor=default	nick=[36]	name=[Guardian Basilisk]	npc_end
+npc_begin	id=551	nickcolor=default	nick=[37]	name=[Road Scavenger]	npc_end
+npc_begin	id=552	nickcolor=default	nick=[38 aggr]	name=[Fettered Soul]	npc_end
+npc_begin	id=553	nickcolor=default	nick=[39]	name=[Windsus]	npc_end
+npc_begin	id=554	nickcolor=default	nick=[40 aggr]	name=[Grandis]	npc_end
+npc_begin	id=555	nickcolor=default	nick=[40 c.hold]	name=[Giant Fungus]	npc_end
+npc_begin	id=556	nickcolor=default	nick=[41 c.hold]	name=[Giant Monstereye]	npc_end
+npc_begin	id=557	nickcolor=default	nick=[42 aggr]	name=[Dire Wyrm]	npc_end
+npc_begin	id=558	nickcolor=default	nick=[43 c.hold]	name=[Rotting tree]	npc_end
+npc_begin	id=559	nickcolor=default	nick=[44 c.splash]	name=[Rotting Golem]	npc_end
+npc_begin	id=560	nickcolor=default	nick=[45]	name=[Trisalim Spider]	npc_end
+npc_begin	id=561	nickcolor=default	nick=[46 aggr]	name=[Trisalim Tarantula]	npc_end
+npc_begin	id=562	nickcolor=default	nick=[47 c.dmg]	name=[Spore Zombie]	npc_end
+npc_begin	id=563	nickcolor=default	nick=[40 patk]	name=[Manashen Gargoyle]	npc_end
+npc_begin	id=564	nickcolor=default	nick=[41 aggr (c.hold)]	name=[Enchanted Monstereye]	npc_end
+npc_begin	id=565	nickcolor=default	nick=[42 c.splash]	name=[Enchanted Stone Golem]	npc_end
+npc_begin	id=566	nickcolor=default	nick=[43 c.splash]	name=[Enchanted Iron Golem]	npc_end
+npc_begin	id=567	nickcolor=default	nick=[44 patk]	name=[Enchanted Gargoyle]	npc_end
+npc_begin	id=568	nickcolor=default	nick=[45]	name=[Formor]	npc_end
+npc_begin	id=569	nickcolor=default	nick=[46]	name=[Formor Elder]	npc_end
+npc_begin	id=570	nickcolor=default	nick=[47 aggr]	name=[Tarlk Bugbear]	npc_end
+npc_begin	id=571	nickcolor=default	nick=[48]	name=[Tarlk Bugbear Warrior]	npc_end
+npc_begin	id=572	nickcolor=default	nick=[49]	name=[Tarlk Bugbear High Warrior]	npc_end
+npc_begin	id=573	nickcolor=default	nick=[50]	name=[Tarlk Basilisk]	npc_end
+npc_begin	id=574	nickcolor=default	nick=[51 aggr]	name=[Elder Tarlk Basilisk]	npc_end
+npc_begin	id=575	nickcolor=default	nick=[54]	name=[Oel Mahum Warrior]	npc_end
+npc_begin	id=576	nickcolor=default	nick=[55 c.dmg]	name=[Oel Mahum Witch Doctor]	npc_end
+npc_begin	id=577	nickcolor=default	nick=[35]	name=[Leto Lizardman]	npc_end
+npc_begin	id=578	nickcolor=default	nick=[36 archer]	name=[Leto Lizardman Archer]	npc_end
+npc_begin	id=579	nickcolor=default	nick=[37 aggr]	name=[Leto Lizardman Soldier]	npc_end
+npc_begin	id=580	nickcolor=default	nick=[38]	name=[Leto Lizardman Warrior]	npc_end
+npc_begin	id=581	nickcolor=default	nick=[39 c.dmg]	name=[Leto Lizardman Shaman]	npc_end
+npc_begin	id=582	nickcolor=default	nick=[40 aggr]	name=[Leto Lizardman Overlord]	npc_end
+npc_begin	id=583	nickcolor=default	nick=[40]	name=[Timak Orc]	npc_end
+npc_begin	id=584	nickcolor=default	nick=[41 power shot]	name=[Timak Orc Archer]	npc_end
+npc_begin	id=585	nickcolor=default	nick=[42 aggr (ratk)]	name=[Timak Orc Soldier]	npc_end
+npc_begin	id=586	nickcolor=default	nick=[43 selfbuffs]	name=[Timak Orc Warrior]	npc_end
+npc_begin	id=587	nickcolor=default	nick=[44 c.dmg]	name=[Timak Orc Shaman]	npc_end
+npc_begin	id=588	nickcolor=default	nick=[45 aggr]	name=[Timak Orc Overlord]	npc_end
+npc_begin	id=589	nickcolor=default	nick=[45 c.dmg]	name=[Fline]	npc_end
+npc_begin	id=590	nickcolor=default	nick=[46 c.dmg]	name=[Liele]	npc_end
+npc_begin	id=591	nickcolor=default	nick=[47 c.hold]	name=[Valley Treant]	npc_end
+npc_begin	id=592	nickcolor=default	nick=[48 aggr]	name=[Satyr]	npc_end
+npc_begin	id=593	nickcolor=default	nick=[49]	name=[Unicorn]	npc_end
+npc_begin	id=594	nickcolor=default	nick=[50]	name=[Forest Runner]	npc_end
+npc_begin	id=595	nickcolor=default	nick=[51 c.dmg]	name=[Fline Elder]	npc_end
+npc_begin	id=596	nickcolor=default	nick=[52 aggr (c.dmg)]	name=[Liele Elder]	npc_end
+npc_begin	id=597	nickcolor=default	nick=[53 c.hold]	name=[Valley treant Elder]	npc_end
+npc_begin	id=598	nickcolor=default	nick=[54]	name=[Satyr Elder]	npc_end
+npc_begin	id=599	nickcolor=default	nick=[55 c.dmg]	name=[Unicorn Elder]	npc_end
+npc_begin	id=600	nickcolor=default	nick=[40]	name=[Karul Bugbear]	npc_end
+npc_begin	id=601	nickcolor=default	nick=[41]	name=[Tamlin Orc]	npc_end
+npc_begin	id=602	nickcolor=default	nick=[42 power shot]	name=[Tamlin Orc Archer]	npc_end
+npc_begin	id=603	nickcolor=default	nick=[43 aggr]	name=[Kronbe Spider]	npc_end
+npc_begin	id=604	nickcolor=default	nick=[44 ratk]	name=[Lakin]	npc_end
+npc_begin	id=605	nickcolor=default	nick=[45 aggr (c.dmg)]	name=[Weird Drake]	npc_end
+npc_begin	id=606	nickcolor=default	nick=[27]	name=[Kuran Kobold]	npc_end
+npc_begin	id=607	nickcolor=default	nick=[28]	name=[Kuran Kobold Warrior]	npc_end
+npc_begin	id=608	nickcolor=default	nick=[29 aggr (archer)]	name=[Patin Archer]	npc_end
+npc_begin	id=609	nickcolor=default	nick=[30]	name=[Lakin Salamander]	npc_end
+npc_begin	id=610	nickcolor=default	nick=[31]	name=[Sentinel Of Water]	npc_end
+npc_begin	id=611	nickcolor=default	nick=[32 aggr (c.dmg)]	name=[Dre Vanul Warrior]	npc_end
+npc_begin	id=612	nickcolor=default	nick=[33 aggr]	name=[Salamander Rowin]	npc_end
+npc_begin	id=613	nickcolor=default	nick=[27]	name=[Lafi Lizardman]	npc_end
+npc_begin	id=614	nickcolor=default	nick=[28 archer]	name=[Lafi Lizardman Scout]	npc_end
+npc_begin	id=615	nickcolor=default	nick=[29 aggr]	name=[Ritmal Swordsman]	npc_end
+npc_begin	id=616	nickcolor=default	nick=[30 c.dmg]	name=[Lakin Undine]	npc_end
+npc_begin	id=617	nickcolor=default	nick=[31]	name=[Sentinel Of Water B]	npc_end
+npc_begin	id=618	nickcolor=default	nick=[32 aggr (c.dmg)]	name=[Kanil Succubus]	npc_end
+npc_begin	id=619	nickcolor=default	nick=[33 aggr (c.dmg)]	name=[Rowin Undine]	npc_end
+npc_begin	id=620	nickcolor=default	nick=[61 selfbuffs]	name=[Cave Beast]	npc_end
+npc_begin	id=621	nickcolor=default	nick=[62 selfbuffs]	name=[Death Wave]	npc_end
+npc_begin	id=622	nickcolor=default	nick=[63 aggr (patk)]	name=[Malruk Soldier]	npc_end
+npc_begin	id=623	nickcolor=default	nick=[64 patk]	name=[Plando]	npc_end
+npc_begin	id=624	nickcolor=default	nick=[65 selfbuffs]	name=[Cave Howler]	npc_end
+npc_begin	id=625	nickcolor=default	nick=[66 patk]	name=[Malruk Knight]	npc_end
+npc_begin	id=626	nickcolor=default	nick=[67 aggr (patk)]	name=[Malruk Berserker]	npc_end
+npc_begin	id=627	nickcolor=default	nick=[68 aggr]	name=[Malruk Lord]	npc_end
+npc_begin	id=628	nickcolor=default	nick=[69 aggr (c.sleep)]	name=[Limal Karinness]	npc_end
+npc_begin	id=629	nickcolor=default	nick=[70 aggr (c.hold)]	name=[Karik]	npc_end
+npc_begin	id=630	nickcolor=default	nick=[40]	name=[Taik Orc]	npc_end
+npc_begin	id=631	nickcolor=default	nick=[41 aggr (power shot)]	name=[Taik Orc Archer]	npc_end
+npc_begin	id=632	nickcolor=default	nick=[42 ratk]	name=[Taik Orc Warrior]	npc_end
+npc_begin	id=633	nickcolor=default	nick=[43 c.heal]	name=[Taik Orc Shaman]	npc_end
+npc_begin	id=634	nickcolor=default	nick=[44 aggr (ratk)]	name=[Taik Orc Captain]	npc_end
+npc_begin	id=635	nickcolor=default	nick=[45 aggr (c.dmg)]	name=[Carinkain]	npc_end
+npc_begin	id=636	nickcolor=default	nick=[46 aggr]	name=[Forrest of Mirror Ghost]	npc_end
+npc_begin	id=637	nickcolor=default	nick=[47 aggr]	name=[Forrest of Mirror Ghost B]	npc_end
+npc_begin	id=638	nickcolor=default	nick=[48 aggr]	name=[Forrest of Mirror Ghost C]	npc_end
+npc_begin	id=639	nickcolor=default	nick=[49 aggr (c.cansel)]	name=[Mirror]	npc_end
+npc_begin	id=640	nickcolor=default	nick=[50]	name=[Harit Lizardman]	npc_end
+npc_begin	id=641	nickcolor=default	nick=[51 patk]	name=[Harit Lizardman Grunt]	npc_end
+npc_begin	id=642	nickcolor=default	nick=[52 aggr (selfbuffs)]	name=[Harit Lizardman Archer]	npc_end
+npc_begin	id=643	nickcolor=default	nick=[53 patk]	name=[Harit Lizardman Warrior]	npc_end
+npc_begin	id=644	nickcolor=default	nick=[54 c.curse]	name=[Harit Lizardman Shaman]	npc_end
+npc_begin	id=645	nickcolor=default	nick=[55 aggr (patk)]	name=[Harit Lizardman Matriarch]	npc_end
+npc_begin	id=646	nickcolor=default	nick=[55 aggr]	name=[Halingka]	npc_end
+npc_begin	id=647	nickcolor=default	nick=[56 aggr (c.dmg)]	name=[Yintzu]	npc_end
+npc_begin	id=648	nickcolor=default	nick=[57 c.dmg]	name=[Paliote]	npc_end
+npc_begin	id=649	nickcolor=default	nick=[58 c.curse]	name=[Hamrut]	npc_end
+npc_begin	id=650	nickcolor=default	nick=[59 aggr (ratk)]	name=[Kranrot]	npc_end
+npc_begin	id=651	nickcolor=default	nick=[60]	name=[Gamlin]	npc_end
+npc_begin	id=652	nickcolor=default	nick=[61 c.curse]	name=[Leogul]	npc_end
+npc_begin	id=653	nickcolor=default	nick=[61]	name=[Lesser Giant]	npc_end
+npc_begin	id=654	nickcolor=default	nick=[62 ratk]	name=[Lesser Giant Soldier]	npc_end
+npc_begin	id=655	nickcolor=default	nick=[63]	name=[Lesser Giant Shooter]	npc_end
+npc_begin	id=656	nickcolor=default	nick=[63 aggr (c.dmg)]	name=[Lesser Giant Scout]	npc_end
+npc_begin	id=657	nickcolor=default	nick=[64 c.curse]	name=[Lesser Giant Mage]	npc_end
+npc_begin	id=658	nickcolor=default	nick=[65 aggr (selfbuffs)]	name=[Lesser Giant Elder]	npc_end
+npc_begin	id=659	nickcolor=default	nick=[45 c.hold]	name=[Grave Wanderer]	npc_end
+npc_begin	id=660	nickcolor=default	nick=[46 aggr (power shot)]	name=[Archer of Greed]	npc_end
+npc_begin	id=661	nickcolor=default	nick=[47 patk]	name=[Hatar Ratman Theif]	npc_end
+npc_begin	id=662	nickcolor=default	nick=[48 patk]	name=[Hatar Ratman Boss]	npc_end
+npc_begin	id=663	nickcolor=default	nick=[49 c.hold]	name=[Hatar Hanishee]	npc_end
+npc_begin	id=664	nickcolor=default	nick=[50 aggr (c.dmg)]	name=[Deprive]	npc_end
+npc_begin	id=665	nickcolor=default	nick=[51 ratk]	name=[Taik Orc Supply]	npc_end
+npc_begin	id=666	nickcolor=default	nick=[52 ratk]	name=[Taik Orc Seeker]	npc_end
+npc_begin	id=667	nickcolor=default	nick=[53]	name=[Farcran]	npc_end
+npc_begin	id=668	nickcolor=default	nick=[54 aggr (c.dmg)]	name=[Grave Guard]	npc_end
+npc_begin	id=669	nickcolor=default	nick=[55 aggr (ratk)]	name=[Taik Orc Supply Leader]	npc_end
+npc_begin	id=670	nickcolor=default	nick=[61 aggr (c.dmg)]	name=[Crimson Drake]	npc_end
+npc_begin	id=671	nickcolor=default	nick=[62 aggr]	name=[Kadios]	npc_end
+npc_begin	id=672	nickcolor=default	nick=[63 aggr (c.hold)]	name=[Trives]	npc_end
+npc_begin	id=673	nickcolor=default	nick=[64 aggr (c.sleep)]	name=[Falibati]	npc_end
+npc_begin	id=674	nickcolor=default	nick=[65 aggr (ratk)]	name=[Doom Knight]	npc_end
+npc_begin	id=675	nickcolor=default	nick=[50 selfbuffs]	name=[Tairim]	npc_end
+npc_begin	id=676	nickcolor=default	nick=[51 aggr]	name=[Judge of Marsh]	npc_end
+npc_begin	id=677	nickcolor=default	nick=[52 c.curse]	name=[Tulben]	npc_end
+npc_begin	id=678	nickcolor=default	nick=[53 c.dmg]	name=[Punishment of Undead]	npc_end
+npc_begin	id=679	nickcolor=default	nick=[54 c.curse]	name=[Marsh Stalker]	npc_end
+npc_begin	id=680	nickcolor=default	nick=[55 aggr (c.dmg)]	name=[Marsh Drake]	npc_end
+npc_begin	id=681	nickcolor=default	nick=[45 ratk]	name=[Vanor Silenos]	npc_end
+npc_begin	id=682	nickcolor=default	nick=[46 ratk]	name=[Vanor Silenos Grunt]	npc_end
+npc_begin	id=683	nickcolor=default	nick=[47 aggr (ratk)]	name=[Vanor Silenos Scout]	npc_end
+npc_begin	id=684	nickcolor=default	nick=[48 ratk]	name=[Vanor Silenos Warrior]	npc_end
+npc_begin	id=685	nickcolor=default	nick=[49 c.curse]	name=[Vanor Silenos Shaman]	npc_end
+npc_begin	id=686	nickcolor=default	nick=[50 c.heal]	name=[Vanor Silenos Cheiftain]	npc_end
+npc_begin	id=687	nickcolor=default	nick=[40 aggr leader (patk)]	name=[Revenant of Sir Calibus]	npc_end
+npc_begin	id=688	nickcolor=default	nick=[35 minion]	name=[Squire of Calibus]	npc_end
+npc_begin	id=689	nickcolor=default	nick=[38 aggr leader (casts dmg)]	name=[Demon Tempest]	npc_end
+npc_begin	id=690	nickcolor=default	nick=[33 minion]	name=[Revenant of The Executed]	npc_end
+npc_begin	id=691	nickcolor=default	nick=[40 aggr leader (patk)]	name=[Red Eye Leader Trakia]	npc_end
+npc_begin	id=692	nickcolor=default	nick=[33 minion]	name=[Red Eye Guards]	npc_end
+npc_begin	id=693	nickcolor=default	nick=[38 aggr leader (patk)]	name=[Nurka's Messenger]	npc_end
+npc_begin	id=694	nickcolor=default	nick=[33 minion]	name=[Messenger Escort]	npc_end
+npc_begin	id=695	nickcolor=default	nick=[43 aggr leader]	name=[Stakato Queen Zyrnna]	npc_end
+npc_begin	id=696	nickcolor=default	nick=[38 minion]	name=[Marsh Stakato Noble]	npc_end
+npc_begin	id=697	nickcolor=default	nick=[43 aggr leader]	name=[Titan's Creation, Premo Prime]	npc_end
+npc_begin	id=698	nickcolor=default	nick=[38 minion]	name=[Titan's Creation, Bemos]	npc_end
+npc_begin	id=699	nickcolor=default	nick=[58]	name=[Archon Susceptor]	npc_end
+npc_begin	id=700	nickcolor=default	nick=[55]	name=[Gustos Susceptor]	npc_end
+npc_begin	id=701	nickcolor=default	nick=[35 aggr leader (c.curse)]	name=[Eye of Beleth]	npc_end
+npc_begin	id=702	nickcolor=default	nick=[33 minion]	name=[Follower of The Eye]	npc_end
+npc_begin	id=703	nickcolor=default	nick=[41 aggr leader]	name=[Adherent of Antharas, Skyla]	npc_end
+npc_begin	id=704	nickcolor=default	nick=[39 minion]	name=[Skyla's Retainer]	npc_end
+npc_begin	id=705	nickcolor=default	nick=[43 aggr leader]	name=[Corsair Captain Kylon]	npc_end
+npc_begin	id=706	nickcolor=default	nick=[38 minion]	name=[Kylon's Pirate]	npc_end
+npc_begin	id=707	nickcolor=default	nick=[66 aggr leader (ratk)]	name=[Cave Servant Lord Ishka]	npc_end
+npc_begin	id=708	nickcolor=default	nick=[63 minion]	name=[Cave Servant General]	npc_end
+npc_begin	id=709	nickcolor=default	nick=[48 aggr leader]	name=[Scavenger Leader, Rinoket]	npc_end
+npc_begin	id=710	nickcolor=default	nick=[45 minion]	name=[Rinoket's Henchman]	npc_end
+npc_begin	id=711	nickcolor=default	nick=[40 aggr leader]	name=[Necrosentinel Guard]	npc_end
+npc_begin	id=712	nickcolor=default	nick=[35 minion]	name=[Necrosentinel Archer]	npc_end
+npc_begin	id=713	nickcolor=default	nick=[42 aggr leader]	name=[Envoy of Antharas, Nakondas]	npc_end
+npc_begin	id=714	nickcolor=default	nick=[37 minion]	name=[Nakonda's Slave]	npc_end
+npc_begin	id=715	nickcolor=default	nick=[48 aggr leader (patk)]	name=[Dread Avenger Kraven]	npc_end
+npc_begin	id=716	nickcolor=default	nick=[45 minion]	name=[Dread Panther]	npc_end
+npc_begin	id=717	nickcolor=default	nick=[48 aggr leader (c.curse)]	name=[Handmaiden of Orfen]	npc_end
+npc_begin	id=718	nickcolor=default	nick=[47 minion]	name=[Trisalim Escort]	npc_end
+npc_begin	id=719	nickcolor=default	nick=[61 aggr leader]	name=[Fairy Queen Timiniel]	npc_end
+npc_begin	id=720	nickcolor=default	nick=[55 minion]	name=[Timiniel's Escort]	npc_end
+npc_begin	id=721	nickcolor=default	nick=[25 aggr leader]	name=[Betrayer of Urutu Freki]	npc_end
+npc_begin	id=722	nickcolor=default	nick=[22 minion]	name=[Freki's Bloodseeker Bat]	npc_end
 npc_begin	id=723	nickcolor=default	nick=[]	name=[Centaurus]	npc_end
 npc_begin	id=724	nickcolor=default	nick=[]	name=[Crimson Bear]	npc_end
 npc_begin	id=725	nickcolor=default	nick=[]	name=[Devastator]	npc_end
@@ -735,60 +735,75 @@ npc_begin	id=734	nickcolor=default	nick=[]	name=[Ketra Orc Archer]	npc_end
 npc_begin	id=735	nickcolor=default	nick=[]	name=[Ketra Orc Overload]	npc_end
 npc_begin	id=736	nickcolor=default	nick=[]	name=[Ketra Orc Shaman]	npc_end
 npc_begin	id=737	nickcolor=default	nick=[]	name=[Ketra Orc Warrior]	npc_end
-npc_begin	id=738	nickcolor=default	nick=[]	name=[Kobold Looter Bepook]	npc_end
-npc_begin	id=739	nickcolor=default	nick=[]	name=[Bepook's Pet]	npc_end
-npc_begin	id=740	nickcolor=default	nick=[]	name=[Rampage Golem Leader, Talos]	npc_end
-npc_begin	id=741	nickcolor=default	nick=[]	name=[Rampage Golem]	npc_end
-npc_begin	id=742	nickcolor=default	nick=[]	name=[Mystical Weaver]	npc_end
-npc_begin	id=743	nickcolor=default	nick=[]	name=[Howler]	npc_end
-npc_begin	id=744	nickcolor=default	nick=[]	name=[Red Eye Vampire Bat]	npc_end
-npc_begin	id=745	nickcolor=default	nick=[]	name=[Wild Desperado]	npc_end
-npc_begin	id=746	nickcolor=default	nick=[]	name=[Wild Desperado Cohort]	npc_end
-npc_begin	id=747	nickcolor=default	nick=[]	name=[Roxide]	npc_end
-npc_begin	id=748	nickcolor=default	nick=[]	name=[Roxide Cohort]	npc_end
-npc_begin	id=749	nickcolor=default	nick=[]	name=[Death Fire]	npc_end
-npc_begin	id=750	nickcolor=default	nick=[]	name=[Fire Archer]	npc_end
-npc_begin	id=751	nickcolor=default	nick=[]	name=[Snipe]	npc_end
-npc_begin	id=752	nickcolor=default	nick=[]	name=[Snipe Cohort]	npc_end
-npc_begin	id=753	nickcolor=default	nick=[]	name=[Dark Lord]	npc_end
-npc_begin	id=754	nickcolor=default	nick=[]	name=[Dark Knight]	npc_end
-npc_begin	id=755	nickcolor=default	nick=[]	name=[Talakin]	npc_end
-npc_begin	id=756	nickcolor=default	nick=[]	name=[Talakin Archer]	npc_end
-npc_begin	id=757	nickcolor=default	nick=[]	name=[Talakin Raider]	npc_end
-npc_begin	id=758	nickcolor=default	nick=[]	name=[Dragon Bearer Chief]	npc_end
-npc_begin	id=759	nickcolor=default	nick=[]	name=[Dragon Bearer Warrior]	npc_end
-npc_begin	id=760	nickcolor=default	nick=[]	name=[Dragon Bearer Archer]	npc_end
-npc_begin	id=761	nickcolor=default	nick=[]	name=[Pytan]	npc_end
-npc_begin	id=762	nickcolor=default	nick=[]	name=[Pytan Knight]	npc_end
-npc_begin	id=763	nickcolor=default	nick=[]	name=[Lord of Plain]	npc_end
-npc_begin	id=764	nickcolor=default	nick=[]	name=[Shaman of Plain]	npc_end
-npc_begin	id=765	nickcolor=default	nick=[]	name=[Warrior of Plain]	npc_end
-npc_begin	id=766	nickcolor=default	nick=[]	name=[Scout of Plain]	npc_end
-npc_begin	id=767	nickcolor=default	nick=[]	name=[Timak Orc Troop Leader]	npc_end
-npc_begin	id=768	nickcolor=default	nick=[]	name=[Timak Orc Troop Shaman]	npc_end
-npc_begin	id=769	nickcolor=default	nick=[]	name=[Timak Orc Troop Warrior]	npc_end
-npc_begin	id=770	nickcolor=default	nick=[]	name=[Timak Orc Troop Archer]	npc_end
-npc_begin	id=771	nickcolor=default	nick=[]	name=[Barif]	npc_end
-npc_begin	id=772	nickcolor=default	nick=[]	name=[Barif's Pet]	npc_end
-npc_begin	id=773	nickcolor=default	nick=[]	name=[Konzur Bat Lord]	npc_end
-npc_begin	id=774	nickcolor=default	nick=[]	name=[Konzur Bat ]	npc_end
-npc_begin	id=775	nickcolor=default	nick=[]	name=[Bugbear Raider]	npc_end
-npc_begin	id=776	nickcolor=default	nick=[]	name=[Dark Succubus]	npc_end
-npc_begin	id=777	nickcolor=default	nick=[]	name=[Hunter Bear]	npc_end
-npc_begin	id=778	nickcolor=default	nick=[]	name=[Ragna Orc Overlord]	npc_end
-npc_begin	id=779	nickcolor=default	nick=[]	name=[Ragna Orc Seer]	npc_end
-npc_begin	id=780	nickcolor=default	nick=[]	name=[Bloody Axe Elite]	npc_end
-npc_begin	id=781	nickcolor=default	nick=[]	name=[Delu Lizardman Shaman]	npc_end
-npc_begin	id=782	nickcolor=default	nick=[]	name=[Ol Mahum Novice]	npc_end
-npc_begin	id=5001	nickcolor=default	nick=[]	name=[Orc Marksman]	npc_end
-npc_begin	id=5002	nickcolor=default	nick=[]	name=[Orc Fight Leader]	npc_end
+npc_begin	id=738	nickcolor=default	nick=[13 aggr leader]	name=[Kobold Looter Bepook]	npc_end
+npc_begin	id=739	nickcolor=default	nick=[10 minion]	name=[Bepook's Pet]	npc_end
+npc_begin	id=740	nickcolor=default	nick=[25 aggr leader]	name=[Rampage Golem Leader, Talos]	npc_end
+npc_begin	id=741	nickcolor=default	nick=[22 minion]	name=[Rampage Golem]	npc_end
+npc_begin	id=742	nickcolor=default	nick=[22]	name=[Mystical Weaver]	npc_end
+npc_begin	id=743	nickcolor=default	nick=[25]	name=[Howler]	npc_end
+npc_begin	id=744	nickcolor=default	nick=[22]	name=[Red Eye Vampire Bat]	npc_end
+npc_begin	id=745	nickcolor=default	nick=[35 aggr leader]	name=[Wild Desperado]	npc_end
+npc_begin	id=746	nickcolor=default	nick=[31 minion]	name=[Wild Desperado Cohort]	npc_end
+npc_begin	id=747	nickcolor=default	nick=[32 aggr leader]	name=[Roxide]	npc_end
+npc_begin	id=748	nickcolor=default	nick=[29 minion]	name=[Roxide Cohort]	npc_end
+npc_begin	id=749	nickcolor=default	nick=[32 aggr leader]	name=[Death Fire]	npc_end
+npc_begin	id=750	nickcolor=default	nick=[29 minion]	name=[Fire Archer]	npc_end
+npc_begin	id=751	nickcolor=default	nick=[44 aggr leader]	name=[Snipe]	npc_end
+npc_begin	id=752	nickcolor=default	nick=[42 minion]	name=[Snipe Cohort]	npc_end
+npc_begin	id=753	nickcolor=default	nick=[50 aggr leader]	name=[Dark Lord]	npc_end
+npc_begin	id=754	nickcolor=default	nick=[48 minion]	name=[Dark Knight]	npc_end
+npc_begin	id=755	nickcolor=default	nick=[30 aggr leader]	name=[Talakin]	npc_end
+npc_begin	id=756	nickcolor=default	nick=[28 minion]	name=[Talakin Archer]	npc_end
+npc_begin	id=757	nickcolor=default	nick=[27 minion]	name=[Talakin Raider]	npc_end
+npc_begin	id=758	nickcolor=default	nick=[49 aggr leader (ratk)]	name=[Dragon Bearer Chief]	npc_end
+npc_begin	id=759	nickcolor=default	nick=[48 minion (ratk)]	name=[Dragon Bearer Warrior]	npc_end
+npc_begin	id=760	nickcolor=default	nick=[47 minion (power shot)]	name=[Dragon Bearer Archer]	npc_end
+npc_begin	id=761	nickcolor=default	nick=[69 aggr leader]	name=[Pytan]	npc_end
+npc_begin	id=762	nickcolor=default	nick=[68 minion (c.curse)]	name=[Pytan Knight]	npc_end
+npc_begin	id=763	nickcolor=default	nick=[40 leader]	name=[Lord of Plain]	npc_end
+npc_begin	id=764	nickcolor=default	nick=[39 minion]	name=[Shaman of Plain]	npc_end
+npc_begin	id=765	nickcolor=default	nick=[38 minion]	name=[Warrior of Plain]	npc_end
+npc_begin	id=766	nickcolor=default	nick=[36 minion]	name=[Scout of Plain]	npc_end
+npc_begin	id=767	nickcolor=default	nick=[45 aggr leader (ratk)]	name=[Timak Orc Troop Leader]	npc_end
+npc_begin	id=768	nickcolor=default	nick=[44 minion (c.curse)]	name=[Timak Orc Troop Shaman]	npc_end
+npc_begin	id=769	nickcolor=default	nick=[43 minion (c.enchant)]	name=[Timak Orc Troop Warrior]	npc_end
+npc_begin	id=770	nickcolor=default	nick=[41 minion (power shot)]	name=[Timak Orc Troop Archer]	npc_end
+npc_begin	id=771	nickcolor=default	nick=[64 aggr leader (c.curse)]	name=[Barif]	npc_end
+npc_begin	id=772	nickcolor=default	nick=[61 minion (c.curse)]	name=[Barif's Pet]	npc_end
+npc_begin	id=773	nickcolor=default	nick=[54 aggr leader (c.curse)]	name=[Konzur Bat Lord]	npc_end
+npc_begin	id=774	nickcolor=default	nick=[52 minion (c.curse)]	name=[Konzur Bat ]	npc_end
+npc_begin	id=775	nickcolor=default	nick=[17]	name=[Bugbear Raider]	npc_end
+npc_begin	id=776	nickcolor=default	nick=[]	name=[Dark Succubus C]	npc_end
+npc_begin	id=777	nickcolor=default	nick=[14]	name=[Hunter Bear]	npc_end
+npc_begin	id=778	nickcolor=default	nick=[39]	name=[Ragna Orc Overlord]	npc_end
+npc_begin	id=779	nickcolor=default	nick=[39]	name=[Ragna Orc Seer]	npc_end
+npc_begin	id=780	nickcolor=default	nick=[35 very aggr]	name=[Bloody Axe Elite]	npc_end
+npc_begin	id=781	nickcolor=default	nick=[35 c.hold]	name=[Delu Lizardman Shaman]	npc_end
+npc_begin	id=782	nickcolor=default	nick=[]	name=[Ol Mahum Novice C]	npc_end
+npc_begin	id=809	nickcolor=default	nick=[60]	name=[Ghost Of The Tower]	npc_end
+npc_begin	id=810	nickcolor=default	nick=[60]	name=[Seer Of Hallate]	npc_end
+npc_begin	id=812	nickcolor=default	nick=[61]	name=[Archer of Despair]	npc_end
+npc_begin	id=813	nickcolor=default	nick=[62]	name=[Crendion]	npc_end
+npc_begin	id=814	nickcolor=default	nick=[62]	name=[Blader Of Despair]	npc_end
+npc_begin	id=815	nickcolor=default	nick=[63]	name=[Hound Dog of Hallate]	npc_end
+npc_begin	id=816	nickcolor=default	nick=[63]	name=[Hallate's Royal Guardian]	npc_end
+
+npc_begin	id=820	nickcolor=default	nick=[63]	name=[Hallate's Knight]	npc_end
+npc_begin	id=822	nickcolor=default	nick=[63]	name=[Hallate's Maiden]	npc_end
+
+npc_begin	id=1061	nickcolor=default	nick=[69]	name=[Hallate's Guardian]	npc_end
+npc_begin	id=1075	nickcolor=default	nick=[63]	name=[Slaughter Bathin]	npc_end
+npc_begin	id=1076	nickcolor=default	nick=[62]	name=[Bathin knight]	npc_end
+
+npc_begin	id=5001	nickcolor=default	nick=[10]	name=[Orc Marksman B]	npc_end
+npc_begin	id=5002	nickcolor=default	nick=[12]	name=[Orc Fight Leader]	npc_end
 npc_begin	id=5003	nickcolor=quest	nick=[Quest Monster]	name=[Spirit Of Mirrors]	npc_end
-npc_begin	id=5004	nickcolor=quest	nick=[Quest Monster]	name=[Spirit Of Mirrors]	npc_end
-npc_begin	id=5005	nickcolor=quest	nick=[Quest Monster]	name=[Spirit Of Mirrors]	npc_end
-npc_begin	id=5006	nickcolor=default	nick=[]	name=[Bhato Bloodspear]	npc_end
-npc_begin	id=5007	nickcolor=default	nick=[]	name=[Tanuki Skullcrusher]	npc_end
-npc_begin	id=5008	nickcolor=default	nick=[]	name=[Kraacul Blackskull]	npc_end
-npc_begin	id=5009	nickcolor=default	nick=[]	name=[Taarq Blackskull]	npc_end
+npc_begin	id=5004	nickcolor=quest	nick=[Quest Monster]	name=[Spirit Of Mirrors B]	npc_end
+npc_begin	id=5005	nickcolor=quest	nick=[Quest Monster]	name=[Spirit Of Mirrors C]	npc_end
+npc_begin	id=5006	nickcolor=default	nick=[11]	name=[Bhato Bloodspear]	npc_end
+npc_begin	id=5007	nickcolor=default	nick=[11]	name=[Tanuki Skullcrusher]	npc_end
+npc_begin	id=5008	nickcolor=default	nick=[11]	name=[Kraacul Blackskull]	npc_end
+npc_begin	id=5009	nickcolor=default	nick=[11]	name=[Taarq Blackskull]	npc_end
 npc_begin	id=5010	nickcolor=default	nick=[]	name=[Fallen Knight Saythus]	npc_end
 npc_begin	id=5011	nickcolor=default	nick=[]	name=[Fallen Knight Trayer]	npc_end
 npc_begin	id=5012	nickcolor=default	nick=[]	name=[Fallen Knight Falimar]	npc_end
@@ -797,12 +812,12 @@ npc_begin	id=5014	nickcolor=default	nick=[]	name=[Madclaw Takuttaku]	npc_end
 npc_begin	id=5015	nickcolor=default	nick=[]	name=[Rakanos Viperheart]	npc_end
 npc_begin	id=5016	nickcolor=quest	nick=[Quest Monster]	name=[Nerkas]	npc_end
 npc_begin	id=5017	nickcolor=quest	nick=[Quest Monster]	name=[Plague Zombie]	npc_end
-npc_begin	id=5018	nickcolor=default	nick=[]	name=[Orc Warrior]	npc_end
-npc_begin	id=5019	nickcolor=default	nick=[]	name=[Orc Warrior Leader]	npc_end
+npc_begin	id=5018	nickcolor=default	nick=[10]	name=[Orc Warrior]	npc_end
+npc_begin	id=5019	nickcolor=default	nick=[11]	name=[Orc Warrior Leader]	npc_end
 npc_begin	id=5020	nickcolor=quest	nick=[Quest Monster]	name=[Varool Foulclaw]	npc_end
 npc_begin	id=5021	nickcolor=quest	nick=[Quest Monster]	name=[Kirunak]	npc_end
 npc_begin	id=5022	nickcolor=quest	nick=[Quest Monster]	name=[Merkenis]	npc_end
-npc_begin	id=5023	nickcolor=default	nick=[]	name=[Bugbear Raider]	npc_end
+npc_begin	id=5023	nickcolor=default	nick=[]	name=[Bugbear Raider B]	npc_end
 npc_begin	id=5024	nickcolor=quest	nick=[Quest Monster]	name=[Undead Priest]	npc_end
 npc_begin	id=5025	nickcolor=default	nick=[]	name=[Ol Mahum Cat's Eye]	npc_end
 npc_begin	id=5026	nickcolor=default	nick=[]	name=[Ol Mahum Eagl Eye]	npc_end
@@ -813,13 +828,13 @@ npc_begin	id=5030	nickcolor=quest	nick=[Quest Monster]	name=[Water Seer]	npc_end
 npc_begin	id=5031	nickcolor=quest	nick=[Quest Monster]	name=[Ol Mahum Sentry]	npc_end
 npc_begin	id=5032	nickcolor=quest	nick=[Quest Monster]	name=[Lizardman Warrior]	npc_end
 npc_begin	id=5033	nickcolor=quest	nick=[Quest Monster]	name=[Lizardman Scout]	npc_end
-npc_begin	id=5034	nickcolor=quest	nick=[Quest Monster]	name=[Lizardman]	npc_end
+npc_begin	id=5034	nickcolor=quest	nick=[Quest Monster]	name=[Lizardman B]	npc_end
 npc_begin	id=5035	nickcolor=quest	nick=[Quest Monster]	name=[Tamil]	npc_end
 npc_begin	id=5036	nickcolor=quest	nick=[Quest Monster]	name=[Calpico]	npc_end
 npc_begin	id=5037	nickcolor=quest	nick=[Quest Monster]	name=[Calpicos Goons]	npc_end
 npc_begin	id=5038	nickcolor=quest	nick=[Quest Monster]	name=[Cat'S Eye Bandit]	npc_end
-npc_begin	id=5039	nickcolor=default	nick=[]	name=[Ol Mahum Novice]	npc_end
-npc_begin	id=5040	nickcolor=default	nick=[]	name=[Dark Succubus]	npc_end
+npc_begin	id=5039	nickcolor=default	nick=[]	name=[Ol Mahum Novice D]	npc_end
+npc_begin	id=5040	nickcolor=default	nick=[]	name=[Dark Succubus D]	npc_end
 npc_begin	id=5041	nickcolor=quest	nick=[Quest Monster]	name=[Baranka Messenger]	npc_end
 npc_begin	id=5042	nickcolor=quest	nick=[Quest Monster]	name=[Orc Escort]	npc_end
 npc_begin	id=5043	nickcolor=quest	nick=[Quest Monster]	name=[Varangka'S Tracker]	npc_end
@@ -836,7 +851,7 @@ npc_begin	id=5053	nickcolor=default	nick=[Orc Betrayer]	name=[Chichi]	npc_end
 npc_begin	id=5054	nickcolor=default	nick=[Orc Betrayer]	name=[Umbar]	npc_end
 npc_begin	id=5055	nickcolor=default	nick=[Orc Betrayer]	name=[Zakan]	npc_end
 npc_begin	id=5056	nickcolor=quest	nick=[Quest Monster]	name=[Durka Spirit]	npc_end
-npc_begin	id=5057	nickcolor=default	nick=[]	name=[Hunter Bear]	npc_end
+npc_begin	id=5057	nickcolor=default	nick=[]	name=[Hunter Bear B]	npc_end
 npc_begin	id=5058	nickcolor=quest	nick=[Quest Monster]	name=[Honey Bear]	npc_end
 npc_begin	id=5059	nickcolor=default	nick=[Kaboo Chief]	name=[Uoph]	npc_end
 npc_begin	id=5060	nickcolor=default	nick=[Kaboo Chief]	name=[Kracha]	npc_end
@@ -853,9 +868,9 @@ npc_begin	id=5070	nickcolor=quest	nick=[Quest Monster]	name=[Tumran Orc Brigand]
 npc_begin	id=5071	nickcolor=default	nick=[]	name=[Bapuk The Greedy]	npc_end
 npc_begin	id=5072	nickcolor=default	nick=[]	name=[Bapuks Pet]	npc_end
 npc_begin	id=5073	nickcolor=default	nick=[]	name=[Rampaging Golem]	npc_end
-npc_begin	id=5074	nickcolor=default	nick=[]	name=[Mystical Weaver]	npc_end
-npc_begin	id=5075	nickcolor=default	nick=[]	name=[Howler]	npc_end
-npc_begin	id=5076	nickcolor=default	nick=[]	name=[Red Eye Vampire Bat]	npc_end
+npc_begin	id=5074	nickcolor=default	nick=[]	name=[Mystical Weaver B]	npc_end
+npc_begin	id=5075	nickcolor=default	nick=[]	name=[Howler B]	npc_end
+npc_begin	id=5076	nickcolor=default	nick=[]	name=[Red Eye Vampire Bat B]	npc_end
 npc_begin	id=5077	nickcolor=quest	nick=[Quest Monster]	name=[Unicorn Of Eva]	npc_end
 npc_begin	id=5078	nickcolor=quest	nick=[Quest Monster]	name=[Trimden Lord]	npc_end
 npc_begin	id=5079	nickcolor=quest	nick=[Quest Monster]	name=[Black Willow Lurker]	npc_end
@@ -863,14 +878,14 @@ npc_begin	id=5080	nickcolor=quest	nick=[Quest Monster]	name=[Pashika Sonof Volta
 npc_begin	id=5081	nickcolor=quest	nick=[Quest Monster]	name=[Vultus Sonof Voltar]	npc_end
 npc_begin	id=5082	nickcolor=quest	nick=[Quest Monster]	name=[Enku Orc Overlord]	npc_end
 npc_begin	id=5083	nickcolor=quest	nick=[Quest Monster]	name=[Makum Bugbear Thug]	npc_end
-npc_begin	id=5084	nickcolor=default	nick=[]	name=[Ragna Orc Overlord]	npc_end
-npc_begin	id=5085	nickcolor=default	nick=[]	name=[Ragna Orc Seer]	npc_end
+npc_begin	id=5084	nickcolor=default	nick=[]	name=[Ragna Orc Overlord B]	npc_end
+npc_begin	id=5085	nickcolor=default	nick=[]	name=[Ragna Orc Seer B]	npc_end
 npc_begin	id=5086	nickcolor=quest	nick=[Quest Monster]	name=[Revenant Of Tantos Chief]	npc_end
-npc_begin	id=5087	nickcolor=default	nick=[]	name=[Bloody Axe Elite]	npc_end
+npc_begin	id=5087	nickcolor=default	nick=[]	name=[Bloody Axe Elite B]	npc_end
 npc_begin	id=5088	nickcolor=quest	nick=[Quest Monster]	name=[Harpy Martriarch]	npc_end
 npc_begin	id=5089	nickcolor=quest	nick=[Quest Monster]	name=[Road Collector]	npc_end
 npc_begin	id=5090	nickcolor=quest	nick=[Quest Monster]	name=[Serpent Demon Kadesh]	npc_end
-npc_begin	id=5091	nickcolor=default	nick=[]	name=[Delu Lizardman Shaman]	npc_end
+npc_begin	id=5091	nickcolor=default	nick=[]	name=[Delu Lizardman Shaman B]	npc_end
 npc_begin	id=5092	nickcolor=quest	nick=[Quest Monster]	name=[Neer Bodyguard]	npc_end
 npc_begin	id=5093	nickcolor=quest	nick=[Quest Monster]	name=[Delu Chief Kalkis]	npc_end
 npc_begin	id=5094	nickcolor=quest	nick=[Quest Monster]	name=[Delu Lizarman Assassin]	npc_end
@@ -945,18 +960,18 @@ npc_begin	id=5162	nickcolor=quest	nick=[Quest Monster]	name=[Hatar Chieftain Kub
 npc_begin	id=5163	nickcolor=quest	nick=[Quest Monster]	name=[Vanor Elder Kerunos]	npc_end
 npc_begin	id=5164	nickcolor=quest	nick=[Quest Monster]	name=[Karul Chief Orooto]	npc_end
 npc_begin	id=5165	nickcolor=quest	nick=[Quest Monster]	name=[Abyssal Jewel]	npc_end
-npc_begin	id=5166	nickcolor=quest	nick=[Quest Monster]	name=[Abyssal Jewel]	npc_end
-npc_begin	id=5167	nickcolor=quest	nick=[Quest Monster]	name=[Abyssal Jewel]	npc_end
+npc_begin	id=5166	nickcolor=quest	nick=[Quest Monster]	name=[Abyssal Jewel B]	npc_end
+npc_begin	id=5167	nickcolor=quest	nick=[Quest Monster]	name=[Abyssal Jewel C]	npc_end
 npc_begin	id=5168	nickcolor=quest	nick=[Quest Monster]	name=[Jewel Guardian Mara]	npc_end
 npc_begin	id=5169	nickcolor=quest	nick=[Quest Monster]	name=[Jewel Guardian Musfel]	npc_end
 npc_begin	id=5170	nickcolor=quest	nick=[Quest Monster]	name=[Jewel Guardian Pyton]	npc_end
 npc_begin	id=5171	nickcolor=quest	nick=[Quest Monster]	name=[Sacrifice of Sacrificed]	npc_end
 npc_begin	id=5172	nickcolor=quest	nick=[Quest Monster]	name=[Harit Lizardman Zealot]	npc_end
 npc_begin	id=5173	nickcolor=quest	nick=[Quest Monster]	name=[Box of Athrea]	npc_end
-npc_begin	id=5174	nickcolor=quest	nick=[Quest Monster]	name=[Box of Athrea]	npc_end
-npc_begin	id=5175	nickcolor=quest	nick=[Quest Monster]	name=[Box of Athrea]	npc_end
-npc_begin	id=5176	nickcolor=quest	nick=[Quest Monster]	name=[Box of Athrea]	npc_end
-npc_begin	id=5177	nickcolor=quest	nick=[Quest Monster]	name=[Box of Athrea]	npc_end
+npc_begin	id=5174	nickcolor=quest	nick=[Quest Monster]	name=[Box of Athrea B]	npc_end
+npc_begin	id=5175	nickcolor=quest	nick=[Quest Monster]	name=[Box of Athrea C]	npc_end
+npc_begin	id=5176	nickcolor=quest	nick=[Quest Monster]	name=[Box of Athrea D]	npc_end
+npc_begin	id=5177	nickcolor=quest	nick=[Quest Monster]	name=[Box of Athrea E]	npc_end
 npc_begin	id=5178	nickcolor=quest	nick=[Quest Monster]	name=[Blitz Wyrm]	npc_end
 npc_begin	id=5179	nickcolor=quest	nick=[Quest Monster]	name=[Grave Key Master]	npc_end
 npc_begin	id=5180	nickcolor=quest	nick=[Quest Monster]	name=[Imperial Slave]	npc_end
@@ -1217,25 +1232,25 @@ npc_begin	id=7253	nickcolor=default	nick=[Trader]	name=[Simplon]	npc_end
 npc_begin	id=7254	nickcolor=default	nick=[Trader]	name=[Harmony]	npc_end
 npc_begin	id=7255	nickcolor=default	nick=[Warehouse Keeper]	name=[Haprock]	npc_end
 npc_begin	id=7256	nickcolor=default	nick=[Gatekeeper]	name=[Bella]	npc_end
-npc_begin	id=7257	nickcolor=default	nick=[]	name=[Bonnie]	npc_end
-npc_begin	id=7258	nickcolor=default	nick=[]	name=[Elias]	npc_end
+npc_begin	id=7257	nickcolor=default	nick=[]	name=[Bonnie B]	npc_end
+npc_begin	id=7258	nickcolor=default	nick=[]	name=[Elias B]	npc_end
 npc_begin	id=7259	nickcolor=default	nick=[]	name=[Daring]	npc_end
-npc_begin	id=7260	nickcolor=default	nick=[]	name=[Lector]	npc_end
-npc_begin	id=7261	nickcolor=default	nick=[Trader]	name=[Jackson]	npc_end
-npc_begin	id=7262	nickcolor=default	nick=[Trader]	name=[Silvia]	npc_end
-npc_begin	id=7263	nickcolor=default	nick=[Warehouse Keeper]	name=[Rant]	npc_end
-npc_begin	id=7264	nickcolor=default	nick=[]	name=[Gwinter]	npc_end
-npc_begin	id=7265	nickcolor=default	nick=[Captain]	name=[Gilbert]	npc_end
+npc_begin	id=7260	nickcolor=default	nick=[]	name=[Lector B]	npc_end
+npc_begin	id=7261	nickcolor=default	nick=[Trader]	name=[Jackson B]	npc_end
+npc_begin	id=7262	nickcolor=default	nick=[Trader]	name=[Silvia B]	npc_end
+npc_begin	id=7263	nickcolor=default	nick=[Warehouse Keeper]	name=[Rant B]	npc_end
+npc_begin	id=7264	nickcolor=default	nick=[]	name=[Gwinter B]	npc_end
+npc_begin	id=7265	nickcolor=default	nick=[Captain]	name=[Gilbert B]	npc_end
 npc_begin	id=7266	nickcolor=default	nick=[Guard]	name=[Leeanon]	npc_end
-npc_begin	id=7267	nickcolor=default	nick=[Guard]	name=[Arnold]	npc_end
-npc_begin	id=7268	nickcolor=default	nick=[Guard]	name=[Abellos]	npc_end
-npc_begin	id=7269	nickcolor=default	nick=[Guard]	name=[Johnstone]	npc_end
-npc_begin	id=7270	nickcolor=default	nick=[Guard]	name=[Chiperan]	npc_end
-npc_begin	id=7271	nickcolor=default	nick=[Guard]	name=[Kenyos]	npc_end
-npc_begin	id=7272	nickcolor=default	nick=[Guard]	name=[Hanks]	npc_end
+npc_begin	id=7267	nickcolor=default	nick=[Guard]	name=[Arnold B]	npc_end
+npc_begin	id=7268	nickcolor=default	nick=[Guard]	name=[Abellos B]	npc_end
+npc_begin	id=7269	nickcolor=default	nick=[Guard]	name=[Johnstone B]	npc_end
+npc_begin	id=7270	nickcolor=default	nick=[Guard]	name=[Chiperan B]	npc_end
+npc_begin	id=7271	nickcolor=default	nick=[Guard]	name=[Kenyos B]	npc_end
+npc_begin	id=7272	nickcolor=default	nick=[Guard]	name=[Hanks B]	npc_end
 npc_begin	id=7273	nickcolor=default	nick=[Master]	name=[Carlrints]	npc_end
 npc_begin	id=7274	nickcolor=default	nick=[]	name=[Windawood]	npc_end
-npc_begin	id=7275	nickcolor=default	nick=[]	name=[Guts]	npc_end
+npc_begin	id=7275	nickcolor=default	nick=[]	name=[Guts B]	npc_end
 npc_begin	id=7276	nickcolor=default	nick=[]	name=[Matheo]	npc_end
 npc_begin	id=7277	nickcolor=default	nick=[]	name=[Rockswell]	npc_end
 npc_begin	id=7278	nickcolor=default	nick=[]	name=[Messella]	npc_end
@@ -1272,7 +1287,7 @@ npc_begin	id=7308	nickcolor=default	nick=[]	name=[Ranger]	npc_end
 npc_begin	id=7309	nickcolor=default	nick=[]	name=[Clan Hall Maid Vanetia]	npc_end
 npc_begin	id=7310	nickcolor=default	nick=[]	name=[Clan Hall Maid Scarlet]	npc_end
 npc_begin	id=7311	nickcolor=default	nick=[]	name=[Sir Collin Windawood]	npc_end
-npc_begin	id=7312	nickcolor=default	nick=[Lighthouse Keeper]	name=[Rockswell]	npc_end
+npc_begin	id=7312	nickcolor=default	nick=[Lighthouse Keeper]	name=[Rockswell B]	npc_end
 npc_begin	id=7313	nickcolor=default	nick=[Trader]	name=[Asha]	npc_end
 npc_begin	id=7314	nickcolor=default	nick=[Trader]	name=[Nestle]	npc_end
 npc_begin	id=7315	nickcolor=default	nick=[Trader]	name=[Poesia]	npc_end
@@ -1320,19 +1335,14 @@ npc_begin	id=7356	nickcolor=default	nick=[Sentry]	name=[Altima]	npc_end
 npc_begin	id=7357	nickcolor=default	nick=[Sentry]	name=[Kristin]	npc_end
 npc_begin	id=7358	nickcolor=default	nick=[Tetrarch]	name=[Thifiell]	npc_end
 npc_begin	id=7359	nickcolor=default	nick=[Tetrarch]	name=[Kaitar]	npc_end
-npc_begin	id=7360	nickcolor=default	nick=[Master]	name=[Harant]	npc_end
+npc_begin	id=7360	nickcolor=default	nick=[Master]	name=[Harant B]	npc_end
 npc_begin	id=7361	nickcolor=default	nick=[]	name=[Rizraell]	npc_end
 npc_begin	id=7362	nickcolor=default	nick=[]	name=[Andellia]	npc_end
 npc_begin	id=7363	nickcolor=default	nick=[Blacksmith]	name=[Aios]	npc_end
-npc_begin	id=7364	nickcolor=default	nick=[]	name=[0]	npc_end
-npc_begin	id=7365	nickcolor=default	nick=[]	name=[0]	npc_end
-npc_begin	id=7366	nickcolor=default	nick=[]	name=[0]	npc_end
-npc_begin	id=7367	nickcolor=default	nick=[]	name=[0]	npc_end
 npc_begin	id=7368	nickcolor=default	nick=[]	name=[Lilith]	npc_end
 npc_begin	id=7369	nickcolor=default	nick=[Master]	name=[Baenedes]	npc_end
 npc_begin	id=7370	nickcolor=default	nick=[]	name=[Nerupa]	npc_end
 npc_begin	id=7371	nickcolor=default	nick=[]	name=[Thalia]	npc_end
-npc_begin	id=7372	nickcolor=default	nick=[]	name=[0]	npc_end
 npc_begin	id=7373	nickcolor=default	nick=[Grand Master]	name=[Ramos]	npc_end
 npc_begin	id=7374	nickcolor=default	nick=[Master]	name=[Rhodiell]	npc_end
 npc_begin	id=7375	nickcolor=default	nick=[Priest]	name=[Adonius]	npc_end
@@ -1365,8 +1375,8 @@ npc_begin	id=7401	nickcolor=default	nick=[The Worldtree'S Guard]	name=[Valeor]	n
 npc_begin	id=7402	nickcolor=default	nick=[The Worldtree'S Guard]	name=[Sitadiel]	npc_end
 npc_begin	id=7403	nickcolor=default	nick=[The Worldtree'S Guard]	name=[Daelian]	npc_end
 npc_begin	id=7404	nickcolor=default	nick=[Abyssal Celebrant]	name=[Prakia]	npc_end
-npc_begin	id=7405	nickcolor=default	nick=[]	name=[Marius]	npc_end
-npc_begin	id=7406	nickcolor=default	nick=[]	name=[Matheo]	npc_end
+npc_begin	id=7405	nickcolor=default	nick=[]	name=[Marius B]	npc_end
+npc_begin	id=7406	nickcolor=default	nick=[]	name=[Matheo B]	npc_end
 npc_begin	id=7407	nickcolor=default	nick=[]	name=[Mesella]	npc_end
 npc_begin	id=7408	nickcolor=default	nick=[]	name=[Lemoniell]	npc_end
 npc_begin	id=7409	nickcolor=default	nick=[]	name=[Earth Snake]	npc_end
@@ -1412,7 +1422,7 @@ npc_begin	id=7448	nickcolor=default	nick=[Court Guard]	name=[Sollas]	npc_end
 npc_begin	id=7449	nickcolor=default	nick=[Court Guard]	name=[Dario]	npc_end
 npc_begin	id=7450	nickcolor=default	nick=[Court Guard]	name=[Littin]	npc_end
 npc_begin	id=7451	nickcolor=default	nick=[Captain]	name=[Philromas]	npc_end
-npc_begin	id=7452	nickcolor=default	nick=[Guard]	name=[Kurt]	npc_end
+npc_begin	id=7452	nickcolor=default	nick=[Guard]	name=[Kurt B]	npc_end
 npc_begin	id=7453	nickcolor=default	nick=[Guard]	name=[Singleton]	npc_end
 npc_begin	id=7454	nickcolor=default	nick=[Guard]	name=[Frings]	npc_end
 npc_begin	id=7455	nickcolor=default	nick=[]	name=[Riva]	npc_end
@@ -1428,7 +1438,7 @@ npc_begin	id=7464	nickcolor=default	nick=[Magister]	name=[Clayton]	npc_end
 npc_begin	id=7465	nickcolor=default	nick=[Guard]	name=[Herven]	npc_end
 npc_begin	id=7466	nickcolor=default	nick=[Guard]	name=[Bright]	npc_end
 npc_begin	id=7467	nickcolor=default	nick=[]	name=[Arborn]	npc_end
-npc_begin	id=7468	nickcolor=default	nick=[]	name=[Marion]	npc_end
+npc_begin	id=7468	nickcolor=default	nick=[]	name=[Marion B]	npc_end
 npc_begin	id=7469	nickcolor=default	nick=[]	name=[Jonas]	npc_end
 npc_begin	id=7470	nickcolor=default	nick=[]	name=[Theresa]	npc_end
 npc_begin	id=7471	nickcolor=default	nick=[Blacksmith]	name=[Rupio]	npc_end
@@ -1536,7 +1546,7 @@ npc_begin	id=7572	nickcolor=default	nick=[Seer]	name=[Livina]	npc_end
 npc_begin	id=7573	nickcolor=default	nick=[Flame Guardian]	name=[Vulkus]	npc_end
 npc_begin	id=7574	nickcolor=default	nick=[Fire Priest]	name=[Tokum]	npc_end
 npc_begin	id=7575	nickcolor=default	nick=[Fire Priestess]	name=[Shela]	npc_end
-npc_begin	id=7576	nickcolor=default	nick=[Gatekeeper]	name=[Tamil]	npc_end
+npc_begin	id=7576	nickcolor=default	nick=[Gatekeeper]	name=[Tamil B]	npc_end
 npc_begin	id=7577	nickcolor=default	nick=[Praetorian]	name=[Rukain]	npc_end
 npc_begin	id=7578	nickcolor=default	nick=[Centurion]	name=[Nakusin]	npc_end
 npc_begin	id=7579	nickcolor=default	nick=[Centurion]	name=[Tamai]	npc_end
@@ -1564,10 +1574,10 @@ npc_begin	id=7600	nickcolor=default	nick=[Guide]	name=[Franz]	npc_end
 npc_begin	id=7601	nickcolor=default	nick=[Guide]	name=[Gulllin]	npc_end
 npc_begin	id=7602	nickcolor=default	nick=[Guide]	name=[Tanai]	npc_end
 npc_begin	id=7603	nickcolor=default	nick=[]	name=[Rescures]	npc_end
-npc_begin	id=7604	nickcolor=default	nick=[]	name=[Rescures]	npc_end
-npc_begin	id=7605	nickcolor=default	nick=[]	name=[Rescures]	npc_end
-npc_begin	id=7606	nickcolor=default	nick=[]	name=[Rescures]	npc_end
-npc_begin	id=7607	nickcolor=default	nick=[]	name=[Rescures]	npc_end
+npc_begin	id=7604	nickcolor=default	nick=[]	name=[Rescures B]	npc_end
+npc_begin	id=7605	nickcolor=default	nick=[]	name=[Rescures C]	npc_end
+npc_begin	id=7606	nickcolor=default	nick=[]	name=[Rescures D]	npc_end
+npc_begin	id=7607	nickcolor=default	nick=[]	name=[Rescures E]	npc_end
 npc_begin	id=7608	nickcolor=default	nick=[]	name=[Maria]	npc_end
 npc_begin	id=7609	nickcolor=default	nick=[Astrologer]	name=[Creta]	npc_end
 npc_begin	id=7610	nickcolor=default	nick=[Wiseman]	name=[Cronos]	npc_end
@@ -1728,10 +1738,10 @@ npc_begin	id=7764	nickcolor=default	nick=[]	name=[Balthazar]	npc_end
 npc_begin	id=7765	nickcolor=default	nick=[]	name=[Imperial Coffer]	npc_end
 npc_begin	id=7766	nickcolor=default	nick=[Witch]	name=[Cleo]	npc_end
 npc_begin	id=7767	nickcolor=default	nick=[]	name=[Auctioneer]	npc_end
-npc_begin	id=7768	nickcolor=default	nick=[]	name=[Auctioneer]	npc_end
-npc_begin	id=7769	nickcolor=default	nick=[]	name=[Auctioneer]	npc_end
-npc_begin	id=7770	nickcolor=default	nick=[]	name=[Auctioneer]	npc_end
-npc_begin	id=7771	nickcolor=default	nick=[]	name=[Auctioneer]	npc_end
+npc_begin	id=7768	nickcolor=default	nick=[]	name=[Auctioneer B]	npc_end
+npc_begin	id=7769	nickcolor=default	nick=[]	name=[Auctioneer C]	npc_end
+npc_begin	id=7770	nickcolor=default	nick=[]	name=[Auctioneer D]	npc_end
+npc_begin	id=7771	nickcolor=default	nick=[]	name=[Auctioneer E]	npc_end
 npc_begin	id=7772	nickcolor=default	nick=[Custodian]	name=[Wilson]	npc_end
 npc_begin	id=7773	nickcolor=default	nick=[Custodian]	name=[Todd]	npc_end
 npc_begin	id=7774	nickcolor=default	nick=[Custodian]	name=[Ruben]	npc_end
@@ -1795,15 +1805,15 @@ npc_begin	id=7831	nickcolor=default	nick=[Pet Manager]	name=[Nelson]	npc_end
 npc_begin	id=7832	nickcolor=default	nick=[]	name=[Hardin]	npc_end
 npc_begin	id=7833	nickcolor=default	nick=[Master]	name=[Kaspar]	npc_end
 npc_begin	id=7834	nickcolor=default	nick=[Magic Trader]	name=[Cema]	npc_end
-npc_begin	id=7835	nickcolor=default	nick=[Lich King]	name=[Icarus]	npc_end
+npc_begin	id=7835	nickcolor=default	nick=[Lich King]	name=[Icarus B]	npc_end
 npc_begin	id=7836	nickcolor=default	nick=[Gatekeeper]	name=[Minerva]	npc_end
-npc_begin	id=7837	nickcolor=default	nick=[Trader]	name=[Woodrow]	npc_end
-npc_begin	id=7838	nickcolor=default	nick=[Trader]	name=[Woodley]	npc_end
-npc_begin	id=7839	nickcolor=default	nick=[Trader]	name=[Holly]	npc_end
+npc_begin	id=7837	nickcolor=default	nick=[Trader]	name=[Woodrow B]	npc_end
+npc_begin	id=7838	nickcolor=default	nick=[Trader]	name=[Woodley B]	npc_end
+npc_begin	id=7839	nickcolor=default	nick=[Trader]	name=[Holly B]	npc_end
 npc_begin	id=7840	nickcolor=default	nick=[Trader]	name=[Lorenzo]	npc_end
 npc_begin	id=7841	nickcolor=default	nick=[Trader]	name=[Carson]	npc_end
 npc_begin	id=7842	nickcolor=default	nick=[Trader]	name=[Alexis]	npc_end
-npc_begin	id=7843	nickcolor=default	nick=[Warehouse Freightman]	name=[Romp]	npc_end
+npc_begin	id=7843	nickcolor=default	nick=[Warehouse Freightman]	name=[Romp B]	npc_end
 npc_begin	id=7844	nickcolor=default	nick=[Warehouse Keeper]	name=[Walderal]	npc_end
 npc_begin	id=7845	nickcolor=default	nick=[Warehouse Chief]	name=[Klump]	npc_end
 npc_begin	id=7846	nickcolor=default	nick=[Blacksmith]	name=[Wilbert]	npc_end
@@ -1813,7 +1823,7 @@ npc_begin	id=7849	nickcolor=default	nick=[Grand Master]	name=[Sedrick]	npc_end
 npc_begin	id=7850	nickcolor=default	nick=[Master]	name=[Aiken]	npc_end
 npc_begin	id=7851	nickcolor=default	nick=[Master]	name=[Kendra]	npc_end
 npc_begin	id=7852	nickcolor=default	nick=[Master]	name=[Sinden]	npc_end
-npc_begin	id=7853	nickcolor=default	nick=[Master]	name=[Raien]	npc_end
+npc_begin	id=7853	nickcolor=default	nick=[Master]	name=[Raien B]	npc_end
 npc_begin	id=7854	nickcolor=default	nick=[Grand Magister]	name=[Drikyan]	npc_end
 npc_begin	id=7855	nickcolor=default	nick=[Magister]	name=[Desmond]	npc_end
 npc_begin	id=7856	nickcolor=default	nick=[Magister]	name=[Winonin]	npc_end
@@ -1838,7 +1848,7 @@ npc_begin	id=7874	nickcolor=default	nick=[Guard]	name=[Aldis]	npc_end
 npc_begin	id=7875	nickcolor=default	nick=[Guard]	name=[Carlton]	npc_end
 npc_begin	id=7876	nickcolor=default	nick=[Guard]	name=[Eastan]	npc_end
 npc_begin	id=7877	nickcolor=default	nick=[Guard]	name=[Grayson]	npc_end
-npc_begin	id=7878	nickcolor=default	nick=[Gatekeeper]	name=[Angelina]	npc_end
+npc_begin	id=7878	nickcolor=default	nick=[Gatekeeper]	name=[Angelina B]	npc_end
 npc_begin	id=7879	nickcolor=default	nick=[Wharf Manager]	name=[Felton]	npc_end
 npc_begin	id=7880	nickcolor=default	nick=[Outpost Captain]	name=[Viktor Van Deik]	npc_end
 npc_begin	id=7881	nickcolor=default	nick=[Secretary]	name=[Sanders]	npc_end
@@ -1850,259 +1860,273 @@ npc_begin	id=7886	nickcolor=default	nick=[Frontier Post]	name=[Sutton]	npc_end
 npc_begin	id=7887	nickcolor=default	nick=[Frontier Post]	name=[Harlow]	npc_end
 npc_begin	id=7888	nickcolor=default	nick=[Frontier Post]	name=[Trent]	npc_end
 npc_begin	id=7889	nickcolor=default	nick=[Frontier Post]	name=[Rowan]	npc_end
-npc_begin	id=12001	nickcolor=default	nick=[]	name=[Queen Ant]	npc_end
-npc_begin	id=12002	nickcolor=default	nick=[]	name=[Queen Ant Larva]	npc_end
-npc_begin	id=12003	nickcolor=default	nick=[]	name=[Nurse Ant]	npc_end
-npc_begin	id=12004	nickcolor=default	nick=[]	name=[Guard Ant]	npc_end
-npc_begin	id=12005	nickcolor=default	nick=[]	name=[Royal Guard Ant]	npc_end
+
+npc_begin	id=10146	nickcolor=default	nick=[21 Raid Boss]	name=[Serpent Demon Bifrons]	npc_end
+npc_begin	id=10369	nickcolor=default	nick=[25 Raid Boss]	name=[Soul Scavenger]	npc_end
+npc_begin	id=10370	nickcolor=default	nick=[24]	name=[Corpse Scavenger]	npc_end
+npc_begin	id=10371	nickcolor=default	nick=[24]	name=[Anima Scavenger]	npc_end
+npc_begin	id=10004	nickcolor=default	nick=[30 Raid Boss]	name=[Turek Mercenary Boss]	npc_end
+npc_begin	id=10005	nickcolor=default	nick=[Raid Fighter]	name=[Turek Mercenary Archer]	npc_end
+npc_begin	id=10006	nickcolor=default	nick=[Raid Fighter]	name=[Turek Mercenary Fighter]	npc_end
+
+npc_begin	id=12001	nickcolor=default	nick=[Epic Boss]	name=[Queen Ant]	npc_end
+npc_begin	id=12002	nickcolor=default	nick=[29 minion]	name=[Queen Ant Larva]	npc_end
+npc_begin	id=12003	nickcolor=default	nick=[70 minion]	name=[Nurse Ant]	npc_end
+npc_begin	id=12004	nickcolor=default	nick=[70 minion]	name=[Guard Ant]	npc_end
+npc_begin	id=12005	nickcolor=default	nick=[39]	name=[Royal Guard Ant]	npc_end
 npc_begin	id=12006	nickcolor=default	nick=[]	name=[Kat The Cat]	npc_end
-npc_begin	id=12007	nickcolor=default	nick=[]	name=[Kat The Cat]	npc_end
-npc_begin	id=12008	nickcolor=default	nick=[]	name=[Kat The Cat]	npc_end
-npc_begin	id=12009	nickcolor=default	nick=[]	name=[Duke Lewin Waldner]	npc_end
-npc_begin	id=12010	nickcolor=default	nick=[Sir]	name=[Cronenberg]	npc_end
+npc_begin	id=12007	nickcolor=default	nick=[]	name=[Kat The Cat B]	npc_end
+npc_begin	id=12008	nickcolor=default	nick=[]	name=[Kat The Cat C]	npc_end
+npc_begin	id=12009	nickcolor=default	nick=[]	name=[Duke Lewin Waldner B]	npc_end
+npc_begin	id=12010	nickcolor=default	nick=[Sir]	name=[Cronenberg B]	npc_end
 npc_begin	id=12011	nickcolor=default	nick=[Gludio]	name=[Court Knight]	npc_end
 npc_begin	id=12012	nickcolor=default	nick=[Gludio]	name=[Court Sorcerer]	npc_end
 npc_begin	id=12013	nickcolor=default	nick=[Gludio]	name=[Court Priest]	npc_end
 npc_begin	id=12014	nickcolor=default	nick=[Gludio]	name=[Court Guard]	npc_end
-npc_begin	id=12015	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12016	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12017	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12018	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12019	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12020	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12021	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12022	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12023	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12024	nickcolor=default	nick=[Headquarter]	name=[]	npc_end
-npc_begin	id=12025	nickcolor=default	nick=[Gludio]	name=[Court Knight]	npc_end
-npc_begin	id=12026	nickcolor=default	nick=[Gludio]	name=[Court Sorcerer]	npc_end
-npc_begin	id=12027	nickcolor=default	nick=[Gludio]	name=[Court Priest]	npc_end
-npc_begin	id=12028	nickcolor=default	nick=[Gludio]	name=[Court Guard]	npc_end
-npc_begin	id=12029	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12030	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12031	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12032	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12033	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12034	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12035	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12036	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12037	nickcolor=default	nick=[Gludio]	name=[Guard]	npc_end
-npc_begin	id=12038	nickcolor=default	nick=[]	name=[Bloody Lord Nurka]	npc_end
+npc_begin	id=12015	nickcolor=default	nick=[Gludio]	name=[Guard B]	npc_end
+npc_begin	id=12016	nickcolor=default	nick=[Gludio]	name=[Guard C]	npc_end
+npc_begin	id=12017	nickcolor=default	nick=[Gludio]	name=[Guard D]	npc_end
+npc_begin	id=12018	nickcolor=default	nick=[Gludio]	name=[Guard E]	npc_end
+npc_begin	id=12019	nickcolor=default	nick=[Gludio]	name=[Guard F]	npc_end
+npc_begin	id=12020	nickcolor=default	nick=[Gludio]	name=[Guard G]	npc_end
+npc_begin	id=12021	nickcolor=default	nick=[Gludio]	name=[Guard H]	npc_end
+npc_begin	id=12022	nickcolor=default	nick=[Gludio]	name=[Guard I]	npc_end
+npc_begin	id=12023	nickcolor=default	nick=[Gludio]	name=[Guard J]	npc_end
+npc_begin	id=12024	nickcolor=default	nick=[Headquarter]	name=[unnamed N]	npc_end
+npc_begin	id=12025	nickcolor=default	nick=[Gludio]	name=[Court Knight B]	npc_end
+npc_begin	id=12026	nickcolor=default	nick=[Gludio]	name=[Court Sorcerer B]	npc_end
+npc_begin	id=12027	nickcolor=default	nick=[Gludio]	name=[Court Priest B]	npc_end
+npc_begin	id=12028	nickcolor=default	nick=[Gludio]	name=[Court Guard B]	npc_end
+npc_begin	id=12029	nickcolor=default	nick=[Gludio]	name=[Guard K]	npc_end
+npc_begin	id=12030	nickcolor=default	nick=[Gludio]	name=[Guard N8]	npc_end
+npc_begin	id=12031	nickcolor=default	nick=[Gludio]	name=[Guard N9]	npc_end
+npc_begin	id=12032	nickcolor=default	nick=[Gludio]	name=[Guard N10]	npc_end
+npc_begin	id=12033	nickcolor=default	nick=[Gludio]	name=[Guard N11]	npc_end
+npc_begin	id=12034	nickcolor=default	nick=[Gludio]	name=[Guard N12]	npc_end
+npc_begin	id=12035	nickcolor=default	nick=[Gludio]	name=[Guard N13]	npc_end
+npc_begin	id=12036	nickcolor=default	nick=[Gludio]	name=[Guard N14]	npc_end
+npc_begin	id=12037	nickcolor=default	nick=[Gludio]	name=[Guard N15]	npc_end
+npc_begin	id=12038	nickcolor=default	nick=[55 boss]	name=[Bloody Lord Nurka]	npc_end
 npc_begin	id=12039	nickcolor=default	nick=[]	name=[Partisan Healer]	npc_end
 npc_begin	id=12040	nickcolor=default	nick=[]	name=[Partisan Court Guard]	npc_end
-npc_begin	id=12041	nickcolor=default	nick=[]	name=[Partisan Court Guard]	npc_end
+npc_begin	id=12041	nickcolor=default	nick=[]	name=[Partisan Court Guard B]	npc_end
 npc_begin	id=12042	nickcolor=default	nick=[]	name=[Partisan Soldier]	npc_end
 npc_begin	id=12043	nickcolor=default	nick=[]	name=[Partisan Sorcerer]	npc_end
 npc_begin	id=12044	nickcolor=default	nick=[]	name=[Partisan Archer]	npc_end
-npc_begin	id=12045	nickcolor=default	nick=[]	name=[Bloody Lord Nurka]	npc_end
-npc_begin	id=12046	nickcolor=default	nick=[]	name=[Partisan Healer]	npc_end
-npc_begin	id=12047	nickcolor=default	nick=[]	name=[Partisan Court Guard]	npc_end
-npc_begin	id=12048	nickcolor=default	nick=[]	name=[Partisan Court Guard]	npc_end
-npc_begin	id=12049	nickcolor=default	nick=[]	name=[Partisan Soldier]	npc_end
+npc_begin	id=12045	nickcolor=default	nick=[]	name=[Bloody Lord Nurka B]	npc_end
+npc_begin	id=12046	nickcolor=default	nick=[]	name=[Partisan Healer B]	npc_end
+npc_begin	id=12047	nickcolor=default	nick=[]	name=[Partisan Court Guard C]	npc_end
+npc_begin	id=12048	nickcolor=default	nick=[]	name=[Partisan Court Guard D]	npc_end
+npc_begin	id=12049	nickcolor=default	nick=[]	name=[Partisan Soldier B]	npc_end
 npc_begin	id=12050	nickcolor=default	nick=[]	name=[Partisan Socerer]	npc_end
-npc_begin	id=12051	nickcolor=default	nick=[]	name=[Partisan Archer]	npc_end
-npc_begin	id=12052	nickcolor=default	nick=[]	name=[Core]	npc_end
+npc_begin	id=12051	nickcolor=default	nick=[]	name=[Partisan Archer B]	npc_end
+npc_begin	id=12052	nickcolor=default	nick=[Epic Boss]	name=[Core]	npc_end
 npc_begin	id=12053	nickcolor=default	nick=[]	name=[Teleport Cube]	npc_end
-npc_begin	id=12054	nickcolor=default	nick=[]	name=[Death Knight]	npc_end
-npc_begin	id=12055	nickcolor=default	nick=[]	name=[Death Wraith]	npc_end
-npc_begin	id=12056	nickcolor=default	nick=[]	name=[Dicor]	npc_end
-npc_begin	id=12057	nickcolor=default	nick=[]	name=[Validus]	npc_end
-npc_begin	id=12058	nickcolor=default	nick=[]	name=[Susceptor]	npc_end
-npc_begin	id=12059	nickcolor=default	nick=[]	name=[Perum]	npc_end
-npc_begin	id=12060	nickcolor=default	nick=[]	name=[Premo]	npc_end
+npc_begin	id=12054	nickcolor=default	nick=[70]	name=[Core Knight]	npc_end
+npc_begin	id=12055	nickcolor=default	nick=[70]	name=[Core Wraith]	npc_end
+npc_begin	id=12056	nickcolor=default	nick=[70]	name=[Core Dicor]	npc_end
+npc_begin	id=12057	nickcolor=default	nick=[70]	name=[Core Validus]	npc_end
+npc_begin	id=12058	nickcolor=default	nick=[70]	name=[Core Susceptor]	npc_end
+npc_begin	id=12059	nickcolor=default	nick=[70]	name=[Core Perum]	npc_end
+npc_begin	id=12060	nickcolor=default	nick=[70]	name=[Core Premo]	npc_end
 npc_begin	id=12061	nickcolor=default	nick=[]	name=[Mew The Cat]	npc_end
-npc_begin	id=12062	nickcolor=default	nick=[]	name=[Mew The Cat]	npc_end
-npc_begin	id=12063	nickcolor=default	nick=[]	name=[Mew The Cat]	npc_end
+npc_begin	id=12062	nickcolor=default	nick=[]	name=[Mew The Cat B]	npc_end
+npc_begin	id=12063	nickcolor=default	nick=[]	name=[Mew The Cat C]	npc_end
 npc_begin	id=12064	nickcolor=default	nick=[]	name=[Unicorn Boxer]	npc_end
-npc_begin	id=12065	nickcolor=default	nick=[]	name=[Unicorn Boxer]	npc_end
-npc_begin	id=12066	nickcolor=default	nick=[]	name=[Unicorn Boxer]	npc_end
+npc_begin	id=12065	nickcolor=default	nick=[]	name=[Unicorn Boxer B]	npc_end
+npc_begin	id=12066	nickcolor=default	nick=[]	name=[Unicorn Boxer C]	npc_end
 npc_begin	id=12067	nickcolor=default	nick=[]	name=[Unicorn Mirage]	npc_end
-npc_begin	id=12068	nickcolor=default	nick=[]	name=[Unicorn Mirage]	npc_end
-npc_begin	id=12069	nickcolor=default	nick=[]	name=[Unicorn Mirage]	npc_end
+npc_begin	id=12068	nickcolor=default	nick=[]	name=[Unicorn Mirage B]	npc_end
+npc_begin	id=12069	nickcolor=default	nick=[]	name=[Unicorn Mirage C]	npc_end
 npc_begin	id=12070	nickcolor=default	nick=[]	name=[Shadow]	npc_end
-npc_begin	id=12071	nickcolor=default	nick=[]	name=[Shadow]	npc_end
-npc_begin	id=12072	nickcolor=default	nick=[]	name=[Shadow]	npc_end
+npc_begin	id=12071	nickcolor=default	nick=[]	name=[Shadow B]	npc_end
+npc_begin	id=12072	nickcolor=default	nick=[]	name=[Shadow C]	npc_end
 npc_begin	id=12073	nickcolor=default	nick=[]	name=[Silhouette]	npc_end
-npc_begin	id=12074	nickcolor=default	nick=[]	name=[Silhouette]	npc_end
-npc_begin	id=12075	nickcolor=default	nick=[]	name=[Silhouette]	npc_end
+npc_begin	id=12074	nickcolor=default	nick=[]	name=[Silhouette B]	npc_end
+npc_begin	id=12075	nickcolor=default	nick=[]	name=[Silhouette C]	npc_end
 npc_begin	id=12076	nickcolor=default	nick=[]	name=[Hatchling]	npc_end
 npc_begin	id=12077	nickcolor=default	nick=[]	name=[Pet Wolf A]	npc_end
-npc_begin	id=12078	nickcolor=default	nick=[]	name=[Teleport Cube]	npc_end
-npc_begin	id=12079	nickcolor=default	nick=[]	name=[Bloody Queen]	npc_end
-npc_begin	id=12080	nickcolor=default	nick=[]	name=[Bloody Queen]	npc_end
+npc_begin	id=12078	nickcolor=default	nick=[]	name=[Teleport Cube B]	npc_end
+npc_begin	id=12079	nickcolor=default	nick=[]	name=[Bloody Queen C]	npc_end
+npc_begin	id=12080	nickcolor=default	nick=[]	name=[Bloody Queen D]	npc_end
 npc_begin	id=12081	nickcolor=default	nick=[Gludio]	name=[Royal Gatekeeper]	npc_end
-npc_begin	id=12082	nickcolor=default	nick=[]	name=[Bearded Keltir]	npc_end
-npc_begin	id=12083	nickcolor=default	nick=[]	name=[Arachne]	npc_end
-npc_begin	id=12084	nickcolor=default	nick=[]	name=[Bloody Pixy]	npc_end
-npc_begin	id=12085	nickcolor=default	nick=[]	name=[Dark Pan]	npc_end
-npc_begin	id=12086	nickcolor=default	nick=[]	name=[Pan]	npc_end
-npc_begin	id=12087	nickcolor=default	nick=[]	name=[Pixy]	npc_end
-npc_begin	id=12088	nickcolor=default	nick=[]	name=[Red Arachne]	npc_end
-npc_begin	id=12089	nickcolor=default	nick=[]	name=[Blight Treant]	npc_end
-npc_begin	id=12090	nickcolor=default	nick=[]	name=[Treant]	npc_end
-npc_begin	id=12091	nickcolor=default	nick=[]	name=[Pixy Murika]	npc_end
-npc_begin	id=12092	nickcolor=default	nick=[]	name=[Treant Bremec]	npc_end
+npc_begin	id=12082	nickcolor=default	nick=[1]	name=[Bearded Keltir B]	npc_end
+npc_begin	id=12083	nickcolor=default	nick=[]	name=[Arachne B]	npc_end
+npc_begin	id=12084	nickcolor=default	nick=[]	name=[Bloody Pixy B]	npc_end
+npc_begin	id=12085	nickcolor=default	nick=[]	name=[Dark Pan B]	npc_end
+npc_begin	id=12086	nickcolor=default	nick=[]	name=[Pan B]	npc_end
+npc_begin	id=12087	nickcolor=default	nick=[]	name=[Pixy B]	npc_end
+npc_begin	id=12088	nickcolor=default	nick=[]	name=[Red Arachne B]	npc_end
+npc_begin	id=12089	nickcolor=default	nick=[]	name=[Blight Treant B]	npc_end
+npc_begin	id=12090	nickcolor=default	nick=[]	name=[Treant B]	npc_end
+npc_begin	id=12091	nickcolor=default	nick=[]	name=[Pixy Murika B]	npc_end
+npc_begin	id=12092	nickcolor=default	nick=[]	name=[Treant Bremec B]	npc_end
 npc_begin	id=12093	nickcolor=default	nick=[]	name=[Duke Byron Ashton]	npc_end
 npc_begin	id=12094	nickcolor=default	nick=[Sir]	name=[Ivano]	npc_end
-npc_begin	id=12095	nickcolor=default	nick=[Dion]	name=[Court Knight]	npc_end
-npc_begin	id=12096	nickcolor=default	nick=[Dion]	name=[Court Sorcerer]	npc_end
-npc_begin	id=12097	nickcolor=default	nick=[Dion]	name=[Court Priest]	npc_end
-npc_begin	id=12098	nickcolor=default	nick=[Dion]	name=[Court Guard]	npc_end
-npc_begin	id=12099	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12100	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12101	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12102	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12103	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12104	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12105	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12106	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12107	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12108	nickcolor=default	nick=[Dion]	name=[Court Knight]	npc_end
-npc_begin	id=12109	nickcolor=default	nick=[Dion]	name=[Court Sorcerer]	npc_end
-npc_begin	id=12110	nickcolor=default	nick=[Dion]	name=[Court Priest]	npc_end
-npc_begin	id=12111	nickcolor=default	nick=[Dion]	name=[Court Guard]	npc_end
-npc_begin	id=12112	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12113	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12114	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12115	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12116	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12117	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12118	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12119	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
-npc_begin	id=12120	nickcolor=default	nick=[Dion]	name=[Guard]	npc_end
+npc_begin	id=12095	nickcolor=default	nick=[Dion]	name=[Court Knight C]	npc_end
+npc_begin	id=12096	nickcolor=default	nick=[Dion]	name=[Court Sorcerer C]	npc_end
+npc_begin	id=12097	nickcolor=default	nick=[Dion]	name=[Court Priest C]	npc_end
+npc_begin	id=12098	nickcolor=default	nick=[Dion]	name=[Court Guard C]	npc_end
+npc_begin	id=12099	nickcolor=default	nick=[Dion]	name=[Guard N16]	npc_end
+npc_begin	id=12100	nickcolor=default	nick=[Dion]	name=[Guard N17]	npc_end
+npc_begin	id=12101	nickcolor=default	nick=[Dion]	name=[Guard N18]	npc_end
+npc_begin	id=12102	nickcolor=default	nick=[Dion]	name=[Guard N19]	npc_end
+npc_begin	id=12103	nickcolor=default	nick=[Dion]	name=[Guard N20]	npc_end
+npc_begin	id=12104	nickcolor=default	nick=[Dion]	name=[Guard N21]	npc_end
+npc_begin	id=12105	nickcolor=default	nick=[Dion]	name=[Guard N22]	npc_end
+npc_begin	id=12106	nickcolor=default	nick=[Dion]	name=[Guard N23]	npc_end
+npc_begin	id=12107	nickcolor=default	nick=[Dion]	name=[Guard N24]	npc_end
+npc_begin	id=12108	nickcolor=default	nick=[Dion]	name=[Court Knight D]	npc_end
+npc_begin	id=12109	nickcolor=default	nick=[Dion]	name=[Court Sorcerer D]	npc_end
+npc_begin	id=12110	nickcolor=default	nick=[Dion]	name=[Court Priest D]	npc_end
+npc_begin	id=12111	nickcolor=default	nick=[Dion]	name=[Court Guard D]	npc_end
+npc_begin	id=12112	nickcolor=default	nick=[Dion]	name=[Guard N25]	npc_end
+npc_begin	id=12113	nickcolor=default	nick=[Dion]	name=[Guard N26]	npc_end
+npc_begin	id=12114	nickcolor=default	nick=[Dion]	name=[Guard N27]	npc_end
+npc_begin	id=12115	nickcolor=default	nick=[Dion]	name=[Guard N28]	npc_end
+npc_begin	id=12116	nickcolor=default	nick=[Dion]	name=[Guard N29]	npc_end
+npc_begin	id=12117	nickcolor=default	nick=[Dion]	name=[Guard N30]	npc_end
+npc_begin	id=12118	nickcolor=default	nick=[Dion]	name=[Guard N31]	npc_end
+npc_begin	id=12119	nickcolor=default	nick=[Dion]	name=[Guard N32]	npc_end
+npc_begin	id=12120	nickcolor=default	nick=[Dion]	name=[Guard N33]	npc_end
 npc_begin	id=12121	nickcolor=default	nick=[Chamberlain]	name=[Crosby]	npc_end
 npc_begin	id=12122	nickcolor=default	nick=[Sir]	name=[Gibbson]	npc_end
 npc_begin	id=12123	nickcolor=default	nick=[Dion]	name=[Holything]	npc_end
 npc_begin	id=12124	nickcolor=default	nick=[]	name=[Baron Carmon Esthus]	npc_end
 npc_begin	id=12125	nickcolor=default	nick=[Sir]	name=[Ulric]	npc_end
-npc_begin	id=12126	nickcolor=default	nick=[Giran]	name=[Court Knight]	npc_end
-npc_begin	id=12127	nickcolor=default	nick=[Giran]	name=[Court Sorcerer]	npc_end
-npc_begin	id=12128	nickcolor=default	nick=[Giran]	name=[Court Priest]	npc_end
-npc_begin	id=12129	nickcolor=default	nick=[Giran]	name=[Court Guard]	npc_end
-npc_begin	id=12130	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12131	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12132	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12133	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12134	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12135	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12136	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12137	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12138	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12139	nickcolor=default	nick=[Giran]	name=[Court Knight]	npc_end
-npc_begin	id=12140	nickcolor=default	nick=[Giran]	name=[Court Sorcerer]	npc_end
-npc_begin	id=12141	nickcolor=default	nick=[Giran]	name=[Court Priest]	npc_end
-npc_begin	id=12142	nickcolor=default	nick=[Giran]	name=[Court Guard]	npc_end
-npc_begin	id=12143	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12144	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12145	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12146	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12147	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12148	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12149	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12150	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
-npc_begin	id=12151	nickcolor=default	nick=[Giran]	name=[Guard]	npc_end
+npc_begin	id=12126	nickcolor=default	nick=[Giran]	name=[Court Knight E]	npc_end
+npc_begin	id=12127	nickcolor=default	nick=[Giran]	name=[Court Sorcerer E]	npc_end
+npc_begin	id=12128	nickcolor=default	nick=[Giran]	name=[Court Priest E]	npc_end
+npc_begin	id=12129	nickcolor=default	nick=[Giran]	name=[Court Guard E]	npc_end
+npc_begin	id=12130	nickcolor=default	nick=[Giran]	name=[Guard N34]	npc_end
+npc_begin	id=12131	nickcolor=default	nick=[Giran]	name=[Guard N35]	npc_end
+npc_begin	id=12132	nickcolor=default	nick=[Giran]	name=[Guard N36]	npc_end
+npc_begin	id=12133	nickcolor=default	nick=[Giran]	name=[Guard N37]	npc_end
+npc_begin	id=12134	nickcolor=default	nick=[Giran]	name=[Guard N38]	npc_end
+npc_begin	id=12135	nickcolor=default	nick=[Giran]	name=[Guard N39]	npc_end
+npc_begin	id=12136	nickcolor=default	nick=[Giran]	name=[Guard N40]	npc_end
+npc_begin	id=12137	nickcolor=default	nick=[Giran]	name=[Guard N41]	npc_end
+npc_begin	id=12138	nickcolor=default	nick=[Giran]	name=[Guard N42]	npc_end
+npc_begin	id=12139	nickcolor=default	nick=[Giran]	name=[Court Knight F]	npc_end
+npc_begin	id=12140	nickcolor=default	nick=[Giran]	name=[Court Sorcerer F]	npc_end
+npc_begin	id=12141	nickcolor=default	nick=[Giran]	name=[Court Priest F]	npc_end
+npc_begin	id=12142	nickcolor=default	nick=[Giran]	name=[Court Guard F]	npc_end
+npc_begin	id=12143	nickcolor=default	nick=[Giran]	name=[Guard N43]	npc_end
+npc_begin	id=12144	nickcolor=default	nick=[Giran]	name=[Guard N44]	npc_end
+npc_begin	id=12145	nickcolor=default	nick=[Giran]	name=[Guard N45]	npc_end
+npc_begin	id=12146	nickcolor=default	nick=[Giran]	name=[Guard N46]	npc_end
+npc_begin	id=12147	nickcolor=default	nick=[Giran]	name=[Guard N47]	npc_end
+npc_begin	id=12148	nickcolor=default	nick=[Giran]	name=[Guard N48]	npc_end
+npc_begin	id=12149	nickcolor=default	nick=[Giran]	name=[Guard N49]	npc_end
+npc_begin	id=12150	nickcolor=default	nick=[Giran]	name=[Guard N50]	npc_end
+npc_begin	id=12151	nickcolor=default	nick=[Giran]	name=[Guard N51]	npc_end
 npc_begin	id=12152	nickcolor=default	nick=[Chamberlain]	name=[Saul]	npc_end
 npc_begin	id=12153	nickcolor=default	nick=[Sir]	name=[Holmes]	npc_end
-npc_begin	id=12154	nickcolor=default	nick=[Giran]	name=[Holything]	npc_end
+npc_begin	id=12154	nickcolor=default	nick=[Giran]	name=[Holything B]	npc_end
 npc_begin	id=12155	nickcolor=default	nick=[Dion]	name=[Defend Teleporter1]	npc_end
 npc_begin	id=12156	nickcolor=default	nick=[Dion]	name=[Defend Teleporter2]	npc_end
 npc_begin	id=12157	nickcolor=default	nick=[Dion]	name=[Defend Teleporter3]	npc_end
 npc_begin	id=12158	nickcolor=default	nick=[Dion]	name=[Mass Teleporter]	npc_end
 npc_begin	id=12159	nickcolor=default	nick=[Dion]	name=[Outter Doorman]	npc_end
 npc_begin	id=12160	nickcolor=default	nick=[Dion]	name=[Inner Doorman]	npc_end
-npc_begin	id=12161	nickcolor=default	nick=[Dion]	name=[Royal Gatekeeper]	npc_end
-npc_begin	id=12162	nickcolor=default	nick=[Giran]	name=[Defend Teleporter1]	npc_end
-npc_begin	id=12163	nickcolor=default	nick=[Giran]	name=[Defend Teleporter2]	npc_end
-npc_begin	id=12164	nickcolor=default	nick=[Giran]	name=[Defend Teleporter3]	npc_end
-npc_begin	id=12165	nickcolor=default	nick=[Giran]	name=[Mass Teleporter]	npc_end
-npc_begin	id=12166	nickcolor=default	nick=[Giran]	name=[Outter Doorman]	npc_end
-npc_begin	id=12167	nickcolor=default	nick=[Giran]	name=[Inner Doorman]	npc_end
-npc_begin	id=12168	nickcolor=default	nick=[Giran]	name=[Royal Gatekeeper]	npc_end
-npc_begin	id=12169	nickcolor=default	nick=[]	name=[Orfen]	npc_end
-npc_begin	id=12170	nickcolor=default	nick=[]	name=[Raikel]	npc_end
-npc_begin	id=12171	nickcolor=default	nick=[]	name=[Raikel Leos]	npc_end
-npc_begin	id=12172	nickcolor=default	nick=[]	name=[Riba]	npc_end
-npc_begin	id=12173	nickcolor=default	nick=[]	name=[Riba Iren]	npc_end
+npc_begin	id=12161	nickcolor=default	nick=[Dion]	name=[Royal Gatekeeper B]	npc_end
+npc_begin	id=12162	nickcolor=default	nick=[Giran]	name=[Defend Teleporter1 B]	npc_end
+npc_begin	id=12163	nickcolor=default	nick=[Giran]	name=[Defend Teleporter2 B]	npc_end
+npc_begin	id=12164	nickcolor=default	nick=[Giran]	name=[Defend Teleporter3 B]	npc_end
+npc_begin	id=12165	nickcolor=default	nick=[Giran]	name=[Mass Teleporter B]	npc_end
+npc_begin	id=12166	nickcolor=default	nick=[Giran]	name=[Outter Doorman B]	npc_end
+npc_begin	id=12167	nickcolor=default	nick=[Giran]	name=[Inner Doorman B]	npc_end
+npc_begin	id=12168	nickcolor=default	nick=[Giran]	name=[Royal Gatekeeper C]	npc_end
+npc_begin	id=12169	nickcolor=default	nick=[Epic Boss]	name=[Orfen]	npc_end
+npc_begin	id=12170	nickcolor=default	nick=[70 boss]	name=[Raikel]	npc_end
+npc_begin	id=12171	nickcolor=default	nick=[49 boss]	name=[Raikel Leos]	npc_end
+npc_begin	id=12172	nickcolor=default	nick=[70 boss]	name=[Riba]	npc_end
+npc_begin	id=12173	nickcolor=default	nick=[70 boss]	name=[Riba Iren]	npc_end
 npc_begin	id=12174	nickcolor=default	nick=[]	name=[Suceptor Prime]	npc_end
-npc_begin	id=12175	nickcolor=default	nick=[]	name=[Kat The Cat]	npc_end
-npc_begin	id=12176	nickcolor=default	nick=[]	name=[Kat The Cat]	npc_end
-npc_begin	id=12177	nickcolor=default	nick=[]	name=[Mew The Cat]	npc_end
-npc_begin	id=12178	nickcolor=default	nick=[]	name=[Unicorn Boxer]	npc_end
-npc_begin	id=12179	nickcolor=default	nick=[]	name=[Unicorn Boxer]	npc_end
-npc_begin	id=12180	nickcolor=default	nick=[]	name=[Unicorn Mirage]	npc_end
-npc_begin	id=12181	nickcolor=default	nick=[]	name=[Shadow]	npc_end
-npc_begin	id=12182	nickcolor=default	nick=[]	name=[Shadow]	npc_end
-npc_begin	id=12183	nickcolor=default	nick=[]	name=[Silhouette]	npc_end
+npc_begin	id=12175	nickcolor=default	nick=[]	name=[Kat The Cat D]	npc_end
+npc_begin	id=12176	nickcolor=default	nick=[]	name=[Kat The Cat E]	npc_end
+npc_begin	id=12177	nickcolor=default	nick=[]	name=[Mew The Cat D]	npc_end
+npc_begin	id=12178	nickcolor=default	nick=[]	name=[Unicorn Boxer D]	npc_end
+npc_begin	id=12179	nickcolor=default	nick=[]	name=[Unicorn Boxer E]	npc_end
+npc_begin	id=12180	nickcolor=default	nick=[]	name=[Unicorn Mirage D]	npc_end
+npc_begin	id=12181	nickcolor=default	nick=[]	name=[Shadow D]	npc_end
+npc_begin	id=12182	nickcolor=default	nick=[]	name=[Shadow E]	npc_end
+npc_begin	id=12183	nickcolor=default	nick=[]	name=[Silhouette D]	npc_end
 npc_begin	id=12184	nickcolor=default	nick=[]	name=[Dark Panther]	npc_end
-npc_begin	id=12185	nickcolor=default	nick=[]	name=[Dark Panther]	npc_end
-npc_begin	id=12186	nickcolor=default	nick=[]	name=[Dark Panther]	npc_end
+npc_begin	id=12185	nickcolor=default	nick=[]	name=[Dark Panther B]	npc_end
+npc_begin	id=12186	nickcolor=default	nick=[]	name=[Dark Panther C]	npc_end
+npc_begin	id=12473	nickcolor=default	nick=[]	name=[Dark Panther D]	npc_end
+npc_begin	id=12474	nickcolor=default	nick=[]	name=[Dark Panther E]	npc_end
+npc_begin	id=12475	nickcolor=default	nick=[]	name=[Dark Panther F]	npc_end
+npc_begin	id=12476	nickcolor=default	nick=[]	name=[Dark Panther G]	npc_end
+
 npc_begin	id=12187	nickcolor=default	nick=[]	name=[Mechanic Golem]	npc_end
-npc_begin	id=12188	nickcolor=default	nick=[]	name=[Mechanic Golem]	npc_end
-npc_begin	id=12189	nickcolor=default	nick=[]	name=[Mechanic Golem]	npc_end
-npc_begin	id=12190	nickcolor=default	nick=[]	name=[Mechanic Golem]	npc_end
-npc_begin	id=12191	nickcolor=default	nick=[]	name=[Mechanic Golem]	npc_end
+npc_begin	id=12188	nickcolor=default	nick=[]	name=[Mechanic Golem B]	npc_end
+npc_begin	id=12189	nickcolor=default	nick=[]	name=[Mechanic Golem C]	npc_end
+npc_begin	id=12190	nickcolor=default	nick=[]	name=[Mechanic Golem D]	npc_end
+npc_begin	id=12191	nickcolor=default	nick=[]	name=[Mechanic Golem E]	npc_end
 npc_begin	id=12192	nickcolor=default	nick=[]	name=[Reanimated Man]	npc_end
-npc_begin	id=12193	nickcolor=default	nick=[]	name=[Reanimated Man]	npc_end
+npc_begin	id=12193	nickcolor=default	nick=[]	name=[Reanimated Man B]	npc_end
 npc_begin	id=12194	nickcolor=default	nick=[]	name=[Corrupted Man]	npc_end
-npc_begin	id=12195	nickcolor=default	nick=[]	name=[Corrupted Man]	npc_end
-npc_begin	id=12196	nickcolor=default	nick=[]	name=[Corrupted Man]	npc_end
+npc_begin	id=12195	nickcolor=default	nick=[]	name=[Corrupted Man B]	npc_end
+npc_begin	id=12196	nickcolor=default	nick=[]	name=[Corrupted Man C]	npc_end
 npc_begin	id=12197	nickcolor=default	nick=[]	name=[Life Cubic]	npc_end
-npc_begin	id=12198	nickcolor=default	nick=[]	name=[Life Cubic]	npc_end
-npc_begin	id=12199	nickcolor=default	nick=[]	name=[Life Cubic]	npc_end
+npc_begin	id=12198	nickcolor=default	nick=[]	name=[Life Cubic B]	npc_end
+npc_begin	id=12199	nickcolor=default	nick=[]	name=[Life Cubic C]	npc_end
 npc_begin	id=12200	nickcolor=default	nick=[]	name=[Storm Cubic]	npc_end
-npc_begin	id=12201	nickcolor=default	nick=[]	name=[Storm Cubic]	npc_end
-npc_begin	id=12202	nickcolor=default	nick=[]	name=[Storm Cubic]	npc_end
+npc_begin	id=12201	nickcolor=default	nick=[]	name=[Storm Cubic B]	npc_end
+npc_begin	id=12202	nickcolor=default	nick=[]	name=[Storm Cubic C]	npc_end
 npc_begin	id=12203	nickcolor=default	nick=[]	name=[Vampiric Cubic]	npc_end
-npc_begin	id=12204	nickcolor=default	nick=[]	name=[Vampiric Cubic]	npc_end
-npc_begin	id=12205	nickcolor=default	nick=[]	name=[Vampiric Cubic]	npc_end
+npc_begin	id=12204	nickcolor=default	nick=[]	name=[Vampiric Cubic B]	npc_end
+npc_begin	id=12205	nickcolor=default	nick=[]	name=[Vampiric Cubic C]	npc_end
 npc_begin	id=12206	nickcolor=default	nick=[]	name=[Poltergeist Cubic]	npc_end
-npc_begin	id=12207	nickcolor=default	nick=[]	name=[Poltergeist Cubic]	npc_end
-npc_begin	id=12208	nickcolor=default	nick=[]	name=[Poltergeist Cubic]	npc_end
+npc_begin	id=12207	nickcolor=default	nick=[]	name=[Poltergeist Cubic B]	npc_end
+npc_begin	id=12208	nickcolor=default	nick=[]	name=[Poltergeist Cubic C]	npc_end
 npc_begin	id=12209	nickcolor=default	nick=[]	name=[Viper Cubic]	npc_end
-npc_begin	id=12210	nickcolor=default	nick=[]	name=[Viper Cubic]	npc_end
-npc_begin	id=12211	nickcolor=default	nick=[]	name=[Antaras]	npc_end
+npc_begin	id=12210	nickcolor=default	nick=[]	name=[Viper Cubic B]	npc_end
+npc_begin	id=12211	nickcolor=default	nick=[70 boss]	name=[Antaras]	npc_end
 npc_begin	id=12212	nickcolor=default	nick=[]	name=[Duke Balthus Vanik]	npc_end
 npc_begin	id=12213	nickcolor=default	nick=[Sir]	name=[Quant]	npc_end
-npc_begin	id=12214	nickcolor=default	nick=[Oren]	name=[Court Knight]	npc_end
-npc_begin	id=12215	nickcolor=default	nick=[Oren]	name=[Court Sorcerer]	npc_end
-npc_begin	id=12216	nickcolor=default	nick=[Oren]	name=[Court Priest]	npc_end
-npc_begin	id=12217	nickcolor=default	nick=[Oren]	name=[Court Guard]	npc_end
-npc_begin	id=12218	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12219	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12220	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12221	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12222	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12223	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12224	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12225	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12226	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12227	nickcolor=default	nick=[Oren]	name=[Court Knight]	npc_end
-npc_begin	id=12228	nickcolor=default	nick=[Oren]	name=[Court Sorcerer]	npc_end
-npc_begin	id=12229	nickcolor=default	nick=[Oren]	name=[Court Priest]	npc_end
-npc_begin	id=12230	nickcolor=default	nick=[Oren]	name=[Court Guard]	npc_end
-npc_begin	id=12231	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12232	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12233	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12234	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12235	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12236	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12237	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12238	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
-npc_begin	id=12239	nickcolor=default	nick=[Oren]	name=[Guard]	npc_end
+npc_begin	id=12214	nickcolor=default	nick=[Oren]	name=[Court Knight G]	npc_end
+npc_begin	id=12215	nickcolor=default	nick=[Oren]	name=[Court Sorcerer G]	npc_end
+npc_begin	id=12216	nickcolor=default	nick=[Oren]	name=[Court Priest G]	npc_end
+npc_begin	id=12217	nickcolor=default	nick=[Oren]	name=[Court Guard G]	npc_end
+npc_begin	id=12218	nickcolor=default	nick=[Oren]	name=[Guard N52]	npc_end
+npc_begin	id=12219	nickcolor=default	nick=[Oren]	name=[Guard N53]	npc_end
+npc_begin	id=12220	nickcolor=default	nick=[Oren]	name=[Guard N54]	npc_end
+npc_begin	id=12221	nickcolor=default	nick=[Oren]	name=[Guard N55]	npc_end
+npc_begin	id=12222	nickcolor=default	nick=[Oren]	name=[Guard N56]	npc_end
+npc_begin	id=12223	nickcolor=default	nick=[Oren]	name=[Guard N57]	npc_end
+npc_begin	id=12224	nickcolor=default	nick=[Oren]	name=[Guard N58]	npc_end
+npc_begin	id=12225	nickcolor=default	nick=[Oren]	name=[Guard N59]	npc_end
+npc_begin	id=12226	nickcolor=default	nick=[Oren]	name=[Guard N60]	npc_end
+npc_begin	id=12227	nickcolor=default	nick=[Oren]	name=[Court Knight H]	npc_end
+npc_begin	id=12228	nickcolor=default	nick=[Oren]	name=[Court Sorcerer H]	npc_end
+npc_begin	id=12229	nickcolor=default	nick=[Oren]	name=[Court Priest H]	npc_end
+npc_begin	id=12230	nickcolor=default	nick=[Oren]	name=[Court Guard H]	npc_end
+npc_begin	id=12231	nickcolor=default	nick=[Oren]	name=[Guard N61]	npc_end
+npc_begin	id=12232	nickcolor=default	nick=[Oren]	name=[Guard N62]	npc_end
+npc_begin	id=12233	nickcolor=default	nick=[Oren]	name=[Guard N63]	npc_end
+npc_begin	id=12234	nickcolor=default	nick=[Oren]	name=[Guard N64]	npc_end
+npc_begin	id=12235	nickcolor=default	nick=[Oren]	name=[Guard N65]	npc_end
+npc_begin	id=12236	nickcolor=default	nick=[Oren]	name=[Guard N66]	npc_end
+npc_begin	id=12237	nickcolor=default	nick=[Oren]	name=[Guard N67]	npc_end
+npc_begin	id=12238	nickcolor=default	nick=[Oren]	name=[Guard N68]	npc_end
+npc_begin	id=12239	nickcolor=default	nick=[Oren]	name=[Guard N69]	npc_end
 npc_begin	id=12240	nickcolor=default	nick=[Chamberlain]	name=[Brasseur]	npc_end
 npc_begin	id=12241	nickcolor=default	nick=[Messenger]	name=[Sherwood]	npc_end
 npc_begin	id=12242	nickcolor=default	nick=[]	name=[Oren Holything]	npc_end
-npc_begin	id=12243	nickcolor=default	nick=[Oren]	name=[Defend Teleporter1]	npc_end
-npc_begin	id=12244	nickcolor=default	nick=[Oren]	name=[Defend Teleporter2]	npc_end
-npc_begin	id=12245	nickcolor=default	nick=[Oren]	name=[Defend Teleporter3]	npc_end
-npc_begin	id=12246	nickcolor=default	nick=[Oren]	name=[Mass Teleporter]	npc_end
-npc_begin	id=12247	nickcolor=default	nick=[Oren]	name=[Outter Doorman]	npc_end
-npc_begin	id=12248	nickcolor=default	nick=[Oren]	name=[Inner Doorman]	npc_end
-npc_begin	id=12249	nickcolor=default	nick=[Oren]	name=[Royal Gatekeeper]	npc_end
+npc_begin	id=12243	nickcolor=default	nick=[Oren]	name=[Defend Teleporter1 C]	npc_end
+npc_begin	id=12244	nickcolor=default	nick=[Oren]	name=[Defend Teleporter2 C]	npc_end
+npc_begin	id=12245	nickcolor=default	nick=[Oren]	name=[Defend Teleporter3 C]	npc_end
+npc_begin	id=12246	nickcolor=default	nick=[Oren]	name=[Mass Teleporter C]	npc_end
+npc_begin	id=12247	nickcolor=default	nick=[Oren]	name=[Outter Doorman C]	npc_end
+npc_begin	id=12248	nickcolor=default	nick=[Oren]	name=[Inner Doorman C]	npc_end
+npc_begin	id=12249	nickcolor=default	nick=[Oren]	name=[Royal Gatekeeper D]	npc_end
 npc_begin	id=12250	nickcolor=default	nick=[]	name=[Heart Of Warding]	npc_end
 npc_begin	id=12251	nickcolor=default	nick=[]	name=[Siege Golem]	npc_end
-npc_begin	id=12252	nickcolor=default	nick=[Chamberlain]	name=[Sayres]	npc_end
-npc_begin	id=12253	nickcolor=default	nick=[Herald]	name=[Tyron]	npc_end
+npc_begin	id=12252	nickcolor=default	nick=[Chamberlain]	name=[Sayres B]	npc_end
+npc_begin	id=12253	nickcolor=default	nick=[Herald]	name=[Tyron B]	npc_end
 npc_begin	id=12254	nickcolor=default	nick=[King]	name=[Amadeo Cadmus]	npc_end
 npc_begin	id=12255	nickcolor=default	nick=[Chamberlain]	name=[Logan]	npc_end
 npc_begin	id=12256	nickcolor=default	nick=[Chamberlain]	name=[Radcliff]	npc_end
@@ -2110,61 +2134,61 @@ npc_begin	id=12257	nickcolor=default	nick=[Sir]	name=[Shamus]	npc_end
 npc_begin	id=12258	nickcolor=default	nick=[Sir]	name=[Morpheus]	npc_end
 npc_begin	id=12259	nickcolor=default	nick=[Messenger]	name=[Ruford]	npc_end
 npc_begin	id=12260	nickcolor=default	nick=[]	name=[Event Manager]	npc_end
-npc_begin	id=12261	nickcolor=default	nick=[]	name=[Event Manager]	npc_end
-npc_begin	id=12262	nickcolor=default	nick=[]	name=[Event Manager]	npc_end
-npc_begin	id=12263	nickcolor=default	nick=[]	name=[Event Manager]	npc_end
-npc_begin	id=12264	nickcolor=default	nick=[]	name=[Event Manager]	npc_end
-npc_begin	id=12265	nickcolor=default	nick=[Aden]	name=[Court Knight]	npc_end
-npc_begin	id=12266	nickcolor=default	nick=[Aden]	name=[Court Sorcerer]	npc_end
-npc_begin	id=12267	nickcolor=default	nick=[Aden]	name=[Court Priest]	npc_end
-npc_begin	id=12268	nickcolor=default	nick=[Aden]	name=[Court Guard]	npc_end
-npc_begin	id=12269	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12270	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12271	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12272	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12273	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12274	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12275	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12276	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12277	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12278	nickcolor=default	nick=[Aden]	name=[Court Knight]	npc_end
-npc_begin	id=12279	nickcolor=default	nick=[Aden]	name=[Court Sorcerer]	npc_end
-npc_begin	id=12280	nickcolor=default	nick=[Aden]	name=[Court Priest]	npc_end
-npc_begin	id=12281	nickcolor=default	nick=[Aden]	name=[Court Guard]	npc_end
-npc_begin	id=12282	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12283	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12284	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12285	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12286	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12287	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12288	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12289	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
-npc_begin	id=12290	nickcolor=default	nick=[Aden]	name=[Guard]	npc_end
+npc_begin	id=12261	nickcolor=default	nick=[]	name=[Event Manager B]	npc_end
+npc_begin	id=12262	nickcolor=default	nick=[]	name=[Event Manager C]	npc_end
+npc_begin	id=12263	nickcolor=default	nick=[]	name=[Event Manager D]	npc_end
+npc_begin	id=12264	nickcolor=default	nick=[]	name=[Event Manager E]	npc_end
+npc_begin	id=12265	nickcolor=default	nick=[Aden]	name=[Court Knight I]	npc_end
+npc_begin	id=12266	nickcolor=default	nick=[Aden]	name=[Court Sorcerer I]	npc_end
+npc_begin	id=12267	nickcolor=default	nick=[Aden]	name=[Court Priest I]	npc_end
+npc_begin	id=12268	nickcolor=default	nick=[Aden]	name=[Court Guard I]	npc_end
+npc_begin	id=12269	nickcolor=default	nick=[Aden]	name=[Guard N70]	npc_end
+npc_begin	id=12270	nickcolor=default	nick=[Aden]	name=[Guard N71]	npc_end
+npc_begin	id=12271	nickcolor=default	nick=[Aden]	name=[Guard N72]	npc_end
+npc_begin	id=12272	nickcolor=default	nick=[Aden]	name=[Guard N73]	npc_end
+npc_begin	id=12273	nickcolor=default	nick=[Aden]	name=[Guard N74]	npc_end
+npc_begin	id=12274	nickcolor=default	nick=[Aden]	name=[Guard N75]	npc_end
+npc_begin	id=12275	nickcolor=default	nick=[Aden]	name=[Guard N76]	npc_end
+npc_begin	id=12276	nickcolor=default	nick=[Aden]	name=[Guard N77]	npc_end
+npc_begin	id=12277	nickcolor=default	nick=[Aden]	name=[Guard N78]	npc_end
+npc_begin	id=12278	nickcolor=default	nick=[Aden]	name=[Court Knight J]	npc_end
+npc_begin	id=12279	nickcolor=default	nick=[Aden]	name=[Court Sorcerer J]	npc_end
+npc_begin	id=12280	nickcolor=default	nick=[Aden]	name=[Court Priest J]	npc_end
+npc_begin	id=12281	nickcolor=default	nick=[Aden]	name=[Court Guard J]	npc_end
+npc_begin	id=12282	nickcolor=default	nick=[Aden]	name=[Guard N79]	npc_end
+npc_begin	id=12283	nickcolor=default	nick=[Aden]	name=[Guard N80]	npc_end
+npc_begin	id=12284	nickcolor=default	nick=[Aden]	name=[Guard N81]	npc_end
+npc_begin	id=12285	nickcolor=default	nick=[Aden]	name=[Guard N82]	npc_end
+npc_begin	id=12286	nickcolor=default	nick=[Aden]	name=[Guard N83]	npc_end
+npc_begin	id=12287	nickcolor=default	nick=[Aden]	name=[Guard N84]	npc_end
+npc_begin	id=12288	nickcolor=default	nick=[Aden]	name=[Guard N85]	npc_end
+npc_begin	id=12289	nickcolor=default	nick=[Aden]	name=[Guard N86]	npc_end
+npc_begin	id=12290	nickcolor=default	nick=[Aden]	name=[Guard N87]	npc_end
 npc_begin	id=12291	nickcolor=default	nick=[]	name=[Aden Holything]	npc_end
-npc_begin	id=12292	nickcolor=default	nick=[Aden]	name=[Defend Teleporter1]	npc_end
-npc_begin	id=12293	nickcolor=default	nick=[Aden]	name=[Defend Teleporter2]	npc_end
-npc_begin	id=12294	nickcolor=default	nick=[Aden]	name=[Defend Teleporter3]	npc_end
+npc_begin	id=12292	nickcolor=default	nick=[Aden]	name=[Defend Teleporter1 D]	npc_end
+npc_begin	id=12293	nickcolor=default	nick=[Aden]	name=[Defend Teleporter2 D]	npc_end
+npc_begin	id=12294	nickcolor=default	nick=[Aden]	name=[Defend Teleporter3 D]	npc_end
 npc_begin	id=12295	nickcolor=default	nick=[Aden]	name=[Defend Teleporter4]	npc_end
 npc_begin	id=12296	nickcolor=default	nick=[Aden]	name=[Defend Teleporter5]	npc_end
-npc_begin	id=12297	nickcolor=default	nick=[Aden]	name=[Mass Teleporter]	npc_end
-npc_begin	id=12298	nickcolor=default	nick=[Aden]	name=[Outter Doorman]	npc_end
-npc_begin	id=12299	nickcolor=default	nick=[Aden]	name=[Inner Doorman]	npc_end
-npc_begin	id=12300	nickcolor=default	nick=[Aden]	name=[Royal Gatekeeper]	npc_end
+npc_begin	id=12297	nickcolor=default	nick=[Aden]	name=[Mass Teleporter D]	npc_end
+npc_begin	id=12298	nickcolor=default	nick=[Aden]	name=[Outter Doorman D]	npc_end
+npc_begin	id=12299	nickcolor=default	nick=[Aden]	name=[Inner Doorman D]	npc_end
+npc_begin	id=12300	nickcolor=default	nick=[Aden]	name=[Royal Gatekeeper E]	npc_end
 npc_begin	id=12301	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
-npc_begin	id=12302	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
-npc_begin	id=12303	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
-npc_begin	id=12304	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
-npc_begin	id=12305	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
-npc_begin	id=12306	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
-npc_begin	id=12307	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
-npc_begin	id=12308	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
-npc_begin	id=12309	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
-npc_begin	id=12310	nickcolor=default	nick=[]	name=[Mercenary]	npc_end
+npc_begin	id=12302	nickcolor=default	nick=[]	name=[Mercenary B]	npc_end
+npc_begin	id=12303	nickcolor=default	nick=[]	name=[Mercenary C]	npc_end
+npc_begin	id=12304	nickcolor=default	nick=[]	name=[Mercenary D]	npc_end
+npc_begin	id=12305	nickcolor=default	nick=[]	name=[Mercenary E]	npc_end
+npc_begin	id=12306	nickcolor=default	nick=[]	name=[Mercenary F]	npc_end
+npc_begin	id=12307	nickcolor=default	nick=[]	name=[Mercenary G]	npc_end
+npc_begin	id=12308	nickcolor=default	nick=[]	name=[Mercenary H]	npc_end
+npc_begin	id=12309	nickcolor=default	nick=[]	name=[Mercenary I]	npc_end
+npc_begin	id=12310	nickcolor=default	nick=[]	name=[Mercenary J]	npc_end
 npc_begin	id=12311	nickcolor=default	nick=[]	name=[Hatchling of the Wind]	npc_end
 npc_begin	id=12312	nickcolor=default	nick=[]	name=[Hatchling of the Stars]	npc_end
 npc_begin	id=12313	nickcolor=default	nick=[]	name=[Hatchling of Twilight]	npc_end
 npc_begin	id=12314	nickcolor=default	nick=[]	name=[Life Control Tower]	npc_end
-npc_begin	id=12315	nickcolor=default	nick=[]	name=[Life Control Tower]	npc_end
+npc_begin	id=12315	nickcolor=default	nick=[]	name=[Life Control Tower B]	npc_end
 npc_begin	id=12316	nickcolor=default	nick=[Mercenary Manager]	name=[Greenspan]	npc_end
 npc_begin	id=12317	nickcolor=default	nick=[Mercenary Manager]	name=[Sanford]	npc_end
 npc_begin	id=12318	nickcolor=default	nick=[Mercenary Manager]	name=[Morrison]	npc_end
@@ -2172,53 +2196,100 @@ npc_begin	id=12319	nickcolor=default	nick=[Mercenary Manager]	name=[Arvid]	npc_e
 npc_begin	id=12320	nickcolor=default	nick=[Mercenary Manager]	name=[Eldon]	npc_end
 npc_begin	id=12321	nickcolor=default	nick=[Mercenary Manager]	name=[Rodd]	npc_end
 npc_begin	id=12322	nickcolor=default	nick=[Aden]	name=[Hall Doorman]	npc_end
-npc_begin	id=12323	nickcolor=default	nick=[Aden]	name=[Inner Doorman]	npc_end
-npc_begin	id=12324	nickcolor=default	nick=[]	name=[Teleport Cube]	npc_end
-npc_begin	id=12325	nickcolor=default	nick=[Gludio]	name=[Defend Teleporter1]	npc_end
-npc_begin	id=12326	nickcolor=default	nick=[Gludio]	name=[Defend Teleporter2]	npc_end
-npc_begin	id=12327	nickcolor=default	nick=[Gludio]	name=[Defend Teleporter3]	npc_end
-npc_begin	id=12328	nickcolor=default	nick=[Dion]	name=[Defend Teleporter1]	npc_end
-npc_begin	id=12329	nickcolor=default	nick=[Dion]	name=[Defend Teleporter2]	npc_end
-npc_begin	id=12330	nickcolor=default	nick=[Dion]	name=[Defend Teleporter3]	npc_end
-npc_begin	id=12331	nickcolor=default	nick=[Giran]	name=[Defend Teleporter1]	npc_end
-npc_begin	id=12332	nickcolor=default	nick=[Giran]	name=[Defend Teleporter2]	npc_end
-npc_begin	id=12333	nickcolor=default	nick=[Giran]	name=[Defend Teleporter3]	npc_end
-npc_begin	id=12334	nickcolor=default	nick=[Oren]	name=[Defend Teleporter1]	npc_end
-npc_begin	id=12335	nickcolor=default	nick=[Oren]	name=[Defend Teleporter2]	npc_end
-npc_begin	id=12336	nickcolor=default	nick=[Oren]	name=[Defend Teleporter3]	npc_end
-npc_begin	id=12337	nickcolor=default	nick=[Aden]	name=[Defend Teleporter1]	npc_end
-npc_begin	id=12338	nickcolor=default	nick=[Aden]	name=[Defend Teleporter2]	npc_end
-npc_begin	id=12339	nickcolor=default	nick=[Aden]	name=[Defend Teleporter3]	npc_end
-npc_begin	id=12340	nickcolor=default	nick=[Aden]	name=[Defend Teleporter4]	npc_end
-npc_begin	id=12341	nickcolor=default	nick=[Aden]	name=[Defend Teleporter5]	npc_end
+npc_begin	id=12323	nickcolor=default	nick=[Aden]	name=[Inner Doorman E]	npc_end
+npc_begin	id=12324	nickcolor=default	nick=[]	name=[Teleport Cube C]	npc_end
+npc_begin	id=12325	nickcolor=default	nick=[Gludio]	name=[Defend Teleporter1 E]	npc_end
+npc_begin	id=12326	nickcolor=default	nick=[Gludio]	name=[Defend Teleporter2 E]	npc_end
+npc_begin	id=12327	nickcolor=default	nick=[Gludio]	name=[Defend Teleporter3 E]	npc_end
+npc_begin	id=12328	nickcolor=default	nick=[Dion]	name=[Defend Teleporter1 F]	npc_end
+npc_begin	id=12329	nickcolor=default	nick=[Dion]	name=[Defend Teleporter2 F]	npc_end
+npc_begin	id=12330	nickcolor=default	nick=[Dion]	name=[Defend Teleporter3 F]	npc_end
+npc_begin	id=12331	nickcolor=default	nick=[Giran]	name=[Defend Teleporter1 G]	npc_end
+npc_begin	id=12332	nickcolor=default	nick=[Giran]	name=[Defend Teleporter2 G]	npc_end
+npc_begin	id=12333	nickcolor=default	nick=[Giran]	name=[Defend Teleporter3 G]	npc_end
+npc_begin	id=12334	nickcolor=default	nick=[Oren]	name=[Defend Teleporter1 H]	npc_end
+npc_begin	id=12335	nickcolor=default	nick=[Oren]	name=[Defend Teleporter2 H]	npc_end
+npc_begin	id=12336	nickcolor=default	nick=[Oren]	name=[Defend Teleporter3 H]	npc_end
+npc_begin	id=12337	nickcolor=default	nick=[Aden]	name=[Defend Teleporter1 I]	npc_end
+npc_begin	id=12338	nickcolor=default	nick=[Aden]	name=[Defend Teleporter2 I]	npc_end
+npc_begin	id=12339	nickcolor=default	nick=[Aden]	name=[Defend Teleporter3 I]	npc_end
+npc_begin	id=12340	nickcolor=default	nick=[Aden]	name=[Defend Teleporter4 B]	npc_end
+npc_begin	id=12341	nickcolor=default	nick=[Aden]	name=[Defend Teleporter5 B]	npc_end
 npc_begin	id=12342	nickcolor=default	nick=[]	name=[Flame Control Tower]	npc_end
-npc_begin	id=12343	nickcolor=default	nick=[]	name=[Flame Control Tower]	npc_end
-npc_begin	id=12344	nickcolor=default	nick=[]	name=[Kat The Cat]	npc_end
-npc_begin	id=12345	nickcolor=default	nick=[]	name=[Kat The Cat]	npc_end
-npc_begin	id=12346	nickcolor=default	nick=[]	name=[Kat The Cat]	npc_end
-npc_begin	id=12347	nickcolor=default	nick=[]	name=[Kat The Cat]	npc_end
-npc_begin	id=12348	nickcolor=default	nick=[]	name=[Mew The Cat]	npc_end
-npc_begin	id=12349	nickcolor=default	nick=[]	name=[Mew The Cat]	npc_end
-npc_begin	id=12350	nickcolor=default	nick=[]	name=[Mew The Cat]	npc_end
-npc_begin	id=12351	nickcolor=default	nick=[]	name=[Mew The Cat]	npc_end
-npc_begin	id=12352	nickcolor=default	nick=[]	name=[Mew The Cat]	npc_end
-npc_begin	id=12353	nickcolor=default	nick=[]	name=[Unicorn Boxer]	npc_end
-npc_begin	id=12354	nickcolor=default	nick=[]	name=[Unicorn Boxer]	npc_end
-npc_begin	id=12355	nickcolor=default	nick=[]	name=[Unicorn Boxer]	npc_end
-npc_begin	id=12356	nickcolor=default	nick=[]	name=[Unicorn Boxer]	npc_end
-npc_begin	id=12357	nickcolor=default	nick=[]	name=[Unicorn Mirage]	npc_end
-npc_begin	id=12358	nickcolor=default	nick=[]	name=[Unicorn Mirage]	npc_end
-npc_begin	id=12359	nickcolor=default	nick=[]	name=[Unicorn Mirage]	npc_end
-npc_begin	id=12360	nickcolor=default	nick=[]	name=[Unicorn Mirage]	npc_end
-npc_begin	id=12361	nickcolor=default	nick=[]	name=[Unicorn Mirage]	npc_end
-npc_begin	id=12362	nickcolor=default	nick=[]	name=[Shadow]	npc_end
-npc_begin	id=12363	nickcolor=default	nick=[]	name=[Shadow]	npc_end
-npc_begin	id=12364	nickcolor=default	nick=[]	name=[Shadow]	npc_end
-npc_begin	id=12365	nickcolor=default	nick=[]	name=[Shadow]	npc_end
-npc_begin	id=12366	nickcolor=default	nick=[]	name=[Silhouette]	npc_end
-npc_begin	id=12367	nickcolor=default	nick=[]	name=[Silhouette]	npc_end
-npc_begin	id=12368	nickcolor=default	nick=[]	name=[Silhouette]	npc_end
-npc_begin	id=12369	nickcolor=default	nick=[]	name=[Silhouette]	npc_end
-npc_begin	id=12370	nickcolor=default	nick=[]	name=[Silhouette]	npc_end
+npc_begin	id=12343	nickcolor=default	nick=[]	name=[Flame Control Tower B]	npc_end
+npc_begin	id=12344	nickcolor=default	nick=[]	name=[Kat The Cat F]	npc_end
+npc_begin	id=12345	nickcolor=default	nick=[]	name=[Kat The Cat G]	npc_end
+npc_begin	id=12346	nickcolor=default	nick=[]	name=[Kat The Cat H]	npc_end
+npc_begin	id=12347	nickcolor=default	nick=[]	name=[Kat The Cat I]	npc_end
+npc_begin	id=12348	nickcolor=default	nick=[]	name=[Mew The Cat E]	npc_end
+npc_begin	id=12349	nickcolor=default	nick=[]	name=[Mew The Cat F]	npc_end
+npc_begin	id=12350	nickcolor=default	nick=[]	name=[Mew The Cat G]	npc_end
+npc_begin	id=12351	nickcolor=default	nick=[]	name=[Mew The Cat H]	npc_end
+npc_begin	id=12352	nickcolor=default	nick=[]	name=[Mew The Cat I]	npc_end
+npc_begin	id=12353	nickcolor=default	nick=[]	name=[Unicorn Boxer F]	npc_end
+npc_begin	id=12354	nickcolor=default	nick=[]	name=[Unicorn Boxer G]	npc_end
+npc_begin	id=12355	nickcolor=default	nick=[]	name=[Unicorn Boxer H]	npc_end
+npc_begin	id=12356	nickcolor=default	nick=[]	name=[Unicorn Boxer I]	npc_end
+npc_begin	id=12357	nickcolor=default	nick=[]	name=[Unicorn Mirage E]	npc_end
+npc_begin	id=12358	nickcolor=default	nick=[]	name=[Unicorn Mirage F]	npc_end
+npc_begin	id=12359	nickcolor=default	nick=[]	name=[Unicorn Mirage G]	npc_end
+npc_begin	id=12360	nickcolor=default	nick=[]	name=[Unicorn Mirage H]	npc_end
+npc_begin	id=12361	nickcolor=default	nick=[]	name=[Unicorn Mirage I]	npc_end
+npc_begin	id=12362	nickcolor=default	nick=[]	name=[Shadow F]	npc_end
+npc_begin	id=12363	nickcolor=default	nick=[]	name=[Shadow G]	npc_end
+npc_begin	id=12364	nickcolor=default	nick=[]	name=[Shadow H]	npc_end
+npc_begin	id=12365	nickcolor=default	nick=[]	name=[Shadow I]	npc_end
+npc_begin	id=12366	nickcolor=default	nick=[]	name=[Silhouette E]	npc_end
+npc_begin	id=12367	nickcolor=default	nick=[]	name=[Silhouette F]	npc_end
+npc_begin	id=12368	nickcolor=default	nick=[]	name=[Silhouette G]	npc_end
+npc_begin	id=12369	nickcolor=default	nick=[]	name=[Silhouette H]	npc_end
+npc_begin	id=12370	nickcolor=default	nick=[]	name=[Silhouette I]	npc_end
 npc_begin	id=12371	nickcolor=default	nick=[Event MC]	name=[Puss the Cat]	npc_end
-npc_begin	id=14999	nickcolor=default	nick=[Vote Event Manager]	name=[Thorin Oakenshield]	npc_end
+npc_begin	id=14999	nickcolor=default	nick=[75]	name=[Merchant Of Mammon]	npc_end
+
+npc_begin	id=15000        nickcolor=default	nick=[L2ReWorld.com]	name=[Buffer]	npc_end
+npc_begin	id=15001	nickcolor=default	nick=[Epic Boss]	name=[Fearsome]	npc_end
+npc_begin	id=15002	nickcolor=default	nick=[]	name=[Fearsome Archer]	npc_end
+npc_begin	id=15003	nickcolor=default	nick=[]	name=[Fearsome Captain]	npc_end
+npc_begin	id=15004	nickcolor=default	nick=[]	name=[Fearsome Shaman]	npc_end
+npc_begin	id=15005	nickcolor=default	nick=[]	name=[Fearsome Warrior]	npc_end
+npc_begin	id=15006	nickcolor=default	nick=[Epic Boss]	name=[Taran]	npc_end
+npc_begin	id=15007	nickcolor=default	nick=[]	name=[Fearsome Comander]	npc_end
+npc_begin	id=15008	nickcolor=default	nick=[75]	name=[Iron Gate]	npc_end
+npc_begin	id=15009	nickcolor=default	nick=[75]	name=[Lilim Assassin]	npc_end
+npc_begin	id=15010	nickcolor=default	nick=[68]	name=[Border Securyti]	npc_end
+npc_begin	id=15011	nickcolor=default	nick=[69]	name=[Border Beast]	npc_end
+npc_begin	id=15012	nickcolor=default	nick=[70]	name=[Border Usurper]	npc_end
+npc_begin	id=15013	nickcolor=default	nick=[72]	name=[Border Sniper]	npc_end
+npc_begin	id=15014	nickcolor=default	nick=[75]	name=[Border General]	npc_end
+npc_begin	id=15015	nickcolor=default	nick=[72]	name=[Border Arrow Throweer]	npc_end
+npc_begin	id=15016	nickcolor=default	nick=[20]	name=[Rock]	npc_end
+npc_begin	id=15017	nickcolor=default	nick=[L2ReWorld.com]	name=[GM Shop]	npc_end
+npc_begin	id=15018	nickcolor=default	nick=[Raid Fighter]	name=[Funny Bunny]	npc_end
+npc_begin	id=15019	nickcolor=default	nick=[Raid Boss]	name=[Unicorn Bunny]	npc_end
+npc_begin	id=15020	nickcolor=default	nick=[Gatekeeper]	name=[Bella]	npc_end
+npc_begin	id=12372	nickcolor=default	nick=[Epic Boss]	name=[Baium]	reserved1=0	npc_end
+npc_begin	id=15021	nickcolor=default	nick=[Small and cute]	name=[Mini Antaras]	reserved1=0	npc_end
+npc_begin	id=15022	nickcolor=default	nick=[]	name=[Baron Kakha]	npc_end
+npc_begin	id=15023	nickcolor=default	nick=[]	name=[Kakha Knight]	npc_end
+npc_begin	id=15024	nickcolor=default	nick=[]	name=[Kakha Sword Guard]	npc_end
+npc_begin	id=15025	nickcolor=default	nick=[]	name=[Kakha Bow Guard]	npc_end
+npc_begin	id=15026	nickcolor=default	nick=[]	name=[Highwayman]	npc_end
+npc_begin	id=15027	nickcolor=default	nick=[]	name=[Jostler]	npc_end
+npc_begin	id=15028	nickcolor=default	nick=[]	name=[Harlot]	npc_end
+npc_begin	id=15029	nickcolor=default	nick=[]	name=[Black Widow]	npc_end
+npc_begin	id=15030	nickcolor=default	nick=[]	name=[Sharper]	npc_end
+npc_begin	id=15031	nickcolor=000000	nick=[]	name=[Smashing Olga]	npc_end
+npc_begin	id=15032	nickcolor=default	nick=[]	name=[Ronheb]	npc_end
+npc_begin	id=15033	nickcolor=default	nick=[]	name=[Antonio Manchini]	npc_end
+npc_begin	id=15034	nickcolor=default	nick=[]	name=[Fabio Fontana]	npc_end
+npc_begin	id=15035	nickcolor=default	nick=[Event Manager]	name=[Santa Claus]	npc_end
+npc_begin	id=15036	nickcolor=default	nick=[]	name=[Christmas Tree]	npc_end
+npc_begin	id=15037	nickcolor=default	nick=[]	name=[Christmas Tree]	npc_end
+npc_begin	id=15038	nickcolor=default	nick=[]	name=[Santa Claus]	npc_end
+npc_begin	id=15039	nickcolor=default	nick=[Epic Boss]	name=[Galadriel]	npc_end
+npc_begin	id=15040	nickcolor=default	nick=[]	name=[Gil-Galad]	npc_end
+npc_begin	id=15041	nickcolor=default	nick=[Epic Boss]	name=[Sharku]	npc_end
+npc_begin	id=15042	nickcolor=default	nick=[]	name=[Pralltiller]	npc_end
+npc_begin	id=15043	nickcolor=default	nick=[]	name=[Gerbilator]	npc_end
+npc_begin	id=15044	nickcolor=default	nick=[]	name=[Friezer]	npc_end
